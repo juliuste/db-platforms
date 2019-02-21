@@ -1,0 +1,20 @@
+{"type":"perron","id":"8011674:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"378453650","stationName":"Gorgast","revised":true}
+{"type":"track","id":"8011674:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5213148680","stationName":"Gorgast","revised":true}
+{"type":"perron","id":"8013141:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"378470151","stationName":"Trebnitz (Mark)","revised":true}
+{"type":"track","id":"8013141:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5213148686","stationName":"Trebnitz (Mark)","revised":true}
+{"type":"perron","id":"8089101:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"188137280","stationName":"Berlin Eichborndamm","revised":true}
+{"type":"track","id":"8089101:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"610840995","stationName":"Berlin Eichborndamm","revised":true}
+{"type":"perron","id":"8089047:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"6563940","stationName":"Berlin Westkreuz","revised":true}
+{"type":"perron","id":"8089047:SB3","broken":false,"obsolete":false,"osmType":"relation","osmId":"6563941","stationName":"Berlin Westkreuz","revised":true}
+{"type":"perron","id":"8089047:SB2","broken":false,"obsolete":false,"osmType":"relation","osmId":"5550689","stationName":"Berlin Westkreuz","revised":true}
+{"type":"track","id":"8089047:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1745221443","stationName":"Berlin Westkreuz","revised":true}
+{"type":"track","id":"8089047:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2108146647","stationName":"Berlin Westkreuz","revised":true}
+{"type":"track","id":"8089047:SB3:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2108146652","stationName":"Berlin Westkreuz","revised":true}
+{"type":"track","id":"8089047:SB3:4","broken":false,"obsolete":false,"osmType":"node","osmId":"47786602","stationName":"Berlin Westkreuz","revised":true}
+{"type":"track","id":"8089047:SB2:11","broken":false,"obsolete":false,"osmType":"node","osmId":"1806004234","stationName":"Berlin Westkreuz","revised":true}
+{"type":"track","id":"8089047:SB2:12","broken":false,"obsolete":false,"osmType":"node","osmId":"27527830","stationName":"Berlin Westkreuz","revised":true}
+{"type":"perron","id":"8089025:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"225855324","stationName":"Berlin-Heiligensee","revised":true}
+{"type":"track","id":"8089025:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"27466530","stationName":"Berlin-Heiligensee","revised":true}
+{"type":"track","id":"8089025:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"340180942","stationName":"Berlin-Heiligensee","revised":true}
+{"type":"perron","id":"8089000:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3464153","stationName":"Berlin-Schulzendorf","revised":true}
+{"type":"track","id":"8089000:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2634967358","stationName":"Berlin-Schulzendorf","revised":true}
