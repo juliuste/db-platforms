@@ -1,0 +1,37 @@
+{
+	"name": "boilerplate",
+	"description": "",
+	"version": "0.0.0",
+	"keywords": [],
+	"author": "Julius Tens <mail@juliustens.eu>",
+	"homepage": "https://github.com/juliuste/boilerplate",
+	"repository": "juliuste/boilerplate",
+	"bugs": "https://github.com/juliuste/boilerplate/issues",
+	"main": "lib/index.js",
+	"files": [
+		"lib/*"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"depcheck": "^0.7.1",
+		"eslint": "^5.14.1",
+		"eslint-config-standard": "^12.0.0",
+		"eslint-plugin-import": "^2.16.0",
+		"eslint-plugin-node": "^8.0.1",
+		"eslint-plugin-promise": "^4.0.1",
+		"eslint-plugin-standard": "^4.0.0",
+		"tape": "^4.10.1"
+	},
+	"scripts": {
+		"build": "node build/index",
+		"check-deps": "depcheck",
+		"lint": "eslint lib build test.js",
+		"fix": "eslint --fix lib build test.js",
+		"test": "npm run lint && npm run check-deps && npm run build && node test",
+		"prepublishOnly": "npm run build && npm test"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"license": "ISC"
+}
