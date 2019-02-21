@@ -142,6 +142,30 @@ If you want to add information to the dataset, **[fork this repository](https://
 
 Please note that by contributing to this project, you waive any copyright claims on the information you add.
 
+### CLI
+
+If you want to contribute to this project, you can either add data to `osm.ndjson` manually or use the CLI as follows:
+
+1. Clone the repository (or your fork)
+
+```bash
+git clone https://github.com/juliuste/db-perrons.git
+```
+
+2. Navigate to the repository root
+
+```bash
+cd db-perrons
+```
+
+3. Use the CLI to add entries to `osm.ndjson`
+
+```bash
+./build/bin/index # starts the cli
+./build/bin/index --help # shows the help menu
+./build/bin/index --auto-open # starts the CLI, opens OpenStreetMap around stations automatically (only on mac OS, using 'open' CLI)
+```
+
 ## License
 
 The original dataset was released as [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/), the crowdsourced database of OpenStreetMap associations is licensed as [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de).
