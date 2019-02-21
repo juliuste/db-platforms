@@ -6,4 +6,5 @@ const boilerplate = require('.')
 
 tape('boiler-plate', t => {
 	t.ok(boilerplate)
+	t.end()
 })

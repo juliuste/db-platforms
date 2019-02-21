@@ -1,18 +1,32 @@
 {
-	"name": "boilerplate",
-	"description": "",
+	"name": "db-perrons",
+	"description": "Deutsche Bahn perron (platform) and track information, enriched with OSM data.",
 	"version": "0.0.0",
-	"keywords": [],
-	"author": "Julius Tens <mail@juliustens.eu>",
-	"homepage": "https://github.com/juliuste/boilerplate",
-	"repository": "juliuste/boilerplate",
-	"bugs": "https://github.com/juliuste/boilerplate/issues",
-	"main": "lib/index.js",
-	"files": [
-		"lib/*"
+	"keywords": [
+		"deutsche",
+		"bahn",
+		"german",
+		"railways",
+		"train",
+		"track",
+		"perron",
+		"platform",
+		"bahnsteig",
+		"gleis",
+		"osm",
+		"openstreetmap"
 	],
-	"dependencies": {},
+	"author": "Julius Tens <mail@juliustens.eu>",
+	"homepage": "https://github.com/juliuste/db-perrons",
+	"repository": "juliuste/db-perrons",
+	"bugs": "https://github.com/juliuste/db-perrons/issues",
+	"main": "data.json",
+	"files": [
+		"./data.json"
+	],
 	"devDependencies": {
+		"csv-parse": "^4.3.3",
+		"db-stations": "^2.10.0",
 		"depcheck": "^0.7.1",
 		"eslint": "^5.14.1",
 		"eslint-config-standard": "^12.0.0",
@@ -20,18 +34,22 @@
 		"eslint-plugin-node": "^8.0.1",
 		"eslint-plugin-promise": "^4.0.1",
 		"eslint-plugin-standard": "^4.0.0",
+		"get-stream": "^4.1.0",
+		"got": "^9.6.0",
+		"lodash": "^4.17.11",
+		"ndjson": "^1.5.0",
 		"tape": "^4.10.1"
 	},
 	"scripts": {
-		"build": "node build/index",
+		"build": "node build/index > data.json",
 		"check-deps": "depcheck",
-		"lint": "eslint lib build test.js",
-		"fix": "eslint --fix lib build test.js",
+		"lint": "eslint build test.js",
+		"fix": "eslint --fix build test.js",
 		"test": "npm run lint && npm run check-deps && npm run build && node test",
 		"prepublishOnly": "npm run build && npm test"
 	},
 	"engines": {
 		"node": ">=8"
 	},
-	"license": "ISC"
+	"license": "CC-BY 4.0"
 }
