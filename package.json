@@ -25,6 +25,7 @@
 		"./data.json"
 	],
 	"devDependencies": {
+		"@derhuerst/query-overpass": "^1.0.1",
 		"chalk": "^2.4.2",
 		"cli-autocomplete": "^0.4.1",
 		"csv-parse": "^4.3.3",
@@ -42,8 +43,10 @@
 		"lodash": "^4.17.11",
 		"mri": "^1.1.4",
 		"ndjson": "^1.5.0",
+		"p-retry": "^3.0.1",
 		"select-prompt": "^0.3.1",
 		"tape": "^4.10.1",
+		"tape-promise": "^4.0.0",
 		"text-prompt": "^0.1.2"
 	},
 	"scripts": {
