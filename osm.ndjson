@@ -14572,3 +14572,68 @@
 {"type":"track","id":"8089025:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"340180942","stationName":"Berlin-Heiligensee","revised":true}
 {"type":"perron","id":"8089000:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3464153","stationName":"Berlin-Schulzendorf","revised":true}
 {"type":"track","id":"8089000:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2634967358","stationName":"Berlin-Schulzendorf","revised":true}
+{"type":"perron","id":"8010255:SB2","broken":false,"obsolete":false,"osmType":"relation","osmId":"3717995","stationName":"Berlin Ostbahnhof","revised":true}
+{"type":"track","id":"8010255:SB2:10","broken":false,"obsolete":false,"osmType":"node","osmId":"412193321","stationName":"Berlin Ostbahnhof","revised":true}
+{"type":"track","id":"8010255:SB2:11","broken":false,"obsolete":false,"osmType":"node","osmId":"2837556545","stationName":"Berlin Ostbahnhof","revised":true}
+{"type":"perron","id":"8010255:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3717993","stationName":"Berlin Ostbahnhof","revised":true}
+{"type":"track","id":"8010255:SB1:9","broken":false,"obsolete":false,"osmType":"node","osmId":"2837556544","stationName":"Berlin Ostbahnhof","revised":true}
+{"type":"track","id":"8010255:SB1:8","broken":false,"obsolete":false,"osmType":"node","osmId":"1745157973","stationName":"Berlin Ostbahnhof","revised":true}
+{"type":"perron","id":"8010404:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"6566930","stationName":"Berlin-Spandau","revised":true}
+{"type":"track","id":"8010404:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"610780825","stationName":"Berlin-Spandau","revised":true}
+{"type":"track","id":"8010404:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"4208739687","stationName":"Berlin-Spandau","revised":true}
+{"type":"perron","id":"8011113:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"6844110","stationName":"Berlin Südkreuz","revised":true}
+{"type":"track","id":"8011113:SB1:11","broken":false,"obsolete":false,"osmType":"node","osmId":"1095078318","stationName":"Berlin Südkreuz","revised":true}
+{"type":"track","id":"8011113:SB1:12","broken":false,"obsolete":false,"osmType":"node","osmId":"4946539230","stationName":"Berlin Südkreuz","revised":true}
+{"type":"perron","id":"8011113:SB2","broken":false,"obsolete":false,"osmType":"way","osmId":"48124062","stationName":"Berlin Südkreuz","revised":true}
+{"type":"track","id":"8011113:SB2:1","broken":false,"obsolete":false,"osmType":"node","osmId":"604676232","stationName":"Berlin Südkreuz","revised":true}
+{"type":"track","id":"8011113:SB2:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1095078257","stationName":"Berlin Südkreuz","revised":true}
+{"type":"perron","id":"8011160:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"930922","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:SB1:15","broken":false,"obsolete":false,"osmType":"node","osmId":"27412648","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:SB1:16","broken":false,"obsolete":false,"osmType":"node","osmId":"2813070486","stationName":"Berlin Hbf","revised":true}
+{"type":"perron","id":"8011160:B04","broken":false,"obsolete":false,"osmType":"way","osmId":"202719944","stationName":"Berlin Hbf","revised":true}
+{"type":"perron","id":"8011160:B03","broken":false,"obsolete":false,"osmType":"way","osmId":"202719942","stationName":"Berlin Hbf","revised":true}
+{"type":"perron","id":"8011160:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"202719941","stationName":"Berlin Hbf","revised":true}
+{"type":"perron","id":"8011160:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"202719939","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100095","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100097","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100096","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100098","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B03:5","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100099","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B03:6","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100099","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B04:7","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100101","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8011160:B04:8","broken":false,"obsolete":false,"osmType":"node","osmId":"3856100102","stationName":"Berlin Hbf","revised":true}
+{"type":"track","id":"8089077:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"316778068","stationName":"Berlin-Neukölln","revised":true}
+{"type":"perron","id":"8011102:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3721105","stationName":"Berlin Gesundbrunnen","revised":true}
+{"type":"track","id":"8011102:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1127966939","stationName":"Berlin Gesundbrunnen","revised":true}
+{"type":"track","id":"8011102:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2490859942","stationName":"Berlin Gesundbrunnen","revised":true}
+{"type":"perron","id":"8011102:SB2","broken":false,"obsolete":false,"osmType":"relation","osmId":"3721106","stationName":"Berlin Gesundbrunnen","revised":true}
+{"type":"track","id":"8011102:SB2:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4264720740","stationName":"Berlin Gesundbrunnen","revised":true}
+{"type":"track","id":"8011102:SB2:4","broken":false,"obsolete":false,"osmType":"node","osmId":"1127966949","stationName":"Berlin Gesundbrunnen","revised":true}
+{"type":"perron","id":"8011155:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3637412","stationName":"Berlin Alexanderplatz","revised":true}
+{"type":"track","id":"8011155:SB1:3","broken":false,"obsolete":false,"osmType":"node","osmId":"27411231","stationName":"Berlin Alexanderplatz","revised":true}
+{"type":"track","id":"8011155:SB1:4","broken":false,"obsolete":false,"osmType":"node","osmId":"574265352","stationName":"Berlin Alexanderplatz","revised":true}
+{"type":"perron","id":"8011306:SB3","broken":false,"obsolete":false,"osmType":"relation","osmId":"3409969","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"track","id":"8011306:SB3:5","broken":false,"obsolete":false,"osmType":"node","osmId":"27412232","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"track","id":"8011306:SB3:6","broken":false,"obsolete":false,"osmType":"node","osmId":"2603331695","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"perron","id":"8011306:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"195269288","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"track","id":"8011306:SB1:11","broken":false,"obsolete":false,"osmType":"node","osmId":"474368351","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"track","id":"8011306:SB1:12","broken":false,"obsolete":false,"osmType":"node","osmId":"1930939368","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"track","id":"8011306:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"366500581","stationName":"Berlin Friedrichstraße","revised":true}
+{"type":"perron","id":"8013470:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"48122480","stationName":"Bernau(b Berlin)","revised":true}
+{"type":"track","id":"8013470:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"322810794","stationName":"Bernau(b Berlin)","revised":true}
+{"type":"track","id":"8013470:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1151363753","stationName":"Bernau(b Berlin)","revised":true}
+{"type":"perron","id":"8011046:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"99553055","stationName":"Berlin-Karow","revised":true}
+{"type":"track","id":"8011046:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1151363923","stationName":"Berlin-Karow","revised":true}
+{"type":"track","id":"8011046:B01:4","broken":false,"obsolete":false,"osmType":"node","osmId":"1151363532","stationName":"Berlin-Karow","revised":true}
+{"type":"track","id":"8089080:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1127966950","stationName":"Berlin-Pankow","revised":true}
+{"type":"perron","id":"8010041:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"94232963","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"track","id":"8010041:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"29921550","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"track","id":"8010041:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"1095078277","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"perron","id":"8010041:B03","broken":false,"obsolete":false,"osmType":"way","osmId":"40162650","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"track","id":"8010041:B03:5","broken":false,"obsolete":false,"osmType":"node","osmId":"261744786","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"track","id":"8010041:B03:6","broken":false,"obsolete":false,"osmType":"node","osmId":"1095078217","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"track","id":"8010041:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3508654672","stationName":"Berlin-Schöneweide","revised":true}
+{"type":"track","id":"8089013:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"21385742","stationName":"Berlin Frankfurter Allee","revised":false}
+{"type":"perron","id":"8013021:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"48040466","stationName":"Berlin-Staaken","revised":true}
+{"type":"track","id":"8013021:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2400635511","stationName":"Berlin-Staaken","revised":true}
+{"type":"track","id":"8013021:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"141801940","stationName":"Berlin-Staaken","revised":true}
