@@ -14744,3 +14744,49 @@
 {"type":"perron","id":"8089100:SB1","osmType":"relation","osmId":"5377150","stationName":"Jungfernheide","revised":true}
 {"type":"track","id":"8089100:SB1:3","osmType":"node","osmId":"3656889352","stationName":"Jungfernheide","revised":true}
 {"type":"track","id":"8089100:SB1:4","osmType":"node","osmId":"3656889353","stationName":"Jungfernheide","revised":true}
+{"type":"perron","id":"8002549:SB2","osmType":"way","osmId":"152813951","stationName":"Hamburg Hbf","revised":true}
+{"type":"track","id":"8002549:SB2:3","osmType":"node","osmId":"1359198012","stationName":"Hamburg Hbf","revised":true}
+{"type":"track","id":"8002549:SB2:4","osmType":"node","osmId":"1412279568","stationName":"Hamburg Hbf","revised":true}
+{"type":"perron","id":"8002549:SB1","osmType":"relation","osmId":"4869406","stationName":"Hamburg Hbf","revised":true}
+{"type":"track","id":"8002549:SB1:1","osmType":"node","osmId":"1359198009","stationName":"Hamburg Hbf","revised":true}
+{"type":"track","id":"8002549:SB1:2","osmType":"node","osmId":"315230133","stationName":"Hamburg Hbf","revised":true}
+{"type":"perron","id":"8001007:SB1","osmType":"way","osmId":"24406685","stationName":"Blankenese","revised":true}
+{"type":"track","id":"8001007:SB1:1","osmType":"node","osmId":"1686603356","stationName":"Blankenese","revised":true}
+{"type":"track","id":"8001007:SB2:2","osmType":"node","osmId":"273959865","stationName":"Blankenese","revised":true}
+{"type":"track","id":"8001007:SB2:3","osmType":"node","osmId":"1359198022","stationName":"Blankenese","revised":true}
+{"type":"perron","id":"8002555:SB1","osmType":"way","osmId":"46897200","stationName":"Eidelstedt","revised":true}
+{"type":"track","id":"8002555:SB1:1","osmType":"node","osmId":"1720998956","stationName":"Eidelstedt","revised":true}
+{"type":"track","id":"8002555:SB1:2","osmType":"node","osmId":"248847413","stationName":"Eidelstedt","revised":true}
+{"type":"perron","id":"8000908:SB1","osmType":"way","osmId":"30997392","stationName":"Berliner Tor","revised":true}
+{"type":"track","id":"8000908:SB1:1","osmType":"node","osmId":"24764341","stationName":"Berliner Tor","revised":true}
+{"type":"track","id":"8000908:SB1:2","osmType":"node","osmId":"534744871","stationName":"Berliner Tor","revised":true}
+{"type":"perron","id":"8000908:SB2","osmType":"way","osmId":"30997394","stationName":"Berliner Tor","revised":true}
+{"type":"track","id":"8000908:SB2:3","osmType":"node","osmId":"534744853","stationName":"Berliner Tor","revised":true}
+{"type":"perron","id":"8000908:SB3","osmType":"way","osmId":"30997322","stationName":"Berliner Tor","revised":true}
+{"type":"track","id":"8000908:SB3:11","osmType":"node","osmId":"260552521","stationName":"Berliner Tor","revised":true}
+{"type":"track","id":"8000908:SB3:12","osmType":"node","osmId":"534744842","stationName":"Berliner Tor","revised":true}
+{"type":"track","id":"8002547:SB1:4","osmType":"node","osmId":"294498374","stationName":"Hamburg Airport (Flughafen)","revised":true}
+{"type":"perron","id":"8098553:B03","osmType":"way","osmId":"42873615","stationName":"Hamburg-Altona","revised":true}
+{"type":"perron","id":"8098553:B04","osmType":"way","osmId":"662729031","stationName":"Hamburg-Altona","revised":true}
+{"type":"perron","id":"8098553:B05","osmType":"way","osmId":"42873617","stationName":"Hamburg-Altona","revised":true}
+{"type":"perron","id":"8098553:B06","osmType":"way","osmId":"662729032","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B03:5","osmType":"node","osmId":"1686600813","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B03:6","osmType":"node","osmId":"1686600812","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B04:7","osmType":"node","osmId":"1686600811","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B04:8","osmType":"node","osmId":"1686600810","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B05:9","osmType":"node","osmId":"1686600809","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B05:10","osmType":"node","osmId":"1686600808","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B06:11","osmType":"node","osmId":"1686600807","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:B06:12","osmType":"node","osmId":"1686600814","stationName":"Hamburg-Altona","revised":true}
+{"type":"perron","id":"8098553:SB2","osmType":"way","osmId":"42838505","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:SB2:3","osmType":"node","osmId":"535951140","stationName":"Hamburg-Altona","revised":true}
+{"type":"track","id":"8098553:SB2:4","osmType":"node","osmId":"300809530","stationName":"Hamburg-Altona","revised":true}
+{"type":"perron","id":"8000147:SB1","osmType":"way","osmId":"26414278","stationName":"Hamburg-Harburg","revised":true}
+{"type":"track","id":"8000147:SB1:S 1","osmType":"node","osmId":"29361442","stationName":"Hamburg-Harburg","revised":true}
+{"type":"track","id":"8000147:SB1:S 2","osmType":"node","osmId":"289402377","stationName":"Hamburg-Harburg","revised":true}
+{"type":"perron","id":"8002557:B01","osmType":"way","osmId":"19798184","stationName":"Hamburg-Neugraben","revised":true}
+{"type":"track","id":"8002557:B01:4","osmType":"node","osmId":"28212207","stationName":"Hamburg-Neugraben","revised":true}
+{"type":"track","id":"8002557:B01:5","osmType":"node","osmId":"305430606","stationName":"Hamburg-Neugraben","revised":true}
+{"type":"perron","id":"8002559:SB1","osmType":"relation","osmId":"6235896","stationName":"Stellingen","revised":true}
+{"type":"track","id":"8002559:SB1:1","osmType":"node","osmId":"248846609","stationName":"Stellingen","revised":true}
+{"type":"track","id":"8002559:SB1:2","osmType":"node","osmId":"280998653","stationName":"Stellingen","revised":true}

@@ -2,16 +2,15 @@
 
 List of stations that have not been (fully) covered yet, sorted by Bundesland.
 
-**2877 of 5354** stations fully covered **(53.7%)**.
+**2886 of 5354** stations fully covered **(53.9%)**.
 
-**1 of 16** Bundesländer fully covered **(6.3%)**.
+**2 of 16** Bundesländer fully covered **(12.5%)**.
 ## Contents
 
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
 - [Brandenburg](#brandenburg)
 - [Bremen](#bremen)
-- [Hamburg](#hamburg)
 - [Hessen](#hessen)
 - [Mecklenburg-Vorpommern](#mecklenburg-vorpommern)
 - [Niedersachsen](#niedersachsen)
@@ -1028,19 +1027,6 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Bremen-Sebaldsbrück - 8001164
 - Bremen-St Magnus - 8001165
 - Bremen-Walle - 8001167
-
-
-## Hamburg
-
-- Berliner Tor - 8000908
-- Blankenese - 8001007
-- Eidelstedt - 8002555
-- Hamburg Airport (Flughafen) - 8002547
-- Hamburg Hbf - 8002549
-- Hamburg-Altona - 8098553
-- Hamburg-Harburg - 8000147
-- Hamburg-Neugraben - 8002557
-- Stellingen - 8002559
 
 
 ## Hessen
