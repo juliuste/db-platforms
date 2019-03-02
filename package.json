@@ -26,6 +26,9 @@
 	],
 	"devDependencies": {
 		"@derhuerst/query-overpass": "^1.0.1",
+		"@turf/boolean-contains": "^6.0.1",
+		"@turf/flatten": "^5.1.5",
+		"@turf/helpers": "^6.1.4",
 		"chalk": "^2.4.2",
 		"cli-autocomplete": "^0.4.1",
 		"csv-parse": "^4.3.3",
@@ -37,7 +40,9 @@
 		"eslint-plugin-node": "^8.0.1",
 		"eslint-plugin-promise": "^4.0.1",
 		"eslint-plugin-standard": "^4.0.0",
+		"german-administrative-areas": "^0.2.0",
 		"get-stream": "^4.1.0",
+		"github-slugger": "^1.2.1",
 		"got": "^9.6.0",
 		"is-uic-location-code": "^0.0.1",
 		"lodash": "^4.17.11",
@@ -50,8 +55,10 @@
 		"text-prompt": "^0.1.2"
 	},
 	"scripts": {
-		"build": "node build/index > data.json",
+		"build": "npm run build-data && npm run generate-todo",
+		"build-data": "node build/index > data.json",
 		"check-deps": "depcheck",
+		"generate-todo": "node build/generate-todo > todo.md",
 		"lint": "eslint build test.js",
 		"fix": "eslint --fix build test.js",
 		"test": "npm run lint && npm run check-deps && npm run build && node test",

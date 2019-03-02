@@ -142,6 +142,8 @@ If you want to add information to the dataset, **[fork this repository](https://
 
 Please note that by contributing to this project, you waive any copyright claims on the information you add.
 
+See the [**todo list**](todo.md) for a list of stations that have not been (fully) covered yet.
+
 ### CLI
 
 If you want to contribute to this project, you can either add data to `osm.ndjson` manually or use the CLI as follows:
