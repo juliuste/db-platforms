@@ -14790,3 +14790,59 @@
 {"type":"perron","id":"8002559:SB1","osmType":"relation","osmId":"6235896","stationName":"Stellingen","revised":true}
 {"type":"track","id":"8002559:SB1:1","osmType":"node","osmId":"248846609","stationName":"Stellingen","revised":true}
 {"type":"track","id":"8002559:SB1:2","osmType":"node","osmId":"280998653","stationName":"Stellingen","revised":true}
+{"type":"perron","id":"8000446:B01","osmType":"relation","osmId":"6293529","stationName":"Ahrensburg","revised":true}
+{"type":"perron","id":"8000446:B02","osmType":"relation","osmId":"6293530","stationName":"Ahrensburg","revised":true}
+{"type":"track","id":"8000446:B01:2","osmType":"node","osmId":"6313023952","stationName":"Ahrensburg","revised":true}
+{"type":"track","id":"8000446:B02:3","osmType":"node","osmId":"6313023953","stationName":"Ahrensburg","revised":true}
+{"type":"perron","id":"8000416:B01","osmType":"way","osmId":"320415930","stationName":"Achterwehr","revised":true}
+{"type":"track","id":"8000416:B01:1","osmType":"node","osmId":"6313028976","stationName":"Achterwehr","revised":true}
+{"type":"track","id":"8000011:B01:2","osmType":"node","osmId":"70363590","stationName":"Ascheberg (Holst)","revised":true}
+{"type":"track","id":"8000669:SB1:3","osmType":"node","osmId":"3999126247","stationName":"Aumühle","revised":true}
+{"type":"perron","id":"8000023:B04","osmType":"relation","osmId":"7892262","stationName":"Bad Oldesloe","revised":true}
+{"type":"perron","id":"8000023:B02","osmType":"way","osmId":"119293137","stationName":"Bad Oldesloe","revised":true}
+{"type":"track","id":"8000023:B02:4","osmType":"node","osmId":"4226128763","stationName":"Bad Oldesloe","revised":true}
+{"type":"track","id":"8000804:B02:3","osmType":"node","osmId":"6313068760","stationName":"Bargteheide","revised":true}
+{"type":"perron","id":"8001136:B01","osmType":"way","osmId":"320427269","stationName":"Bredenbek","revised":true}
+{"type":"track","id":"8001136:B01:1","osmType":"node","osmId":"6313073668","stationName":"Bredenbek","revised":true}
+{"type":"track","id":"8001139:B01:2","osmType":"node","osmId":"4393571741","stationName":"Bredstedt","revised":true}
+{"type":"perron","id":"8001654:B02","osmType":"way","osmId":"432924493","stationName":"Eckernförde","revised":true}
+{"type":"perron","id":"8001654:B03","osmType":"way","osmId":"43376082","stationName":"Eckernförde","revised":true}
+{"type":"track","id":"8001654:B02:2","osmType":"node","osmId":"5820238305","stationName":"Eckernförde","revised":true}
+{"type":"track","id":"8001654:B03:3","osmType":"node","osmId":"2417016463","stationName":"Eckernförde","revised":true}
+{"type":"perron","id":"8001718:B01","osmType":"way","osmId":"76142318","stationName":"Einfeld","revised":true}
+{"type":"perron","id":"8001718:B02","osmType":"way","osmId":"76142324","stationName":"Einfeld","revised":true}
+{"type":"track","id":"8001718:B01:1","osmType":"node","osmId":"21259432","stationName":"Einfeld","revised":true}
+{"type":"track","id":"8001718:B02:2","osmType":"node","osmId":"936005216","stationName":"Einfeld","revised":true}
+{"type":"perron","id":"8000092:B01","osmType":"relation","osmId":"7906582","stationName":"Elmshorn","revised":true}
+{"type":"perron","id":"8000092:B02","osmType":"relation","osmId":"7906583","stationName":"Elmshorn","revised":true}
+{"type":"track","id":"8000092:B02:3","osmType":"node","osmId":"4053198946","stationName":"Elmshorn","revised":true}
+{"type":"perron","id":"8000103:B01","osmType":"relation","osmId":"7908944","stationName":"Flensburg","revised":true}
+{"type":"perron","id":"8000103:B02","osmType":"relation","osmId":"7908945","stationName":"Flensburg","revised":true}
+{"type":"track","id":"8000103:B02:5","osmType":"node","osmId":"4265542546","stationName":"Flensburg","revised":true}
+{"type":"perron","id":"8000199:B01","osmType":"relation","osmId":"7894345","stationName":"Kiel Hbf","revised":true}
+{"type":"perron","id":"8000199:B02","osmType":"relation","osmId":"7894346","stationName":"Kiel Hbf","revised":true}
+{"type":"perron","id":"8000199:B03","osmType":"relation","osmId":"7894347","stationName":"Kiel Hbf","revised":true}
+{"type":"perron","id":"8000237:B01","osmType":"relation","osmId":"7894817","stationName":"Lübeck Hbf","revised":true}
+{"type":"perron","id":"8000237:B02","osmType":"relation","osmId":"7894816","stationName":"Lübeck Hbf","revised":true}
+{"type":"perron","id":"8000237:B03","osmType":"relation","osmId":"7894815","stationName":"Lübeck Hbf","revised":true}
+{"type":"perron","id":"8000237:B04","osmType":"relation","osmId":"7894814","stationName":"Lübeck Hbf","revised":true}
+{"type":"perron","id":"8003102:B01","osmType":"relation","osmId":"7911410","stationName":"Itzehoe","revised":true}
+{"type":"perron","id":"8003102:B02","osmType":"relation","osmId":"7911411","stationName":"Itzehoe","revised":true}
+{"type":"perron","id":"8000181:B02","osmType":"relation","osmId":"7909693","stationName":"Husum","revised":true}
+{"type":"perron","id":"8000181:B03","osmType":"relation","osmId":"7909692","stationName":"Husum","revised":true}
+{"type":"perron","id":"8000155:B04","osmType":"relation","osmId":"6321861","stationName":"Heide (Holst)","revised":true}
+{"type":"perron","id":"8004343:B01","osmType":"relation","osmId":"7911614","stationName":"Niebüll","revised":true}
+{"type":"perron","id":"8004343:B02","osmType":"relation","osmId":"7911613","stationName":"Niebüll","revised":true}
+{"type":"perron","id":"8004819:SB2","osmType":"way","osmId":"85059546","stationName":"Pinneberg","revised":true}
+{"type":"track","id":"8004819:SB2:1","osmType":"node","osmId":"3707303137","stationName":"Pinneberg","revised":true}
+{"type":"perron","id":"8004819:SB3","osmType":"relation","osmId":"6093058","stationName":"Pinneberg","revised":true}
+{"type":"perron","id":"8004819:B01","osmType":"relation","osmId":"7915819","stationName":"Pinneberg","revised":true}
+{"type":"perron","id":"8000271:B01","osmType":"relation","osmId":"6093312","stationName":"Neumünster","revised":true}
+{"type":"perron","id":"8000271:B02","osmType":"relation","osmId":"6093310","stationName":"Neumünster","revised":true}
+{"type":"perron","id":"8000271:B03","osmType":"relation","osmId":"6093311","stationName":"Neumünster","revised":true}
+{"type":"perron","id":"8006369:B01","osmType":"relation","osmId":"7916065","stationName":"Westerland (Sylt)","revised":true}
+{"type":"perron","id":"8006369:B02","osmType":"relation","osmId":"7916064","stationName":"Westerland (Sylt)","revised":true}
+{"type":"track","id":"8006236:SB1:1","osmType":"node","osmId":"340397018","stationName":"Wedel (Holst)","revised":true}
+{"type":"track","id":"8006236:SB1:2","osmType":"node","osmId":"68628693","stationName":"Wedel (Holst)","revised":true}
+{"type":"perron","id":"8004177:B01","osmType":"way","osmId":"238846272","stationName":"Müssen","revised":true}
+{"type":"track","id":"8004177:B01:1","osmType":"node","osmId":"1242123774","stationName":"Müssen","revised":true}

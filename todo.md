@@ -2,7 +2,7 @@
 
 List of stations that have not been (fully) covered yet, sorted by Bundesland.
 
-**2886 of 5354** stations fully covered **(53.9%)**.
+**2908 of 5354** stations fully covered **(54.3%)**.
 
 **2 of 16** Bundesländer fully covered **(12.5%)**.
 ## Contents
@@ -2309,42 +2309,22 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 
 ## Schleswig-Holstein
 
-- Achterwehr - 8000416
-- Ahrensburg - 8000446
-- Ascheberg (Holst) - 8000011
-- Aumühle - 8000669
-- Bad Oldesloe - 8000023
-- Bargteheide - 8000804
-- Bredenbek - 8001136
 - Bredstedt - 8001139
 - Büchen - 8000058
-- Eckernförde - 8001654
-- Einfeld - 8001718
-- Elmshorn - 8000092
 - Felde - 8001977
-- Flensburg - 8000103
 - Flintbek - 8002011
 - Friedrichsruh - 8002113
 - Glückstadt - 8002293
 - Großenbrode - 8002411
 - Haffkrug - 8002504
-- Heide (Holst) - 8000155
-- Husum - 8000181
-- Itzehoe - 8003102
-- Kiel Hbf - 8000199
 - Kiel-Hassee CITTIPARK - 8003474
 - Kiel-Russee - 8003253
 - Kremperheide - 8003431
 - Lübeck Dänischburg IKEA - 8003786
-- Lübeck Hbf - 8000237
 - Lübeck-Travemünde Strand - 8003778
 - Melsdorf - 8003960
-- Müssen - 8004177
-- Neumünster - 8000271
 - Neustadt (Holst) - 8004327
-- Niebüll - 8004343
 - Oldenburg (Holst) - 8004669
-- Pinneberg - 8004819
 - Puttgarden - 8004903
 - Raisdorf - 8004924
 - Schwarzenbek - 8005468
@@ -2354,8 +2334,6 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Süderbrarup - 8005782
 - Thesdorf - 8005858
 - Timmendorferstrand - 8005874
-- Wedel (Holst) - 8006236
-- Westerland (Sylt) - 8006369
 
 
 ## Thüringen
