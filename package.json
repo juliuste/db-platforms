@@ -1,7 +1,7 @@
 {
 	"name": "db-perrons",
 	"description": "Deutsche Bahn perron (platform) and track information, enriched with OSM data.",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"keywords": [
 		"deutsche",
 		"bahn",
