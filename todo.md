@@ -2,14 +2,13 @@
 
 List of stations that have not been (fully) covered yet, sorted by Bundesland.
 
-**2846 of 5356** stations fully covered **(53.1%)**.
+**2877 of 5354** stations fully covered **(53.7%)**.
 
-**0 of 16** Bundesländer fully covered **(0%)**.
+**1 of 16** Bundesländer fully covered **(6.3%)**.
 ## Contents
 
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
-- [Berlin](#berlin)
 - [Brandenburg](#brandenburg)
 - [Bremen](#bremen)
 - [Hamburg](#hamburg)
@@ -885,43 +884,6 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Zollhaus-Petersthal - 8006670
 - Zwiesel (Bay) - 8006684
 - Übersee - 8005940
-
-
-## Berlin
-
-- Ahrensfelde - 8011003
-- Alt-Reinickendorf - 8089103
-- Baumschulenweg - 8089004
-- Berlin Anhalter Bahnhof - 8089002
-- Berlin Potsdamer Platz - 8089032
-- Berlin Zoologischer Garten - 8010406
-- Berlin-Adlershof - 8089052
-- Berlin-Blankenburg - 8089056
-- Berlin-Charlottenburg - 8010403
-- Berlin-Friedrichshagen - 8089060
-- Berlin-Hohenschönhausen - 8011901
-- Berlin-Karlshorst - 8010035
-- Berlin-Lichtenberg - 8010036
-- Berlin-Lichterfelde Ost - 8089113
-- Berlin-Lichterfelde West - 8089071
-- Berlin-Mahlsdorf - 8089072
-- Berlin-Wannsee - 8010405
-- Betriebsbahnhof Berlin-Schöneweide - 8089007
-- Biesdorf - 8089055
-- Julius-Leber-Brücke - 8089537
-- Jungfernheide - 8089100
-- Karl-Bonhoeffer-Nervenklinik - 8089102
-- Oberspree - 8089079
-- Olympiastadion - 8089330
-- Ostkreuz - 8011162
-- Priesterweg - 8089034
-- Savignyplatz - 8089037
-- Schönhauser Allee - 8089039
-- Sonnenallee - 8089327
-- Treptower Park - 8089043
-- Warschauer Straße - 8089045
-- Wartenberg - 8089093
-- Wuhlheide - 8089097
 
 
 ## Brandenburg

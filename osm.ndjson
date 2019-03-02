@@ -14637,3 +14637,110 @@
 {"type":"perron","id":"8013021:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"48040466","stationName":"Berlin-Staaken","revised":true}
 {"type":"track","id":"8013021:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2400635511","stationName":"Berlin-Staaken","revised":true}
 {"type":"track","id":"8013021:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"141801940","stationName":"Berlin-Staaken","revised":true}
+{"type":"perron","id":"8011162:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"5660337","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"track","id":"8011162:SB1:11","broken":false,"obsolete":false,"osmType":"node","osmId":"1797163098","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"track","id":"8011162:SB1:12","broken":false,"obsolete":false,"osmType":"node","osmId":"1797163101","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"perron","id":"8011162:SB3","broken":false,"obsolete":false,"osmType":"way","osmId":"385274295","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"track","id":"8011162:SB3:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4439191866","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"track","id":"8011162:SB3:4","broken":false,"obsolete":false,"osmType":"node","osmId":"4095970528","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"perron","id":"8011162:SB2","broken":false,"obsolete":false,"osmType":"way","osmId":"283330919","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"track","id":"8011162:SB2:5","broken":false,"obsolete":false,"osmType":"node","osmId":"4095970537","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"track","id":"8011162:SB2:6","broken":false,"obsolete":false,"osmType":"node","osmId":"5316085166","stationName":"Berlin Ostkreuz","revised":true}
+{"type":"perron","id":"8089052:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"5979370","stationName":"Berlin-Adlershof","revised":true}
+{"type":"perron","id":"8010406:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3641992","stationName":"Berlin Zoologischer Garten","revised":true}
+{"type":"track","id":"8010406:SB1:5","broken":false,"obsolete":false,"osmType":"node","osmId":"2781518430","stationName":"Berlin Zoologischer Garten","revised":true}
+{"type":"track","id":"8010406:SB1:6","broken":false,"obsolete":false,"osmType":"node","osmId":"1745221448","stationName":"Berlin Zoologischer Garten","revised":true}
+{"type":"track","id":"8089002:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2460456045","stationName":"Berlin Anhalter Bf","revised":true}
+{"type":"perron","id":"8010403:SB3","broken":false,"obsolete":false,"osmType":"way","osmId":"74765228","stationName":"Berlin-Charlottenburg","revised":true}
+{"type":"track","id":"8010403:SB3:5","broken":false,"obsolete":false,"osmType":"node","osmId":"1920671950","stationName":"Berlin-Charlottenburg","revised":true}
+{"type":"track","id":"8010403:SB3:6","broken":false,"obsolete":false,"osmType":"node","osmId":"276520242","stationName":"Berlin-Charlottenburg","revised":true}
+{"type":"perron","id":"8010403:SB4","broken":false,"obsolete":false,"osmType":"way","osmId":"47658847","stationName":"Berlin-Charlottenburg","revised":true}
+{"type":"track","id":"8010403:SB4:7","broken":false,"obsolete":false,"osmType":"node","osmId":"3808290435","stationName":"Berlin-Charlottenburg","revised":true}
+{"type":"track","id":"8010403:SB4:8","broken":false,"obsolete":false,"osmType":"node","osmId":"1920671945","stationName":"Berlin-Charlottenburg","revised":true}
+{"type":"track","id":"8089079:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"29921532","stationName":"Berlin-Oberspree","revised":true}
+{"type":"track","id":"8089093:B01:11","broken":false,"obsolete":false,"osmType":"node","osmId":"1117011806","stationName":"Berlin-Wartenberg","revised":true}
+{"type":"track","id":"8089093:B01:12","broken":false,"obsolete":false,"osmType":"node","osmId":"320937195","stationName":"Berlin-Wartenberg","revised":true}
+{"type":"perron","id":"8089055:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"47973088","stationName":"Berlin-Biesdorf","revised":true}
+{"type":"track","id":"8089055:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1117011725","stationName":"Berlin-Biesdorf","revised":true}
+{"type":"perron","id":"8089055:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"47973090","stationName":"Berlin-Biesdorf","revised":true}
+{"type":"track","id":"8089055:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1117011619","stationName":"Berlin-Biesdorf","revised":true}
+{"type":"perron","id":"8089537:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"3673179","stationName":"Berlin Julius-Leber-Brücke","revised":true}
+{"type":"perron","id":"8089537:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"3673180","stationName":"Berlin Julius-Leber-Brücke","revised":true}
+{"type":"perron","id":"8089327:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"5567105","stationName":"Berlin Sonnenallee","revised":true}
+{"type":"track","id":"8089043:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"1106283897","stationName":"Berlin Treptower Park","revised":true}
+{"type":"track","id":"8089097:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"248086110","stationName":"Berlin-Wuhlheide","revised":true}
+{"type":"perron","id":"8089071:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"47888525","stationName":"Berlin-Lichterfelde West","revised":true}
+{"type":"track","id":"8089071:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"567173974","stationName":"Berlin-Lichterfelde West","revised":true}
+{"type":"track","id":"8089071:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1797290854","stationName":"Berlin-Lichterfelde West","revised":true}
+{"type":"perron","id":"8089007:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"5979371","stationName":"Berlin Betriebsbf Schöneweide","revised":true}
+{"type":"perron","id":"8089039:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"32440863","stationName":"Berlin Schönhauser Allee","revised":true}
+{"type":"track","id":"8089039:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1127967036","stationName":"Berlin Schönhauser Allee","revised":true}
+{"type":"track","id":"8089039:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1127966977","stationName":"Berlin Schönhauser Allee","revised":true}
+{"type":"perron","id":"8010405:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"3680548","stationName":"Berlin Wannsee","revised":true}
+{"type":"track","id":"8010405:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"316922303","stationName":"Berlin Wannsee","revised":true}
+{"type":"track","id":"8010405:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2813143286","stationName":"Berlin Wannsee","revised":true}
+{"type":"track","id":"8010405:SB2:4","broken":false,"obsolete":false,"osmType":"node","osmId":"2813143285","stationName":"Berlin Wannsee","revised":true}
+{"type":"perron","id":"8010405:B04","broken":false,"obsolete":false,"osmType":"way","osmId":"335185673","stationName":"Berlin Wannsee","revised":true}
+{"type":"track","id":"8010405:B04:8","broken":false,"obsolete":false,"osmType":"node","osmId":"1354118500","stationName":"Berlin Wannsee","revised":true}
+{"type":"perron","id":"8011901:B03","broken":false,"obsolete":false,"osmType":"way","osmId":"42975811","stationName":"Berlin-Hohenschönhausen","revised":true}
+{"type":"track","id":"8011901:B03:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1117011913","stationName":"Berlin-Hohenschönhausen","revised":true}
+{"type":"track","id":"8011901:B03:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1117011866","stationName":"Berlin-Hohenschönhausen","revised":true}
+{"type":"perron","id":"8089004:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"2524980","stationName":"Berlin Baumschulenweg","revised":true}
+{"type":"track","id":"8089004:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"262322666","stationName":"Berlin Baumschulenweg","revised":true}
+{"type":"track","id":"8089004:B01:5","broken":false,"obsolete":false,"osmType":"node","osmId":"621239643","stationName":"Berlin Baumschulenweg","revised":true}
+{"type":"perron","id":"8089037:SB1","broken":true,"stationName":"Berlin Savignyplatz","revised":true}
+{"type":"track","id":"8089037:SB1:1","broken":true,"stationName":"Berlin Savignyplatz","revised":true}
+{"type":"track","id":"8089037:SB1:2","broken":true,"stationName":"Berlin Savignyplatz","revised":true}
+{"type":"perron","id":"8089102:SB1","broken":true,"stationName":"Berlin Karl-Bonhoeffer-Nervenklinik","revised":true}
+{"type":"track","id":"8089102:SB1:1","broken":true,"stationName":"Berlin Karl-Bonhoeffer-Nervenklinik","revised":true}
+{"type":"perron","id":"8089034:SB1","broken":true,"stationName":"Berlin Priesterweg","revised":true}
+{"type":"perron","id":"8089034:SB2","broken":true,"stationName":"Berlin Priesterweg","revised":true}
+{"type":"track","id":"8089060:B01:4","broken":true,"stationName":"Berlin-Friedrichshagen","revised":true}
+{"type":"perron","id":"8011003:B02","osmType":"way","osmId":"36961257","stationName":"Ahrensfelde","revised":true}
+{"type":"track","id":"8011003:B02:41","osmType":"node","osmId":"1117011745","stationName":"Ahrensfelde","revised":true}
+{"type":"track","id":"8011003:B01:42","osmType":"node","osmId":"1117011810","stationName":"Ahrensfelde","revised":true}
+{"type":"perron","id":"8089045:SB1","broken":true,"stationName":"Berlin Warschauer Straße","revised":true}
+{"type":"track","id":"8089103:SB1:2","obsolete":true,"stationName":"Berlin Alt-Reinickendorf","revised":true}
+{"type":"track","id":"8089056:B01:2","broken":true,"stationName":"Berlin-Blankenburg","revised":true}
+{"type":"perron","id":"8010036:SB1","osmType":"way","osmId":"41557261","stationName":"Berlin-Lichtenberg","revised":true}
+{"type":"track","id":"8010036:SB1:1","osmType":"node","osmId":"1117011942","stationName":"Berlin-Lichtenberg","revised":true}
+{"type":"track","id":"8010036:SB1:2","osmType":"node","osmId":"320929401","stationName":"Berlin-Lichtenberg","revised":true}
+{"type":"perron","id":"8089330:SB1","osmType":"relation","osmId":"4106239","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"perron","id":"8089330:SB2","osmType":"relation","osmId":"4106236","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"perron","id":"8089330:SB3","osmType":"relation","osmId":"4106235","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"perron","id":"8089330:SB4","osmType":"relation","osmId":"4106238","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"perron","id":"8089330:SB5","osmType":"relation","osmId":"4106237","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB2:3","osmType":"node","osmId":"4947719406","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB2:4","osmType":"node","osmId":"4947719405","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB3:5","osmType":"node","osmId":"4947719404","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB3:6","osmType":"node","osmId":"4947719403","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB4:7","osmType":"node","osmId":"4947719402","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB4:8","osmType":"node","osmId":"4947719401","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB5:9","osmType":"node","osmId":"4947719400","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"track","id":"8089330:SB5:10","osmType":"node","osmId":"1959145344","stationName":"Berlin Olympiastadion","revised":true}
+{"type":"perron","id":"8089032:B01","osmType":"way","osmId":"237532199","stationName":"Berlin Potsdamer Platz","revised":true}
+{"type":"track","id":"8089032:B01:1","osmType":"node","osmId":"27424921","stationName":"Berlin Potsdamer Platz","revised":true}
+{"type":"track","id":"8089032:B01:2","osmType":"node","osmId":"2456043652","stationName":"Berlin Potsdamer Platz","revised":true}
+{"type":"perron","id":"8089032:B02","osmType":"way","osmId":"237532200","stationName":"Berlin Potsdamer Platz","revised":true}
+{"type":"track","id":"8089032:B02:3","osmType":"node","osmId":"2456043651","stationName":"Berlin Potsdamer Platz","revised":true}
+{"type":"track","id":"8089032:B02:4","osmType":"node","osmId":"2456043650","stationName":"Berlin Potsdamer Platz","revised":true}
+{"type":"perron","id":"8089113:B01","osmType":"way","osmId":"47888220","stationName":"Berlin-Lichterfelde Ost","revised":true}
+{"type":"track","id":"8089113:B01:3","osmType":"node","osmId":"2622289351","stationName":"Berlin-Lichterfelde Ost","revised":true}
+{"type":"perron","id":"8089113:B02","osmType":"way","osmId":"47888221","stationName":"Berlin-Lichterfelde Ost","revised":true}
+{"type":"track","id":"8089113:B02:4","osmType":"node","osmId":"260759770","stationName":"Berlin-Lichterfelde Ost","revised":true}
+{"type":"perron","id":"8089072:B01","osmType":"way","osmId":"96388805","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"track","id":"8089072:B01:1","osmType":"node","osmId":"1117011640","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"track","id":"8089072:B01:2","osmType":"node","osmId":"1117011628","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"perron","id":"8089072:B02","osmType":"way","osmId":"47973207","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"track","id":"8089072:B02:3","osmType":"node","osmId":"1117011882","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"track","id":"8089072:B02:4","osmType":"node","osmId":"1117011847","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"perron","id":"8010035:B03","osmType":"relation","osmId":"6414593","stationName":"Berlin-Karlshorst","revised":true}
+{"type":"track","id":"8010035:B03:11","osmType":"node","osmId":"29809225","stationName":"Berlin-Karlshorst","revised":true}
+{"type":"track","id":"8010035:B03:12","osmType":"node","osmId":"1106283879","stationName":"Berlin-Karlshorst","revised":true}
+{"type":"perron","id":"8010035:B01","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
+{"type":"perron","id":"8010035:B02","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
+{"type":"track","id":"8010035:B01:1","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
+{"type":"track","id":"8010035:B02:2","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
+{"type":"perron","id":"8089100:SB1","osmType":"relation","osmId":"5377150","stationName":"Jungfernheide","revised":true}
+{"type":"track","id":"8089100:SB1:3","osmType":"node","osmId":"3656889352","stationName":"Jungfernheide","revised":true}
+{"type":"track","id":"8089100:SB1:4","osmType":"node","osmId":"3656889353","stationName":"Jungfernheide","revised":true}
