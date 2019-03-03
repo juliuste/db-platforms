@@ -41,6 +41,13 @@ const main = () => {
 	process.stdout.write('\n\n')
 	process.stdout.write('List of stations that have not been (fully) covered yet, sorted by Bundesland.')
 	process.stdout.write('\n\n')
+
+	const everything = [...fullData.perrons, ...fullData.tracks]
+	const coveredLength = everything.filter(item => !!item.osm).length
+	const coveredPercentage = Math.round(1000 * (coveredLength / everything.length)) / 10
+	process.stdout.write(`**${coveredLength} of ${everything.length}** perrons/tracks covered **(${coveredPercentage}%)**.`)
+	process.stdout.write('\n\n')
+
 	const coveredStationsLength = allStations.length - incompleteStations.length
 	const coveredStationsPercentage = Math.round(1000 * (coveredStationsLength / allStations.length)) / 10
 	process.stdout.write(`**${coveredStationsLength} of ${allStations.length}** stations fully covered **(${coveredStationsPercentage}%)**.`)
