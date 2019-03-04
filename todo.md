@@ -1,14 +1,2492 @@
 # ToDo
 
-List of stations that have not been (fully) covered yet, sorted by Bundesland.
+List of stations that have not been (fully) covered yet.
+
+- [By Category](#by-category)
+- [By Bundesland](#by-bundesland)
 
 **14842 of 21094** perrons/tracks covered **(70.4%)**.
 
 **2916 of 5354** stations fully covered **(54.5%)**.
 
-**2 of 16** Bundesländer fully covered **(12.5%)**.
-## Contents
+## By Category
 
+- [Category 1](#category-1)
+- [Category 2](#category-2)
+- [Category 3](#category-3)
+- [Category 4](#category-4)
+- [Category 5](#category-5)
+- [Category 6](#category-6)
+- [Category 7](#category-7)
+
+### Category 1
+
+- Dortmund Hbf - 8000080
+- Dresden Hbf - 8010085
+- Düsseldorf Hbf - 8000085
+- Essen Hbf - 8000098
+- Frankfurt (Main) Hbf - 8000105
+- Hannover Hbf - 8000152
+- Karlsruhe Hbf - 8000191
+- Köln Hbf - 8000207
+- Köln Messe/Deutz - 8003368
+- Leipzig Hbf - 8010205
+- Mannheim Hbf - 8000244
+- München Hbf - 8000261
+- München Ost - 8000262
+- Nürnberg Hbf - 8000284
+- Stuttgart Hbf - 8098096
+
+
+### Category 2
+
+- Aschaffenburg Hbf - 8000010
+- Augsburg Hbf - 8000013
+- Bielefeld Hbf - 8000036
+- Bietigheim-Bissingen - 8000038
+- Bochum Hbf - 8000041
+- Bonn Hbf - 8000044
+- Bremen Hbf - 8000050
+- Bruchsal - 8000055
+- Chemnitz Hbf - 8010184
+- Cottbus - 8010073
+- Darmstadt Hbf - 8000068
+- Dresden-Neustadt - 8010089
+- Düsseldorf Flughafen - 8000082
+- Erfurt Hbf - 8010101
+- Freiburg (Breisgau) Hbf - 8000107
+- Fulda - 8000115
+- Fürth (Bay) Hbf - 8000114
+- Gelsenkirchen Hbf - 8000118
+- Gießen - 8000124
+- Hagen Hbf - 8000142
+- Halle (Saale) Hbf - 8010159
+- Hamm (Westf) - 8000149
+- Hanau Hbf - 8000150
+- Herford - 8000162
+- Hildesheim Hbf - 8000169
+- Ingolstadt Hbf - 8000183
+- Kaiserslautern Hbf - 8000189
+- Kassel Hbf - 8000193
+- Kassel-Wilhelmshöhe - 8003200
+- Koblenz Hbf - 8000206
+- Landshut (Bay) Hbf - 8000217
+- Lüneburg - 8000238
+- Magdeburg Hbf - 8010224
+- Mainz Hbf - 8000240
+- Mönchengladbach Hbf - 8000253
+- Münster (Westf) Hbf - 8000263
+- Oberhausen Hbf - 8000286
+- Offenburg - 8000290
+- Oldenburg (Oldb) Hbf - 8000291
+- Osnabrück Hbf - 8000294
+- Paderborn Hbf - 8000297
+- Pforzheim Hbf - 8000299
+- Plochingen - 8000302
+- Potsdam Hbf - 8012666
+- Regensburg Hbf - 8000309
+- Rosenheim - 8000320
+- Saarbrücken Hbf - 8000323
+- Singen (Hohentwiel) - 8000073
+- Trier Hbf - 8000134
+- Tübingen Hbf - 8000141
+- Uelzen - 8000168
+- Ulm Hbf - 8000170
+- Weimar - 8010366
+- Worms Hbf - 8000257
+- Wuppertal Hbf - 8000266
+- Würzburg Hbf - 8000260
+
+
+### Category 3
+
+- Altbach - 8000508
+- Altenbeken - 8000004
+- Alzey - 8000007
+- Andernach - 8000331
+- Ansbach - 8000009
+- Au (Sieg) - 8000012
+- Augsburg-Hochzoll - 8000661
+- Bad Harzburg - 8000019
+- Bad Hersfeld - 8000020
+- Bad Homburg - 8000712
+- Bad Oeynhausen - 8000732
+- Bad Schandau - 8010022
+- Bad Vilbel - 8000760
+- Baden-Baden - 8000774
+- Bayreuth Hbf - 8000028
+- Bebra - 8000029
+- Bergen auf Rügen - 8010033
+- Berlin-Schönefeld Flughafen - 8010109
+- Bitterfeld - 8010050
+- Bonn-Bad Godesberg - 8001082
+- Buchholz (Nordheide) - 8000056
+- Buchloe - 8000057
+- Bullay DB - 8001267
+- Böblingen - 8001055
+- Büchen - 8000058
+- Castrop-Rauxel Hbf - 8001327
+- Celle Pbf - 8000064
+- Dachau Bahnhof - 8001354
+- Dessau Hbf - 8010077
+- Düren - 8000084
+- Eberbach - 8000369
+- Emden Hbf - 8001768
+- Erkner - 8013477
+- Esslingen-Mettingen - 8001921
+- Esslingen-Zell - 8006642
+- Euskirchen - 8000100
+- Fellbach - 8001974
+- Feucht - 8001978
+- Finnentrop - 8000102
+- Frankenthal Hbf - 8000332
+- Frankfurt (Main) Flughafen Regionalbahnhof - 8070004
+- Frankfurt (Main) Konstablerwache - 8004429
+- Frankfurt (Main) Niederrad - 8002050
+- Frankfurt am Main Flughafen Fernbahnhof - 8070003
+- Frankfurt am Main Stadion - 8002040
+- Frankfurt-Höchst - 8000106
+- Freilassing - 8000108
+- Friedberg (Hess) - 8000111
+- Friedrichshafen Stadt - 8000112
+- Fröndenberg - 8000113
+- Garmisch-Partenkirchen - 8002187
+- Gera Hbf - 8010125
+- Glauchau (Sachs) - 8010129
+- Goslar - 8000130
+- Graben-Neudorf - 8000131
+- Grafing Bahnhof - 8002347
+- Greven - 8002369
+- Groß Gerau-Dornberg - 8002386
+- Göppingen - 8000127
+- Görlitz - 8010131
+- Günzburg - 8000139
+- Gütersloh Hbf - 8002461
+- Halberstadt - 8010157
+- Hameln - 8000148
+- Hennigsdorf (b Berlin) - 8013483
+- Herzogenrath - 8002806
+- Hof Hbf - 8002924
+- Hofheim (Taunus) - 8002935
+- Homburg (Saar) Hbf - 8000176
+- Horrem - 8000178
+- Ingolstadt Nord - 8003076
+- Jena-Göschwitz - 8010133
+- Karlsruhe-Durlach - 8003184
+- Kempten (Allgäu) Hbf - 8000197
+- Konstanz - 8003400
+- Kornwestheim Pbf - 8003411
+- Köln-Ehrenfeld - 8000208
+- Köln-Mülheim - 8000209
+- Köthen - 8010195
+- Landstuhl - 8003515
+- Leer (Ostfriesl) - 8000225
+- Lehrte - 8000226
+- Leinefelde - 8010203
+- Leonberg - 8003652
+- Lichtenfels - 8000228
+- Limburg (Lahn) - 8000229
+- Lindau Hbf - 8000230
+- Ludwigsburg - 8000235
+- Lutherstadt Wittenberg Hauptbahnhof - 8010222
+- Marburg (Lahn) - 8000337
+- Mering - 8003982
+- Merzig (Saar) - 8003992
+- Minden (Westf) - 8000252
+- Mühlacker - 8000339
+- Mülheim (Ruhr) Hbf - 8000259
+- Mülheim (Ruhr)-Styrum - 8000687
+- München Karlsplatz - 8004132
+- München Marienplatz - 8004135
+- München-Giesing - 8004148
+- Nauen - 8010239
+- Naumburg (Saale) Hbf - 8010240
+- Neudietendorf - 8010242
+- Neunkirchen (Saar) Hbf - 8000272
+- Neuwied - 8000276
+- Nienburg (Weser) - 8000279
+- Nordhausen - 8010256
+- Northeim (Han) - 8000283
+- Oberesslingen - 8004528
+- Oranienburg - 8013487
+- Passau Hbf - 8000298
+- Reichenbach (Vogtl) ob Bf - 8012739
+- Renningen - 8000313
+- Riesa - 8010297
+- Roth - 8005185
+- Rottweil - 8000322
+- Rüsselsheim - 8005220
+- Saarlouis Hbf - 8005247
+- Schifferstadt - 8000326
+- Schwabach - 8005439
+- Schweinfurt Hbf - 8000032
+- Schönebeck (Elbe) - 8010318
+- Siegburg/Bonn - 8005556
+- Siegen - 8000046
+- St. Ingbert - 8005649
+- Stendal - 8010334
+- Stuttgart-Untertürkheim Pbf - 8005775
+- Stuttgart-Zuffenhausen - 8005778
+- Traunstein - 8000116
+- Treuchtlingen - 8000122
+- Troisdorf - 8000135
+- Unna - 8000171
+- Verden (Aller) - 8006076
+- Viersen - 8000174
+- Völklingen - 8000175
+- Wanne-Eickel Hbf - 8000192
+- Waren (Müritz) - 8010361
+- Warnemünde - 8013236
+- Weiden (Oberpf) - 8000204
+- Weinheim (Bergstr) - 8000377
+- Weißenfels - 8010368
+- Wetzlar - 8000383
+- Winnenden - 8006479
+- Wunstorf - 8000268
+- Wuppertal-Oberbarmen - 8006719
+- Wuppertal-Vohwinkel - 8006718
+- Zwickau (Sachs) Hbf - 8010397
+
+
+### Category 4
+
+- Achim - 8000413
+- Ahlen (Westf) - 8000441
+- Alfeld (Leine) - 8000483
+- Apolda - 8011051
+- Arnsberg (Westf) - 8000605
+- Aschersleben Pbf - 8010009
+- Asperg - 8000630
+- Augsburg-Oberhausen - 8000662
+- Bad Endorf (Oberbay) - 8001787
+- Bad Hönningen - 8000711
+- Bad Krozingen - 8000718
+- Bad Langensalza - 8010020
+- Bad Nauheim - 8000728
+- Bad Schönborn Süd - 8003533
+- Balingen (Württ) - 8000353
+- Bassum - 8000354
+- Bautzen - 8010026
+- Biblis - 8000503
+- Bingen (Rhein) Hbf - 8000039
+- Bingen (Rhein) Stadt - 8000976
+- Blankenfelde (Kr Teltow-Fläming) - 8010053
+- Bobenheim - 8001032
+- Bobingen - 8001033
+- Bodenheim - 8000359
+- Bondorf (b Herrenberg) - 8001080
+- Bonn-Beuel - 8001083
+- Boppard Hbf - 8000045
+- Bornheim-Sechtem - 8005499
+- Brackwede - 8000048
+- Brannenburg - 8001129
+- Bredstedt - 8001139
+- Bremen-Mahndorf - 8001160
+- Bremen-Walle - 8001167
+- Butzbach - 8001312
+- Bückeburg - 8001245
+- Cham (Oberpf) - 8001330
+- Coburg - 8001338
+- Cochem (Mosel) - 8001340
+- Coswig (Bz Dresden) - 8010072
+- Darmstadt-Eberstadt - 8001379
+- Dedensen / Gümmer - 8001393
+- Delitzsch unt Bf - 8010076
+- Denzlingen - 8001415
+- Dieburg - 8000362
+- Diepholz - 8001443
+- Dillenburg - 8000074
+- Dillingen (Saar) - 8000075
+- Donaueschingen - 8000077
+- Donauwörth - 8000078
+- Dorsten - 8006709
+- Dortmund Signal-Iduna-Park - 8001522
+- Dreieich-Buchschlag - 8001236
+- Dresden Mitte - 8013444
+- Dresden-Klotzsche - 8010088
+- Dülmen - 8000083
+- Ebersbach (Fils) - 8001632
+- Ehingen (Donau) - 8001684
+- Eichenberg - 8000090
+- Eichstätt Bahnhof - 8001708
+- Eilenburg - 8010095
+- Einbeck-Salzderhelden - 8005264
+- Eislingen (Fils) - 8001731
+- Elsterwerda - 8010099
+- Elze (Han) - 8000093
+- Endersbach - 8001785
+- Engen - 8001790
+- Erbach (Württ) - 8001820
+- Erftstadt - 8003671
+- Erzhausen - 8001864
+- Erzingen (Baden) - 8001865
+- Essen-Steele Ost - 8001913
+- Etelsen - 8001924
+- Flughafen Leipzig/Halle - 8012183
+- Flughafen München - 8004168
+- Flöha - 8010108
+- Flörsheim (Main) - 8002013
+- Forchheim (Oberfr) - 8002024
+- Frankfurt (Main) Stresemannallee - 8002059
+- Frankfurt-Griesheim - 8002046
+- Frankfurt-Louisa - 8002047
+- Freinsheim - 8000374
+- Freital-Hainsberg - 8010116
+- Friedrichsdorf (Taunus) - 8002108
+- Fürstenfeldbruck - 8002141
+- Fürstenwalde (Spree) - 8010120
+- Gauting - 8002198
+- Geislingen (Steige) - 8002218
+- Gelnhausen - 8000117
+- Gengenbach - 8002235
+- Genthin - 8010123
+- Georgensgmünd - 8002237
+- Gifhorn - 8000185
+- Gottmadingen - 8002337
+- Groß Gerau - 8000136
+- Groß Karben - 8002388
+- Großkorbetha - 8010146
+- Grunbach - 8002448
+- Grünstadt - 8000137
+- Gunzenhausen - 8000385
+- Halle-Neustadt - 8010160
+- Hannover Bismarckstraße - 8002580
+- Hannover Karl-Wiechert-Allee - 8070086
+- Hannover-Flughafen - 8002589
+- Hannover-Messe / Laatzen - 8003487
+- Hattersheim (Main) - 8002637
+- Hausach - 8000333
+- Haßfurt - 8002630
+- Heidelberg-Kirchheim/Rohrbach - 8002686
+- Heidenau - 8010163
+- Heidenheim - 8002689
+- Herborn (Dillkr) - 8000161
+- Hersbruck (rechts Pegnitz) - 8002794
+- Hochheim (Main) - 8002872
+- Hochspeyer - 8002875
+- Hockenheim - 8002883
+- Hofgeismar - 8002933
+- Hürth-Kalscheuren - 8003160
+- Ibbenbüren - 8003036
+- Idar-Oberstein - 8003040
+- Immendingen - 8000182
+- Ingelheim - 8003075
+- Jüterbog - 8010182
+- Kahl (Main) - 8003143
+- Kamen - 8003168
+- Karlstadt (Main) - 8003189
+- Kaufbeuren - 8000194
+- Kaufering - 8000195
+- Kehl - 8003218
+- Kettwig - 8000198
+- Kiefersfelden - 8003249
+- Kirchhain (Bz Kassel) - 8000435
+- Kirchheim (Teck) - 8003280
+- Kirchweyhe - 8003292
+- Kissing - 8003299
+- Kitzingen - 8000479
+- Korntal - 8003409
+- Kreuztal - 8000214
+- Kulmbach - 8003476
+- Köln Süd - 8003361
+- Köln-Dellbrück - 8003367
+- Köln-Longerich - 8003371
+- Königslutter - 8003382
+- Königswinter - 8003386
+- Lahr (Schwarzw) - 8003494
+- Lambrecht (Pfalz) - 8003497
+- Lampertheim - 8003503
+- Landau (Pfalz) Hbf - 8000216
+- Langen (Hess) - 8003523
+- Langenselbold - 8003550
+- Langwedel - 8000586
+- Lauffen (Neckar) - 8003588
+- Leipzig-Gohlis - 8012188
+- Leipzig-Stötteritz - 8012194
+- Lennestadt-Altenhundem - 8000532
+- Leverkusen Mitte - 8006713
+- Lindern - 8003697
+- Lorsbach - 8003754
+- Ludwigsfelde - 8010215
+- Ludwigshafen-Oggersheim - 8003766
+- Ludwigslust - 8010216
+- Löbau (Sachs) - 8010212
+- Löhne (Westf) - 8000233
+- Lörrach Hbf - 8003729
+- Lübben (Spreewald) - 8010217
+- Lübbenau (Spreewald) - 8010220
+- Lünen Hbf - 8000239
+- Maintal Ost - 8002877
+- Mainz-Bischofsheim - 8000241
+- Mainz-Gustavsburg - 8003818
+- Mainz-Kastel - 8000615
+- Mammendorf - 8004204
+- Mannheim ARENA / Maimarkt - 8003841
+- Mannheim-Neckarau - 8003844
+- Mannheim-Waldhof - 8003848
+- Marbach (Neckar) - 8003853
+- Markt Schwaben - 8003879
+- Meppen - 8003978
+- Mering-St Afra - 8004008
+- Merseburg - 8010232
+- Meschede - 8003993
+- Mindelheim - 8000338
+- Mittenwald - 8004043
+- Montabaur - 8000667
+- Moosburg - 8004084
+- Murnau - 8004185
+- Mörfelden - 8004065
+- Mühlheim (Main) - 8004112
+- Müllheim (Baden) - 8004124
+- München Leuchtenbergring - 8004134
+- München-Riem Pbf - 8004160
+- Münster-Hiltrup - 8002841
+- Neu Isenburg - 8004246
+- Neubeckum - 8004251
+- Neuenmarkt-Wirsberg - 8000267
+- Neuhaus (Pegnitz) - 8004284
+- Neukieritzsch - 8010243
+- Neustadt (Aisch) Bahnhof - 8004323
+- Neustadt a Rübenberge - 8004322
+- Niedernhausen (Taunus) - 8004400
+- Nürnberg-Frankenstadion - 8004493
+- Oberkotzau - 8000287
+- Oberursel (Taunus) - 8004596
+- Oelde - 8004626
+- Offenbach (Main) Hbf - 8000349
+- Oftersheim - 8004658
+- Opladen - 8000853
+- Osnabrück Altstadt - 8004689
+- Osterburken - 8000295
+- Osthofen - 8004714
+- Parsberg - 8004755
+- Pegnitz - 8004759
+- Pirmasens Nord - 8000876
+- Pleinfeld - 8004835
+- Plettenberg - 8004838
+- Plüderhausen - 8004842
+- Porta Westfalica - 8004868
+- Porz (Rhein) - 8004869
+- Potsdam Griebnitzsee - 8011695
+- Puchheim - 8004893
+- Radeberg - 8012699
+- Radolfzell - 8000880
+- Rastatt - 8000306
+- Rathenow - 8010296
+- Raubling - 8004955
+- Raunheim - 8004962
+- Ravensburg - 8004965
+- Rheda-Wiedenbrück - 8000315
+- Rheinfelden (Baden) - 8005064
+- Rheydt Hbf - 8000318
+- Ribnitz-Damgarten West - 8012763
+- Riedstadt-Goddelau - 8000126
+- Rottendorf - 8005198
+- Rudolstadt (Thür) - 8010306
+- Rödermark-Ober Roden - 8000285
+- Rüsselsheim Opelwerk - 8005221
+- Saarburg (Bz Trier) - 8005245
+- Salzbergen - 8005262
+- Sangerhausen - 8010312
+- Schlüchtern - 8000891
+- Schopfheim - 8005420
+- Schwaikheim - 8005454
+- Schwerte (Ruhr) - 8000037
+- Schwetzingen - 8005494
+- Schwäbisch Gmünd - 8000329
+- Seelze Pbf - 8005507
+- Siegelsdorf - 8005557
+- Siegen-Weidenau - 8003020
+- Sinsheim (Elsenz) Hbf - 8005578
+- Sinzig (Rhein) - 8005580
+- Sonneberg (Thür) Hbf - 8013008
+- Sonthofen - 8005609
+- St. Wendel - 8005659
+- Stadtallendorf - 8005661
+- Starnberg - 8005676
+- Steinach (b Rothenburg o.d. Tauber) - 8000091
+- Straubing - 8000095
+- Strausberg - 8010341
+- Stuttgart Flughafen/Messe - 8005768
+- Stuttgart Neckarpark - 8006743
+- Stuttgart-Feuerbach - 8005770
+- Stuttgart-Obertürkheim - 8005772
+- Sömmerda - 8010328
+- Süßen - 8005790
+- Tharandt - 8013114
+- Thesdorf - 8005858
+- Torgau - 8010351
+- Treysa - 8000129
+- Twistringen - 8005929
+- Türkheim (Bay) Bahnhof - 8000144
+- Vellmar-Obervellmar - 8004597
+- Vienenburg - 8000364
+- Villingen (Schwarzw) - 8000366
+- Vilshofen (Niederbay) - 8006086
+- Wabern (Bz Kassel) - 8000368
+- Warburg (Westf) - 8000196
+- Weetzen - 8000342
+- Weil am Rhein - 8006272
+- Weilheim (Oberbay) - 8000220
+- Weißenburg (Bay) - 8006298
+- Werder (Havel) - 8010373
+- Wilhelmshaven - 8006445
+- Wittlich Hbf - 8000379
+- Wuppertal Zoologischer Garten - 8006623
+- Wuppertal-Unterbarmen - 8006620
+- Wächtersbach - 8006132
+- Zittau - 8010393
+
+
+### Category 5
+
+- Adorf (Vogtl) - 8010001
+- Aichach - 8000452
+- Alsfeld (Oberhess) - 8000350
+- Amberg - 8000566
+- Ampfing - 8000576
+- Amstetten (Württ) - 8000577
+- Armsheim - 8000602
+- Ashausen - 8000627
+- Assmannshausen - 8000635
+- Auggen - 8000657
+- Babenhausen (Hess) - 8000015
+- Bacharach - 8000683
+- Bad Aibling - 8000690
+- Bad Bentheim - 8000879
+- Bad Kissingen - 8000714
+- Bad Lausick - 8011077
+- Bad Münder (Deister) - 8000725
+- Bad Neustadt (Saale) - 8000730
+- Bad Rappenau - 8000736
+- Bad Schussenried - 8000746
+- Bad Sobernheim - 8005583
+- Bad Soden (Taunus) - 8000752
+- Bad Soden-Salmünster - 8005261
+- Bad Staffelstein - 8005670
+- Bad Säckingen - 8005255
+- Bad Zwischenahn - 8000770
+- Barnstorf (Han) - 8000807
+- Barsinghausen - 8000812
+- Baunatal-Guntershausen - 8000140
+- Bennemühlen - 8000871
+- Bensheim-Auerbach - 8000877
+- Beratzhausen - 8000882
+- Berchtesgaden Hbf - 8000885
+- Bernau-Friedenstal - 8089099
+- Besigheim - 8000925
+- Biberach (Baden) - 8000942
+- Biebesheim - 8000951
+- Biederitz - 8010047
+- Bischofswerda - 8010049
+- Blankenburg (Harz) - 8013439
+- Blaubeuren - 8001013
+- Bleicherode Ost - 8010055
+- Blumberg (b Berlin) - 8011211
+- Bochum-Dahlhausen - 8001038
+- Bodenwöhr Nord - 8001054
+- Bohmte - 8001071
+- Borken (Hess) - 8001098
+- Borna (b Leipzig) - 8011242
+- Borsdorf (Sachs) - 8010059
+- Brachbach - 8001112
+- Brake (b Bielefeld) - 8001118
+- Bramsche - 8001122
+- Braubach - 8001130
+- Brebach - 8001135
+- Breisach - 8001143
+- Breitengüßbach - 8001149
+- Bremen-Oslebshausen - 8001162
+- Bremen-Sebaldsbrück - 8001164
+- Bremen-St Magnus - 8001165
+- Brilon Wald - 8000054
+- Brohl - 8001186
+- Burgau (Schwab) - 8001276
+- Böbingen (Rems) - 8005979
+- Bönen - 8001061
+- Bübingen - 8001238
+- Büchenbach - 8001242
+- Chemnitz Süd - 8010185
+- Creußen (Oberfr) - 8001348
+- Cölbe - 8000065
+- Darmstadt Nord - 8001375
+- Darmstadt Süd - 8001377
+- Deggendorf Hbf - 8001397
+- Demmin - 8011356
+- Dernau - 8001417
+- Dietzenbach-Mitte - 8001455
+- Dietzenbach-Steinberg - 8001459
+- Dillingen (Donau) - 8001463
+- Dingolfing - 8001466
+- Dollbergen - 8001492
+- Dorfen Bahnhof - 8001499
+- Dresden Bischofsplatz - 8011416
+- Dresden Flughafen - 8011399
+- Dresden Freiberger Straße - 8011431
+- Dresden Industriegelände - 8011418
+- Dresden-Dobritz - 8011420
+- Dresden-Friedrichstadt - 8013475
+- Dresden-Niedersedlitz Hp - 8011422
+- Dresden-Pieschen - 8011423
+- Dresden-Plauen - 8013476
+- Dresden-Reick - 8011424
+- Dresden-Strehlen - 8011426
+- Dresden-Trachau - 8011427
+- Dresden-Zschachwitz - 8011428
+- Duisburg-Hochfeld Süd - 8001605
+- Durmersheim - 8001616
+- Ebenhausen (Unterfr) - 8001620
+- Ebersbach (Sachs) - 8010092
+- Edermünde-Grifte - 8002374
+- Efringen-Kirchen - 8001671
+- Egelsbach - 8001672
+- Eggmühl - 8001679
+- Ehrang - 8000370
+- Eilenburg Ost - 8010161
+- Eilsleben (b Magdeburg) - 8010096
+- Eisenhüttenstadt - 8011471
+- Ellwangen - 8001751
+- Eltville - 8001763
+- Emmerich - 8001773
+- Emmerthal - 8001777
+- Empel-Rees - 8001780
+- Emskirchen - 8001783
+- Engers - 8000094
+- Erfurt Nord - 8010102
+- Eschborn - 8001870
+- Eschhofen - 8001883
+- Eschweiler Hbf - 8001886
+- Ettlingen West - 8001926
+- Fallersleben - 8001957
+- Flieden - 8002010
+- Frankfurt-Mainkur - 8002048
+- Freiberg (Neckar) - 8002065
+- Freital-Deuben - 8011569
+- Freital-Potschappel - 8013445
+- Friedrichshafen Flughafen - 8002120
+- Friedrichshafen Hafen - 8002110
+- Fröttstädt - 8010118
+- Furth im Wald - 8002159
+- Fürstenberg (Havel) - 8010399
+- Gablingen - 8002162
+- Geithain - 8010122
+- Gensingen-Horrweiler - 8000121
+- Gera Süd - 8010126
+- Gernsheim - 8002249
+- Geseke - 8002262
+- Giengen (Brenz) - 8002272
+- Glauburg-Stockheim - 8000347
+- Glückstadt - 8002293
+- Grafing Stadt - 8002348
+- Gransee - 8011691
+- Grebenstein - 8002358
+- Greiz - 8010140
+- Grenzach - 8002365
+- Grimma ob Bf - 8011705
+- Groß Rohrheim - 8002391
+- Groß Umstadt-Wiebelsbach - 8000384
+- Großbothen - 8010144
+- Großenhain Cottb Bf - 8011749
+- Großheringen - 8010145
+- Guben - 8010357
+- Gäufelden - 8002166
+- Güdingen - 8002452
+- Güsten - 8010152
+- Hagenow Land - 8010156
+- Haiger - 8000386
+- Hailer-Meerholz - 8002526
+- Hallstadt (b Bamberg) - 8002542
+- Hanau Nord - 8002572
+- Hanau West - 8002573
+- Hartmannshof - 8002612
+- Haslach - 8002621
+- Hattingen (Ruhr) - 8002639
+- Heddesheim/Hirschberg - 8002430
+- Hedemünden - 8002677
+- Heidenau Süd - 8011843
+- Heidenau-Großsedlitz - 8011844
+- Hemsbach - 8002748
+- Herbertingen - 8000160
+- Hermsdorf-Klosterlausnitz - 8011862
+- Herrsching - 8002792
+- Herzberg (Harz) - 8000166
+- Hinterzarten - 8002848
+- Hochstadt-Marktzeuln - 8002878
+- Hofgeismar-Hümme - 8003015
+- Hohenbrunn - 8002940
+- Hohenstein-Ernstthal - 8011904
+- Holzwickede - 8000392
+- Hornberg - 8003001
+- Hosena - 8010171
+- Hoyerswerda - 8010177
+- Hämelerwald - 8002499
+- Hückelhoven-Baal - 8000677
+- Hünfeld - 8003016
+- Idstein (Taunus) - 8003041
+- Kall - 8003158
+- Karthaus - 8000402
+- Kassel-Harleshausen - 8003196
+- Kelsterbach - 8003228
+- Kirchentellinsfurt - 8003272
+- Kirchheim (Neckar) - 8003278
+- Kirchheim (Teck)-Ötlingen - 8003282
+- Kirchzarten - 8003293
+- Kißlegg - 8000203
+- Kleinostheim - 8003314
+- Kobern-Gondorf - 8003350
+- Koblenz-Ehrenbreitstein - 8003351
+- Kohlscheid - 8003395
+- Kressbronn - 8003432
+- Kronach - 8003446
+- Kronberg (Taunus) - 8003447
+- Kurort Altenberg (Erzgeb) - 8011019
+- Köln-Nippes - 8003372
+- Könnern - 8010194
+- Kühnhausen - 8010198
+- Lage (Lippe) - 8000215
+- Landsweiler-Reden - 8003516
+- Lang Göns - 8003520
+- Langen-Flugsicherung - 8003526
+- Langenau (Württ) - 8003525
+- Langenfeld (Rheinl) - 8003540
+- Langenhagen - Kaltenweide - 8003165
+- Lauda - 8000221
+- Lauf (links Pegnitz) - 8003580
+- Lauf (rechts Pegnitz) - 8003581
+- Leipheim - 8003627
+- Leipzig Coppiplatz - 8080840
+- Leipzig-Connewitz - 8010206
+- Leipzig-Engelsdorf - 8011491
+- Leipzig-Paunsdorf - 8010208
+- Leipzig-Wahren - 8012197
+- Lengerich (Westf) - 8003640
+- Leutesdorf (Rhein) - 8003665
+- Leutkirch - 8000336
+- Leverkusen-Schlebusch - 8003669
+- Lollar - 8000234
+- Lorch (Württ) - 8003752
+- Lörrach Museum/Burghof - 8003737
+- Lörrach Schwarzwaldstraße - 8003743
+- Magdeburg SKET Industriepark - 8013485
+- Magdeburg Südost - 8012287
+- Mahlow - 8080970
+- Malmsheim - 8003831
+- Mannheim-Rheinau - 8003845
+- Markdorf (Baden) - 8003871
+- Markkleeberg - 8012308
+- Markkleeberg Nord - 8012304
+- Markkleeberg-Gaschwitz - 8011598
+- Maxhütte-Haidhof - 8003922
+- Mechernich - 8003927
+- Meißen - 8012326
+- Meißen Altstadt - 8012318
+- Mellendorf - 8003957
+- Mengen - 8003969
+- Mertingen Bahnhof - 8003989
+- Mittweida - 8012369
+- Moers - 8000644
+- Murrhardt - 8004188
+- Mössingen - 8004070
+- Mühlheim-Dietesheim - 8070088
+- Mülheim (Ruhr) West - 8004122
+- Münchberg - 8004126
+- München-Daglfing - 8004143
+- München-Johanneskirchen - 8004149
+- München-Neuperlach Süd - 8006696
+- Münster Zentrum Nord - 8004173
+- Neheim-Hüsten - 8004228
+- Nersingen - 8004239
+- Neuburg (Donau) - 8004254
+- Neukirchen (b Sulzbach-Rosenberg) - 8000269
+- Neunkirchen a Sand - 8004310
+- Neupetershain - 8012469
+- Neustadt (Kr Marburg) - 8004328
+- Neustadt (Schwarzw) - 8004331
+- Neusäß - 8004318
+- Nidda - 8000277
+- Nidderau - 8000158
+- Nieder Wöllstadt - 8004353
+- Niederbrechen - 8004364
+- Niederhöchstadt - 8004380
+- Niedermittlau - 8004395
+- Niederschelden - 8004406
+- Niederwiesa - 8010253
+- Nordstemmen - 8000282
+- Norf - 8004462
+- Nufringen - 8004490
+- Nördlingen - 8000280
+- Nürnberg Ost - 8004471
+- Nürnberg Rothenburger Straße - 8004473
+- Nürnberg-Dutzendteich - 8004476
+- Nürnberg-Dürrenhof - 8004442
+- Nürnberg-Eibach - 8004477
+- Nürnberg-Gleißhammer - 8005304
+- Nürnberg-Ostring - 8004470
+- Nürnberg-Reichelsdorf - 8004483
+- Nürnberg-Stein - 8004486
+- Oberaudorf - 8004507
+- Oberhaid - 8004533
+- Oberhausen-Sterkrade - 8004542
+- Oberkirch - 8004545
+- Obertraubling - 8004592
+- Obertshausen (Kr Offenbach) - 8004593
+- Ochenbruck - 8004609
+- Ochsenfurt - 8000818
+- Oebisfelde - 8010261
+- Oker - 8004665
+- Orschweier - 8004683
+- Osterhofen (Niederbay) - 8004700
+- Ottersberg (Han) - 8004728
+- Otting-Weilheim - 8004731
+- Overath - 8004739
+- Pfaffenhofen (Ilm) - 8004781
+- Pfalzel - 8004784
+- Piding - 8004815
+- Plaue (Thür) - 8010274
+- Probstzella - 8010288
+- Radebeul Ost - 8010292
+- Radebeul-Kötzschenbroda - 8010293
+- Raisdorf - 8004924
+- Rangsdorf - 8012713
+- Rastede - 8004945
+- Recklinghausen Süd - 8000887
+- Regensburg-Prüfening - 8004983
+- Regenstauf - 8004987
+- Reichenbach (Fils) - 8004999
+- Renchen - 8005037
+- Retzbach-Zellingen - 8005049
+- Rhöndorf - 8005074
+- Ringsheim - 8005101
+- Rockenhausen - 8005111
+- Rodenbach bei Hanau - 8004402
+- Rodenkirchen (Oldb) - 8005119
+- Rodgau-Weiskirchen - 8006293
+- Rohrbach (Ilm) - 8000256
+- Rohrbach (Saar) - 8000319
+- Rommerskirchen - 8005159
+- Ronnenberg (Han) - 8005160
+- Rottenburg (Neckar) - 8005197
+- Ruhland - 8010308
+- Röhrmoos - 8005127
+- Rückersdorf (Mittelfr) - 8005209
+- Saarbrücken Ost - 8005241
+- Schaftlach - 8005311
+- Scheidt (Saar) - 8005332
+- Schkopau - 8012867
+- Schongau - 8005418
+- Schwabmünchen - 8005444
+- Schwarzenbek - 8005468
+- Schwarzenfeld (Oberpf) - 8005469
+- Schweich DB - 8005476
+- Schweinfurt Stadt - 8005481
+- Schwindegg - 8005495
+- Schöna - 8012898
+- Sedlitz Ost - 8010183
+- Seesen - 8000043
+- Sehnde - 8005511
+- Senden - 8005532
+- Senftenberg - 8010327
+- Seubersdorf - 8005543
+- Sottrum - 8005613
+- Spaichingen - 8005616
+- St Egidien - 8010331
+- St. Georgen (Schwarzw) - 8005644
+- St. Goar - 8005645
+- Staßfurt - 8010332
+- Steinau (Straße) - 8005690
+- Steinbach a Wald - 8005692
+- Steinen - 8005701
+- Stetten-Beinstein - 8005726
+- Stuttgart-Sommerrain - 8005774
+- Sulz (Neckar) - 8005791
+- Sulzbach (Murr) - 8005795
+- Sulzbach (Saar) - 8005796
+- Taucha (b Leipzig) - 8013093
+- Teisendorf - 8005833
+- Thale Hbf - 8013112
+- Timmendorferstrand - 8005874
+- Titisee - 8005876
+- Trebbin - 8013137
+- Treis-Karden - 8003179
+- Triberg - 8005902
+- Trier Süd - 8005905
+- Trompet - 8005910
+- Uffing am Staffelsee - 8005948
+- Uhingen - 8005949
+- Unkel - 8005970
+- Unterhaching - 8005991
+- Unterlüß - 8006001
+- Unterschleißheim - 8006688
+- Urbach (b Schorndorf) - 8006030
+- Vach - 8006052
+- Varel (Oldb) - 8006056
+- Velbert-Neviges - 8004340
+- Vierkirchen-Esterhofen - 8001922
+- Waldhausen (b Schorndorf) - 8006157
+- Waldkirch - 8006159
+- Walldorf (Hess) - 8006175
+- Wangen (Allgäu) - 8006200
+- Wannweil - 8006203
+- Weilburg - 8000218
+- Weiler (Rems) - 8006277
+- Weißenthurm - 8006303
+- Weißwasser (Oberlausitz) - 8010370
+- Wernberg - 8006347
+- Wernigerode - 8010374
+- Westerstede-Ocholt - 8004610
+- Westheim (Schwab) - 8006378
+- Wiesau (Oberpf) - 8006403
+- Wiesental - 8006417
+- Wiesthal - 8006426
+- Wilferdingen-Singen - 8006440
+- Wismar - 8010381
+- Wissen (Sieg) - 8006501
+- Witzenhausen Nord - 8006524
+- Wolfen (Kr Bitterfeld) - 8013335
+- Wolmirstedt - 8013344
+- Wustermark - 8010389
+- Wörth (Isar) - 8006537
+- Wünsdorf Waldstadt - 8013350
+- Zella-Mehlis - 8010391
+- Zepernick (b Bernau) - 8081560
+- Zeuthen - 8081580
+- Zieverich - 8006659
+- Ötigheim - 8004636
+- Übersee - 8005940
+
+
+### Category 6
+
+- Abensberg - 8000410
+- Adelebsen - 8000418
+- Adelschlag - 8000419
+- Ahrensfelde Friedhof - 8011004
+- Ahrensfelde Nord - 8011005
+- Albbruck - 8000463
+- Albersweiler (Pfalz) - 8000466
+- Albshausen - 8000471
+- Albstadt-Laufen Ort - 8000474
+- Albstadt-Lautlingen - 8000475
+- Allersberg (Rothsee) - 8000498
+- Allmendingen - 8000499
+- Alsenz - 8000505
+- Alt Hüttendorf - 8011011
+- Altdorf (b Nürnberg) - 8000509
+- Alte Veste - 8000511
+- Altefähr - 8011017
+- Altenkirchen (Westerw) - 8000351
+- Altenstadt (Iller) - 8000539
+- Altenstadt (Waldnaab) - 8000540
+- Altenstadt-Höchst - 8002886
+- Altenstadt-Lindheim - 8003698
+- Altentreptow - 8011025
+- Altenwillershagen - 8011027
+- Altranft - 8011034
+- Altshausen - 8000559
+- Alzey Süd - 8000558
+- Angersbach - 8000580
+- Arenshausen - 8011054
+- Arnschwang - 8000606
+- Artern - 8012440
+- Arzberg (Oberfr) - 8000613
+- Ascheberg (Westf) - 8000623
+- Aschendorf - 8000624
+- Assenheim (Oberhess) - 8000632
+- Auersmacher - 8000651
+- Augsburg Morellstraße - 8000660
+- Baalberge - 8010013
+- Baar-Ebenhausen - 8000678
+- Bad Bergzabern - 8000691
+- Bad Brambach - 8011068
+- Bad Driburg (Westf) - 8000697
+- Bad Dürkheim-Trift - 8000708
+- Bad Fallingbostel - 8001958
+- Bad Freienwalde (Oder) - 8010017
+- Bad Gandersheim - 8000352
+- Bad Grönenbach - 8002378
+- Bad König - 8000715
+- Bad Kötzting - 8003393
+- Bad Liebenzell - 8000721
+- Bad Niedernau - 8000731
+- Bad Peterstal - 8000734
+- Bad Rodach (b Coburg) - 8005112
+- Bad Sachsa - 8000739
+- Bad Salzhausen - 8000741
+- Bad Salzschlirf - 8000743
+- Bad Salzuflen - 8000744
+- Bad Salzungen - 8010021
+- Bad Saulgau - 8005301
+- Bad Sebastiansweiler-Belsen - 8000750
+- Bad Sulza - 8011085
+- Bad Vilbel-Gronau - 8002382
+- Bad Waldsee - 8000763
+- Bad Wimpfen - 8000765
+- Bad Wimpfen-Hohenstadt - 8000766
+- Bad Windsheim - 8000767
+- Bad Wörishofen - 8000768
+- Baddeckenstedt - 8000772
+- Bagenz - 8011097
+- Balingen Süd - 8000788
+- Barleben - 8011111
+- Barleber See - 8011112
+- Barnten - 8000808
+- Barthmühle - 8011115
+- Baruth (Mark) - 8011116
+- Batzenhäusle - 8000821
+- Batzhausen - 8000822
+- Beelitz Stadt - 8013468
+- Beerfelden-Hetzbach - 8002815
+- Beetz-Sommerfeld - 8011125
+- Behringersdorf - 8000850
+- Beimerstetten - 8000858
+- Belgershain - 8011132
+- Bempflingen - 8000865
+- Bentwisch - 8011140
+- Berga (Elster) - 8011144
+- Bergen (Oberbay) - 8000888
+- Bergtheim - 8000902
+- Bermatingen-Ahausen - 8000909
+- Bernburg-Friedenshall - 8011168
+- Bernburg-Strenzfeld - 8011169
+- Berne - 8000913
+- Bernterode - 8011172
+- Bersenbrück - 8000919
+- Besseringen - 8000926
+- Beucha - 8010046
+- Beuggen - 8000932
+- Beuna (Geiseltal) - 8011177
+- Bexbach - 8000941
+- Beyendorf - 8011181
+- Biberach Süd - 8000944
+- Bienenmühle - 8011185
+- Bieringen - 8000959
+- Bietingen - 8000965
+- Bildstock - 8000967
+- Bindlach - 8000974
+- Birkenau - 8000984
+- Bischofswiesen - 8000997
+- Bisingen - 8000999
+- Blaichach (Allgäu) - 8001004
+- Blankenheim (Wald) - 8001008
+- Blankensee (Meckl) - 8011205
+- Blankenstein (Saale) - 8011206
+- Blaustein - 8001015
+- Bleibach - 8001017
+- Blumenberg - 8010056
+- Blumenkamp - 8001030
+- Bobstadt - 8001034
+- Bocholt - 8000040
+- Bockenheim-Kindenheim - 8001043
+- Bodelshausen - 8001047
+- Bodenfelde - 8001050
+- Bookholzberg - 8001089
+- Bopfingen - 8001090
+- Bork (Westf) - 8001097
+- Borsdorf (Hess) - 8001104
+- Bous (Saar) - 8001110
+- Brake (Unterweser) - 8001120
+- Braunsbedra - 8011255
+- Braunschweig-Gliesmarode - 8001134
+- Bredelar - 8001137
+- Breitungen (Werra) - 8011265
+- Bremen-Hemelingen - 8001157
+- Bruckmühl - 8001207
+- Bubenreuth - 8001223
+- Buchholz (Baden) - 8001234
+- Buggingen - 8001262
+- Burg Stargard (Meckl) - 8011293
+- Burgheim - 8001285
+- Burgholzhausen v d Höhe - 8001287
+- Burgstädt - 8011297
+- Buttenheim - 8001310
+- Bärenstein (b Glashütte/Sachs) - 8011095
+- Böhlen (b Leipzig) - 8013471
+- Bösdorf (Sachs-Anh) - 8011228
+- Büches-Düdelsheim - 8001244
+- Bürstadt - 8000360
+- Cadolzburg - 8001317
+- Calw - 8000063
+- Camburg (Saale) - 8013474
+- Capelle (Westf) - 8001323
+- Castrop-Rauxel Süd - 8001328
+- Chemnitz Kinderwaldstätte - 8011970
+- Cloppenburg - 8001337
+- Cossebaude - 8011320
+- Cranzahl - 8010074
+- Creidlitz - 8001347
+- Dachrieden - 8011335
+- Dahlenburg - 8001360
+- Darmstadt Ost - 8001376
+- Dasing - 8001382
+- Daufenbach - 8001388
+- Deining (Oberpf) - 8001400
+- Dellfeld Ort - 8001407
+- Demitz-Thumitz - 8011354
+- Densborn - 8001414
+- Dernbach (Westerw) - 8001418
+- Dessau Süd - 8011361
+- Dessau-Alten - 8011363
+- Dessau-Mosigkau - 8011364
+- Dessauer Brücke - 8080560
+- Dettelbach Bahnhof - 8001421
+- Deuerling - 8001430
+- Deuten - 8001432
+- Dieskau - 8011376
+- Dietmannsried - 8001454
+- Dießen - 8001447
+- Dingden - 8001465
+- Ditfurt - 8011383
+- Dodendorf - 8011388
+- Dogern - 8001491
+- Dollnstein - 8001495
+- Dorfmark - 8001502
+- Dorheim (Wetterau) - 8001504
+- Dortmund-Kurl - 8001537
+- Drahnsdorf - 8011409
+- Drebkau - 8011414
+- Dresden-Kemnitz - 8011421
+- Ducherow - 8011438
+- Dudweiler - 8001570
+- Duisburg-Meiderich Ost - 8001607
+- Duisburg-Obermeiderich - 8001608
+- Duisburg-Ruhrort - 8001611
+- Duisburg-Wedau - 8001612
+- Durach - 8001614
+- Dutenhofen (Kr Wetzlar) - 8001618
+- Dußlingen - 8001617
+- Döggingen - 8001480
+- Dörpen - 8001486
+- Dürrröhrsdorf - 8010091
+- Ebelsbach-Eltmann - 8001619
+- Ebenhausen-Schäftlarn - 8001621
+- Ebensfeld - 8001623
+- Echem - 8001646
+- Echzell - 8001648
+- Eckartsberga (Thür) - 8011450
+- Ediger-Eller - 8001666
+- Edle Krone - 8011451
+- Egling - 8001683
+- Eichenzell - 8001704
+- Eichstätt Stadt - 8001709
+- Eickendorf - 8011462
+- Eimeldingen - 8001715
+- Einsiedlerhof - 8001720
+- Eisenberg (Pfalz) - 8001728
+- Eisfeld - 8011472
+- Eitensheim - 8001734
+- Elgersburg - 8011476
+- Ellrich - 8011480
+- Elmenhorst - 8011481
+- Elsfleth - 8001760
+- Elsterberg - 8011487
+- Elsterwerda-Biehla - 8010100
+- Elz (Kr Limburg/Lahn) - 8001764
+- Elzach - 8001766
+- Enkenbach - 8000372
+- Enzisweiler - 8001806
+- Epe (Westf) - 8001808
+- Erbach (Odenw) - 8001817
+- Erding - 8001825
+- Erdmannhausen - 8001827
+- Erfurt-Gispersleben - 8011503
+- Ergenzingen - 8001833
+- Eriskirch - 8001838
+- Erlau (Sachs) - 8011507
+- Erpel (Rhein) - 8001858
+- Erpolzheim - 8001860
+- Esens (Ostfriesl) - 8001890
+- Essen-Bergeborbeck - 8001901
+- Etzleben - 8011520
+- Euskirchen-Kuchenheim - 8003462
+- Eyach - 8001946
+- Fahrnau - 8001954
+- Falkenberg (Mark) - 8011531
+- Falkenstein (Vogtl) - 8010106
+- Faurndau - 8001965
+- Felde - 8001977
+- Fichtenberg - 8001982
+- Filsen - 8001983
+- Finkenheerd - 8011540
+- Fischbach-Weierbach - 8001991
+- Flintbek - 8002011
+- Flomersheim - 8002014
+- Fornsbach - 8002026
+- Forst (Lausitz) - 8010111
+- Frankenberg (Sachs) - 8011553
+- Frankfurt (Oder)-Rosengarten - 8011559
+- Frankleben - 8011560
+- Freden (Leine) - 8002063
+- Freiburg Messe/Universität - 8000453
+- Freiburg-St Georgen - 8002069
+- Freihung - 8002076
+- Freital-Hainsberg West - 8011570
+- Fremersdorf - 8002083
+- Frickhofen - 8002095
+- Fridingen (b Tuttlingen) - 8002096
+- Friedelhausen - 8002100
+- Friedersdorf (b Königs Wusterhausen) - 8011574
+- Friedrichshafen Manzell - 8003850
+- Friedrichshafen Ost - 8002030
+- Friedrichsthal (Saar) - 8002117
+- Frohburg - 8011588
+- Frommern - 8002133
+- Förtha (Kr Eisenach) - 8010110
+- Fürfurt - 8002137
+- Fürth (Odenw) - 8002150
+- Fürth-Unterfarrnbach - 8002154
+- Füssen - 8002156
+- Gaildorf West - 8002168
+- Gaimersheim - 8002171
+- Ganderkesee - 8002179
+- Garbenteich - 8002182
+- Gardelegen - 8011596
+- Gaubüttelbrunn - 8002195
+- Gehlberg - 8011603
+- Geiselhöring - 8002209
+- Geising - 8011609
+- Geisingen - 8002214
+- Gelbensande - 8011611
+- Gennweiler - 8002238
+- Gerlachsheim - 8002243
+- Gerlenhofen - 8002244
+- Geroldshausen - 8002251
+- Gersfeld (Rhön) - 8002254
+- Gerstungen - 8011629
+- Gertenbach - 8002259
+- Gettenau-Bingenheim - 8002265
+- Giersleben - 8011632
+- Gießen Erdkauter Weg - 8001826
+- Gießen Licher Straße - 8003674
+- Gingen (Fils) - 8002278
+- Gladbeck-Zweckel - 8002284
+- Glauburg-Glauberg - 8002288
+- Glesch - 8002290
+- Gnadau - 8010084
+- Goch - 8002296
+- Goldbeck (Kr Osterburg) - 8011665
+- Goldhausen - 8002321
+- Goldshöfe - 8000380
+- Golm - 8013481
+- Golzow (Oderbruch) - 8011672
+- Gotha Ost - 8011678
+- Goßmannsdorf - 8002333
+- Greiz-Dölau - 8011697
+- Greußen - 8011700
+- Grevesmühlen - 8010141
+- Grieben (Meckl) - 8011702
+- Grimmenthal - 8010142
+- Groß Ammensleben - 8011714
+- Groß Köris - 8013109
+- Groß Umstadt Mitte - 8002393
+- Großbeeren - 8011740
+- Großdüngen - 8002405
+- Großengottern - 8011746
+- Großenlüder - 8002413
+- Großfurra - 8011750
+- Großkarolinenfeld - 8002424
+- Großneuhausen - 8011754
+- Großschönau (Sachs) - 8011761
+- Gräfendorf - 8002341
+- Gröditz (b Riesa) - 8011712
+- Grüna (Sachs) - 8011770
+- Grünsfeld - 8002447
+- Gundelfingen (Bay) - 8002466
+- Gundersheim (Rheinhess) - 8002473
+- Gutach (Breisgau) - 8002478
+- Guthmannshausen - 8011791
+- Gündlkofen - 8002457
+- Günzach - 8002458
+- Güterglück - 8010154
+- Haarhausen - 8011792
+- Hadamar - 8002495
+- Haffkrug - 8002504
+- Hagen-Vorhalle - 8000977
+- Hagenbach - 8002515
+- Hainichen - 8011802
+- Halle MESSE - 8010155
+- Halle-Nietleben - 8011813
+- Halle-Trotha - 8011814
+- Hamminkeln - 8002571
+- Hanweiler-Bad Rilchingen - 8002588
+- Harburg (Schwab) - 8002593
+- Hardegsen - 8002594
+- Hardhof - 8002596
+- Harras (Thür) - 8011822
+- Hasbergen (Kr Osnabrück) - 8002615
+- Hattorf - 8002641
+- Hauenstein (Pfalz) - 8002649
+- Hauenstein Mitte - 8002648
+- Hausen i Tal - 8002656
+- Hausen-Raitbach - 8002666
+- Hechingen - 8002673
+- Heessen - 8002680
+- Heidenheim-Mergelstetten - 8002690
+- Heidenheim-Schnaitheim - 8002691
+- Heimenkirch - 8002710
+- Herbrechtingen - 8002766
+- Herdecke - 8002769
+- Hergatz - 8000387
+- Herlasgrün - 8010166
+- Hermaringen - 8002776
+- Herne-Börnig - 8002779
+- Herrlingen - 8002789
+- Hersbruck (links Pegnitz) - 8002793
+- Herten (Baden) - 8002797
+- Herxheim am Berg - 8002798
+- Herzberg (Elster) - 8011867
+- Hessisch Oldendorf - 8002812
+- Hetzerath - 8002817
+- Heufeld - 8002820
+- Heufeldmühle - 8002821
+- Hilchenbach - 8002826
+- Hildburghausen - 8011871
+- Hildesheim Ost - 8002830
+- Hinterweidenthal - 8002847
+- Hinterweidenthal Ost - 8079147
+- Hirschhorn (Pfalz) - 8002858
+- Hochneukirch - 8000390
+- Hofen (b Aalen) - 8002930
+- Hohenleipisch - 8011894
+- Holm-Seppensen - 8002967
+- Holthusen - 8010173
+- Holzhausen-Heddinghausen - 8002978
+- Hoppstädten (Nahe) - 8002995
+- Horn-Bad Meinberg - 8003000
+- Hubertushöhe - 8011923
+- Hundsgrün - 8011928
+- Hungen - 8000400
+- Hähnichen - 8011795
+- Häuserhof - 8002501
+- Höchst (Odenw) - 8000172
+- Höchst Mümling-Grumbach - 8004125
+- Hörlkofen - 8002912
+- Hösbach - 8002918
+- Hövelriege - 8002921
+- Igel - 8003042
+- Ihringen - 8003052
+- Ilberstedt - 8011929
+- Illingen (Saar) - 8003059
+- Ilmenau - 8010178
+- Ilmenau-Pörlitzer Höhe - 8011935
+- Ilmenau-Roda - 8011932
+- Immelborn - 8011934
+- Immenreuth - 8003063
+- Insheim - 8003080
+- Iphofen - 8003081
+- Irrenlohe - 8003086
+- Isernhagen - 8003091
+- Istein - 8003098
+- Jagstzell - 8003111
+- Jasnitz - 8011951
+- Jatznick - 8010179
+- Jena Saalbf - 8011058
+- Jocketa - 8011963
+- Jägersfreude - 8003108
+- Jänschwalde Ost - 8011945
+- Jävenitz - 8011946
+- Jößnitz - 8011966
+- Kainzenbad - 8003146
+- Kaisersesch - 8003148
+- Kamenz (Sachs) - 8011988
+- Kassel-Oberzwehren - 8003199
+- Katlenburg - 8003209
+- Kattenes - 8003211
+- Kattenvenne - 8003212
+- Katzwang - 8003214
+- Kaulsdorf (Saale) - 8012000
+- Kehlen - 8003220
+- Kemnath-Neustadt - 8003229
+- Kempten (Allgäu) Ost - 8003230
+- Kerkerbach - 8003235
+- Kerkwitz - 8012006
+- Kersbach - 8003238
+- Kiebingen - 8003248
+- Kiel-Hassee CITTIPARK - 8003474
+- Kinding (Altmühltal) - 8003256
+- Kindsbach - 8003257
+- Kirchhammelwarden - 8003276
+- Kirchheim (Teck) Süd - 8003283
+- Kirchheim (Weinstr) - 8003285
+- Kirkel - 8003294
+- Klein Winternheim-Ober Olm - 8003316
+- Kleinblittersdorf - 8003318
+- Kleinfurra - 8012033
+- Kleinkems - 8003325
+- Kleve - 8000205
+- Klinge - 8012043
+- Klosterlechfeld - 8003342
+- Klostermansfeld - 8010191
+- Knesebeck - 8003348
+- Kochel - 8003355
+- Kodersdorf - 8012061
+- Kolbermoor - 8003397
+- Kolkwitz Süd - 8012084
+- Kollmarsreute - 8003398
+- Kollnau - 8003399
+- Kork - 8003408
+- Kothmaißling - 8003413
+- Kraftsdorf - 8012088
+- Kraftwerk Finkenheerd - 8012089
+- Kremperheide - 8003431
+- Krensitz - 8012097
+- Krumbach (Schwab) - 8003457
+- Krumpa - 8012114
+- Kuchen - 8003461
+- Kurort Rathen (Kr Pirna) - 8012138
+- Kämmereiforst - 8011983
+- Köfering - 8003357
+- Königsbronn - 8003378
+- Küps - 8003472
+- Kürbitz - 8010040
+- Laaber - 8003485
+- Lambsheim - 8003498
+- Lancken - 8012146
+- Landau (Pfalz) Süd - 8003507
+- Landau (Pfalz) West - 8003508
+- Langenargen - 8003524
+- Langenstein - 8012161
+- Langenwang (Schwab) - 8003551
+- Langenweddingen - 8012162
+- Langenzenn - 8003552
+- Langsdorf (Oberhess) - 8003558
+- Lauchhammer - 8012169
+- Lauchheim - 8003569
+- Lauchringen - 8004552
+- Lauchringen West - 8003562
+- Lauenförde - 8003578
+- Laufenburg (Baden) - 8003585
+- Laufenburg (Baden) Ost - 8003586
+- Lauingen - 8003589
+- Laupheim Stadt - 8003591
+- Lebach - 8000563
+- Leese-Stolzenau - 8000335
+- Legelshurst - 8003609
+- Leipzig MDR - 8012187
+- Leipzig Werkstättenstraße - 8011495
+- Leipzig-Heiterblick - 8012190
+- Leipzig-Knauthain - 8012192
+- Leipzig-Liebertwolkwitz - 8012228
+- Leipzig-Sellerhausen - 8080930
+- Leipzig-Thekla - 8012195
+- Leisnig - 8012198
+- Lengenwang - 8003639
+- Lenggries - 8003643
+- Letschin - 8012205
+- Leutenberg - 8012213
+- Lichtenstein (Sachs) - 8012223
+- Lieblos - 8003681
+- Limbach (Vogtl) - 8012231
+- Limmritz (Sachs) - 8012232
+- Linda (Elster) - 8012233
+- Lindau-Aeschach - 8003692
+- Lindwedel - 8003700
+- Lobenstein (Thür) - 8013452
+- Lohmen - 8012249
+- Lohne (Oldb) - 8003738
+- Lohnweiler - 8003739
+- Lorsch - 8003755
+- Luckenau - 8012259
+- Ludwigschorgast - 8003763
+- Ludwigshafen (Bodensee) - 8003764
+- Ludwigshöhe - 8003768
+- Ludwigsstadt - 8003770
+- Luhe - 8003794
+- Luhe-Wildenau - 8003795
+- Luisenthal (Saar) - 8003796
+- Lutherstadt Wittenberg-Labetz - 8013275
+- Lutherstadt Wittenberg-Piesteritz - 8012282
+- Löf - 8003723
+- Löffingen - 8003724
+- Lörrach-Haagen/Messe - 8002489
+- Lörrach-Stetten - 8003730
+- Löwental - 8003733
+- Lübeck Dänischburg IKEA - 8003786
+- Lübeck-Travemünde Strand - 8003778
+- Lüblow (Meckl) - 8012262
+- Lübstorf - 8012264
+- Magdeburg-Hasselbachplatz - 8080660
+- Magdeburg-Rothensee - 8010086
+- Mahlwinkel - 8012295
+- Mainleus - 8003813
+- Mainz-Gonsenheim - 8003817
+- Malsfeld - 8000243
+- Mannheim-Handelshafen - 8006508
+- Mannheim-Käfertal - 8003843
+- Marienhafe - 8003866
+- Markkleeberg Mitte - 8012309
+- Markkleeberg-Großstädteln - 8010228
+- Markranstädt - 8012311
+- Marksuhl - 8012312
+- Markt Erlbach - 8003878
+- Marktbreit - 8003881
+- Marktoberdorf - 8003885
+- Marktschorgast - 8003887
+- Marquardt - 8012315
+- Marstetten-Aitrach - 8003897
+- Martinlamitz - 8003898
+- Martinstein - 8003899
+- Martinszell (Allgäu) - 8003901
+- Maulburg - 8003920
+- Mausheim - 8003921
+- Meckenheim Kottenforst - 8003414
+- Meerane - 8012323
+- Meitzendorf - 8012328
+- Meißen Triebischtal - 8012327
+- Melbach - 8003953
+- Melsungen-Röhrenfurth - 8005125
+- Merchweiler - 8003980
+- Merseburg Bergmannsring - 8012339
+- Messinghausen - 8003998
+- Michelau (Oberfr) - 8004011
+- Mieste - 8012351
+- Millingen - 8004023
+- Miltzow - 8012358
+- Mimberg - 8004028
+- Mittel Gründau - 8004037
+- Mittelsinn - 8004040
+- Mochenwangen - 8004049
+- Mulda (Sachs) - 8012407
+- Munderkingen - 8004182
+- Munster (Örtze) - 8004183
+- Murg (Baden) - 8004184
+- Mögglingen (b Gmünd) - 8004053
+- Mönchengladbach-Genhausen - 8004061
+- Mörlenbach - 8004066
+- Möttingen - 8004071
+- Mücheln (Geiseltal) - 8012390
+- Mühlstetten - 8004115
+- Müncheberg (Mark) - 8010236
+- Münchehof (Harz) - 8004127
+- Münchsmünster - 8004165
+- Münchweiler (Rodalb) - 8004166
+- Münnerstadt - 8004169
+- Münster-Amelsbüren - 8000569
+- Nabburg - 8004191
+- Nagold - 8004196
+- Nagold Stadtmitte - 8004201
+- Naila - 8004198
+- Narsdorf - 8010238
+- Nassau (Lahn) - 8004206
+- Naunhof - 8012416
+- Nebra - 8012417
+- Nechlin - 8012418
+- Neckarsulm Mitte - 8004232
+- Neckarsulm Nord - 8004238
+- Neef - 8004223
+- Nehren - 8004229
+- Nesselwang - 8004240
+- Netzschkau - 8012430
+- Neuburg (Kammel) - 8004256
+- Neue Schenke - 8012443
+- Neuenburg (Baden) - 8089119
+- Neuenhagen (b Berlin) - 8081020
+- Neuhausen (b Cottbus) - 8012456
+- Neukirch (Lausitz) Ost - 8012460
+- Neumark (Sachs) - 8010244
+- Neumühle (Elster) - 8012465
+- Neunkirchen (Kr Siegen) - 8004313
+- Neuruppin Rheinsberger Tor - 8010175
+- Neuruppin West - 8010246
+- Neuses (b Kronach) - 8004319
+- Neusorg - 8004321
+- Neustadt (Aisch) Mitte - 8004336
+- Neustadt (Holst) - 8004327
+- Neustadt (Orla) - 8012472
+- Neustadt (Sachs) - 8010249
+- Neustadt (b Coburg) - 8004325
+- Neusörnewitz - 8012471
+- Neutrebbin - 8012475
+- Nidderau-Eichen - 8001701
+- Nidderau-Windecken - 8006465
+- Nieder Flörsheim-Dalsheim - 8004345
+- Niederau - 8012482
+- Niederbiegen - 8004363
+- Niederbobritzsch - 8012483
+- Niederheimbach - 8004379
+- Niedermohr - 8004396
+- Niederndodeleben - 8012490
+- Niederpöllnitz - 8012493
+- Niedersachswerfen - 8012494
+- Niederscheld (Dillkr) Süd - 8004405
+- Niederstotzingen - 8004413
+- Niedertrebra - 8012502
+- Niederwinden - 8004423
+- Niederzeuzheim - 8004424
+- Niemberg - 8012506
+- Nistertal-Bad Marienberg - 8001819
+- Nonnenhorn - 8004446
+- Nordenham - 8004452
+- Nöbdenitz - 8012509
+- Nürnberg Nordost - 8004469
+- Nürnberg-Erlenstegen - 8004478
+- Nürnberg-Mögeldorf - 8004481
+- Oberau - 8004506
+- Oberbettingen-Hillesheim - 8004513
+- Oberbillig - 8004514
+- Oberbimbach - 8004515
+- Oberboihingen - 8004517
+- Oberkochen - 8004549
+- Oberlenningen - 8004553
+- Oberlichtenau - 8012528
+- Obermohr - 8004557
+- Oberrohn - 8012533
+- Oberröblingen (Helme) - 8012532
+- Oberstaufen - 8004584
+- Oberweimar - 8012541
+- Oberwerrn - 8004453
+- Oberwinden - 8004603
+- Oberzell - 8004605
+- Oederan - 8012550
+- Oehna - 8012552
+- Oelsnitz (Vogtl) - 8012554
+- Oerlenbach - 8004629
+- Offenburg Kreisschulzentrum - 8004639
+- Offingen - 8004654
+- Ohlstadt - 8004662
+- Oldenburg (Holst) - 8004669
+- Oldenburg-Wechloy - 8004670
+- Oppenau - 8004679
+- Ortrand - 8012565
+- Ostbevern - 8001183
+- Osternienburg - 8012570
+- Osterspai - 8004706
+- Osterweddingen - 8012572
+- Ostrau - 8012576
+- Ottbergen - 8004720
+- Ottendorf-Okrilla Nord - 8012595
+- Otterndorf - 8004727
+- Oy-Mittelberg - 8004742
+- Oßmannstedt - 8012567
+- Paderborn Nord - 8004745
+- Paindorf - 8004747
+- Papendorf - 8012603
+- Passow (Uckermark) - 8012611
+- Pechbrunn - 8004758
+- Pegau - 8010269
+- Peiting Nord - 8004764
+- Peiting Ost - 8004765
+- Peitz Ost - 8012621
+- Peißenberg - 8004762
+- Peißenberg Nord - 8004763
+- Perleberg - 8012622
+- Pfreimd - 8004803
+- Pfronten-Ried - 8004806
+- Pfronten-Weißbach - 8004809
+- Pinnow (Uckermark) - 8012637
+- Pirna-Copitz - 8012640
+- Plauen (Vogtl) West - 8012646
+- Poppenhausen - 8004865
+- Pratau - 8010281
+- Pressath - 8004880
+- Pressig-Rothenkirchen - 8004881
+- Priort - 8013489
+- Pritzerbe - 8012676
+- Pritzwalk - 8010287
+- Prösen - 8012679
+- Prösen Ost - 8012681
+- Prösen West - 8012680
+- Pulsnitz - 8012685
+- Puschendorf - 8004901
+- Puttgarden - 8004903
+- Pölling - 8004847
+- Pönitz (b Leipzig) - 8012656
+- Pößneck unt Bf - 8012658
+- Quadrath-Ichendorf - 8004907
+- Quakenbrück - 8000304
+- Quelle - 8004908
+- Querfurt - 8010291
+- Quierschied - 8004909
+- Quint - 8004910
+- Rackwitz (B Leipzig) - 8012697
+- Radbruch - 8004913
+- Radebeul-Weintraube - 8012700
+- Radebeul-Zitzschewig - 8012701
+- Radersdorf - 8004914
+- Rain - 8004922
+- Raindorf - 8004923
+- Raisting - 8004925
+- Rakow - 8012710
+- Ranstadt - 8004942
+- Rednitzhembach - 8004978
+- Redwitz (Rodach) - 8004979
+- Regensburg-Burgweinting - 8001298
+- Rehau - 8004988
+- Rehfeld (b Falkenberg/Elster) - 8012734
+- Rehfelde - 8012735
+- Reichelsdorfer Keller - 8004994
+- Reichelsheim (Wetterau) - 8004995
+- Reichenschwand - 8005005
+- Reinhardsbrunn-Friedrichroda - 8012742
+- Reisen (Hess) - 8005026
+- Rentrisch - 8005044
+- Reurieth - 8012756
+- Reuth (b Erbendorf) - 8005050
+- Reutlingen West - 8005052
+- Reutlingen-Betzingen - 8005053
+- Reutlingen-Sondelfingen - 8005054
+- Rhade - 8005055
+- Rheinbrohl - 8005062
+- Rheinweiler - 8005068
+- Ried - 8005083
+- Riedlingen - 8005087
+- Rimbach - 8005098
+- Ringleben-Gebesee - 8012769
+- Rinteln - 8005104
+- Ritschenhausen - 8012770
+- Rodalben - 8005113
+- Rodewisch - 8012775
+- Roding - 8005121
+- Rodleben - 8012777
+- Rohrbach (Pfalz) - 8005146
+- Rohrenfeld - 8005149
+- Roitzsch (Kr Bitterfeld) - 8012788
+- Ronneburg (Thür) - 8010301
+- Rostock Kassebohm - 8012806
+- Rothenburg ob der Tauber - 8005190
+- Roßbach (Pfalz) - 8005172
+- Roßla - 8012796
+- Ruppertsgrün - 8012823
+- Rupprechtstegen - 8005231
+- Rätzlingen - 8012705
+- Rödental - 8004633
+- Rödental Mitte - 8005122
+- Röslau - 8005133
+- Röthenbach (Allgäu) - 8005138
+- Saal (Donau) - 8005238
+- Sachsendorf (b Calbe) - 8012830
+- Sagehorn - 8005256
+- Salem - 8004029
+- Sandkrug - 8005287
+- Schafbrücke - 8005306
+- Schelklingen - 8005333
+- Schemmerberg - 8005334
+- Schenkenzell - 8005335
+- Scherfede - 8005336
+- Schiffweiler - 8005346
+- Schiltach - 8005350
+- Schirgiswalde-Kirschau - 8012864
+- Schirnding - 8005352
+- Schleife - 8012870
+- Schlierbach (Kr Schwalm-Eder) - 8005365
+- Schmalkalden - 8010315
+- Schmalkalden Fachhochschule - 8012881
+- Schmiechen - 8005379
+- Schmölln (Thür) - 8012889
+- Schnabelwaid - 8000328
+- Schnaittach Markt - 8005383
+- Schondorf (Bay) - 8005417
+- Schonungen - 8005400
+- Schopfheim-Schlattholz - 8005426
+- Schopfloch (b Freudenstadt) - 8005421
+- Schopp - 8005423
+- Schortens-Heidmühle (Oldb) - 8002695
+- Schrobenhausen - 8005432
+- Schwallungen - 8012929
+- Schwarmstedt - 8005457
+- Schwarzenbach (Saale) - 8005466
+- Schwarzheide Ost - 8012941
+- Schweikershain - 8012946
+- Schweinfurt-Mitte - 8005479
+- Schwenningen (Neckar) - 8005490
+- Schwörstadt - 8005497
+- Schönberg (Meckl) - 8012902
+- Schönberg (Vogtl) - 8010317
+- Schönebeck-Felgeleben - 8013465
+- Schöneck-Kilianstädten - 8003255
+- Schöneck-Oberdorfelden - 8004523
+- Schönfließ Dorf - 8012914
+- Schönstedt - 8012919
+- Schöppenstedt - 8005413
+- Sebnitz (Sachs) - 8012959
+- Sechshelden - 8005498
+- Seefeld (Mark) - 8012966
+- Seelow (Mark) - 8012973
+- Seerhausen - 8012975
+- Seeshaupt - 8005508
+- Selb-Plößberg - 8005518
+- Selbitz - 8005520
+- Seligenstadt (b Würzburg) - 8005523
+- Sennestadt - 8005535
+- Serrig - 8005539
+- Siedlinghausen - 8005555
+- Siershahn - 8000060
+- Sindorf - 8005575
+- Singlis - 8005576
+- Sinsheim Museum/Arena - 8070097
+- Sipplingen - 8005582
+- Solms - 8005592
+- Solnhofen - 8005593
+- Sondershausen - 8010329
+- Sontheim (Schwab) - 8005607
+- Sontheim-Brenz - 8005608
+- Sontra - 8005610
+- Speicher - 8005624
+- Sponholz - 8013017
+- Sprendlingen (Rheinhess) - 8005637
+- St. Mang - 8005653
+- St. Thomas - 8005658
+- Stadtilm - 8013023
+- Staffel - 8005668
+- Stauchitz - 8013029
+- Steina - 8013033
+- Steinbach-Hallenberg - 8013037
+- Steinefrenz - 8005700
+- Steinsfurt - 8005714
+- Sterbfritz - 8005720
+- Stetten (Schwab) - 8005725
+- Stockau - 8005734
+- Stockheim (Oberfr) - 8005737
+- Stollberg (Sachs) - 8010337
+- Storzingen - 8005747
+- Stralsund-Grünhufe - 8011778
+- Strasburg (Uckerm) - 8010339
+- Straußfurt - 8010342
+- Straßkirchen - 8005752
+- Stumsdorf - 8010343
+- Suchsdorf - 8005781
+- Sulzbach-Rosenberg Hütte - 8005801
+- Syrau - 8013080
+- Sörup - 8005586
+- Süderbrarup - 8005782
+- Sülstorf - 8013073
+- Sünching - 8005787
+- Taben - 8005812
+- Tangerhütte - 8013083
+- Tauberfeld - 8005828
+- Teschenhagen - 8013104
+- Teuchern - 8010349
+- Teutschenthal - 8013110
+- Thaleischweiler-Fröschen - 8005843
+- Thalfingen (b Ulm) - 8005845
+- Thann-Matzbach - 8005852
+- Theißen - 8013115
+- Themar - 8010350
+- Tiefenau - 8013124
+- Trabitz - 8005890
+- Triefenried - 8005903
+- Triesdorf - 8005907
+- Triptis - 8010352
+- Tübingen-Derendingen - 8005917
+- Uffenheim - 8005947
+- Uhldingen-Mühlhofen - 8004595
+- Ulm Ost - 8005952
+- Ulm-Donautal - 8005954
+- Undorf - 8005966
+- Unterelchingen - 8005983
+- Unterhausen (Bay) - 8005993
+- Untermaßfeld - 8013172
+- Unterreichenbach - 8006008
+- Untersulzbach - 8006019
+- Utting - 8006048
+- Vachdorf - 8013179
+- Veilsdorf - 8013184
+- Velden (b Hersbruck) - 8006067
+- Vellmar-Niedervellmar - 8004415
+- Viernau - 8013191
+- Villmar - 8006083
+- Vilseck - 8006085
+- Vinzelberg - 8013194
+- Vlotho - 8006091
+- Vogelweh - 8006100
+- Vohburg - 8006101
+- Voigtsgrün - 8013201
+- Voldagsen - 8006104
+- Vorra (Pegnitz) - 8006120
+- Wachenheim (Pfalz) - 8006125
+- Waibstadt - 8007442
+- Waigolshausen - 8006147
+- Waldershof - 8006155
+- Waldheim - 8010359
+- Walkenried - 8006172
+- Walldorf (Werra) - 8013215
+- Wallersdorf - 8006181
+- Walleshausen - 8006184
+- Walsrode - 8006193
+- Wandersleben - 8013226
+- Warendorf - 8006206
+- Warthausen - 8006212
+- Wasseralfingen - 8006217
+- Wasserburg (Günz) - 8006219
+- Wasungen - 8013245
+- Watzenborn-Steinberg - 8006229
+- Weckesheim - 8006232
+- Wegeleben - 8010364
+- Wehr-Brennet - 8001174
+- Weichering - 8006256
+- Weidenbach - 8006258
+- Weiherhammer - 8006266
+- Weilerswist-Derkum - 8001416
+- Weingarten (Berg) - 8087067
+- Weisen - 8013258
+- Weizern-Hopferau - 8006309
+- Weißandt-Gölzau - 8013259
+- Weißenau - 8006296
+- Weißenfels West - 8013261
+- Welgesheim-Zotzenheim - 8006312
+- Wellen (Mosel) - 8006315
+- Wellmitz - 8013272
+- Werbig - 8010371
+- Wernfeld - 8006349
+- Werther - 8013291
+- Westbevern - 8006361
+- Westerburg - 8000245
+- Westerham - 8006366
+- Westerstetten - 8006373
+- Westewitz-Hochweitzschen - 8013295
+- Westheim-Langendorf - 8006380
+- Wiebelskirchen - 8006392
+- Wiesenau - 8013305
+- Wiesenburg (Mark) - 8010376
+- Wildberg (Württ) - 8006432
+- Wildeck-Obersuhl - 8004589
+- Wilhermsdorf - 8006448
+- Wilhermsdorf-Mitte - 8007856
+- Wilmersdorf (b Angermünde) - 8013313
+- Wilthen - 8010380
+- Wiltingen (Saar) - 8006461
+- Windischeschenbach - 8006472
+- Winterberg (Westf) - 8006486
+- Winterhausen - 8006488
+- Wintermoor - 8006489
+- Wipperdorf - 8013318
+- Wirtheim - 8006499
+- Wittenhagen - 8013322
+- Wittgensdorf ob Bf - 8010383
+- Wittighausen - 8006517
+- Wolfach - 8006544
+- Wolfenbüttel - 8000255
+- Wolfgang (Kr Hanau) - 8006548
+- Wolfratshausen - 8006550
+- Wolkramshausen - 8010385
+- Wremen - 8006570
+- Wulfen (Anh) - 8013357
+- Wulften - 8006592
+- Wunsiedel-Holenbrunn - 8000173
+- Wurzbach (Thür) - 8013360
+- Wusterwitz - 8013365
+- Wutha - 8013366
+- Wyhlen - 8006629
+- Wölfersheim-Södel - 8006529
+- Wörth (Rhein)-Mozartstraße - 8006536
+- Wülknitz - 8013348
+- Wünschendorf (Elster) - 8010387
+- Würgendorf - 8006577
+- Würzburg-Zell - 8006586
+- Wüstenfelde - 8013352
+- Wüsting - 8006270
+- Zahna - 8013371
+- Zeithain - 8013381
+- Zell (Wiesental) - 8006641
+- Zernsdorf - 8013392
+- Zeulenroda unt Bf - 8013396
+- Zielitz - 8013402
+- Ziltendorf - 8013406
+- Zimmern - 8006662
+- Zimmersrode - 8006663
+- Zirndorf - 8006664
+- Zoo - 8080610
+- Zotzenbach - 8006672
+- Zschaitz - 8013424
+- Zscherbener Straße - 8080620
+- Zschortau - 8013428
+- Zusenhofen - 8006678
+- Zwenkau-Großdalzig - 8013447
+- Zwiesel (Bay) - 8006684
+- Zwotental - 8010398
+- Zöberitz - 8013414
+- Zörnigall - 8013418
+- Öhringen Cappel - 8004620
+- Öhringen West - 8004624
+- Überlingen - 8005942
+- Überlingen-Nußdorf - 8005943
+- Überlingen-Therme - 8005937
+- Ürzig DB - 8005945
+
+
+### Category 7
+
+- Aglasterhausen - 8007445
+- Albsheim (Eis) - 8070096
+- Aletshausen - 8000482
+- Allendorf (Dillkr) - 8000492
+- Alpen - 8000500
+- Altenfeld (Rhön) - 8000525
+- Ammern - 8011029
+- Amtshainersdorf - 8011039
+- Annweiler-Sarnstall - 8005257
+- Asselheim - 8000625
+- Attendorn Hohen-Hagen - 8087039
+- Auerbach (Vogtl) Hp - 8011059
+- Auerbach (Vogtl) ob Bf - 8010011
+- Auerbach (Vogtl) unt Bf - 8010012
+- Aufhausen (Württ) - 8000655
+- Bachfeld - 8011065
+- Bachheim - 8000686
+- Bad Berka - 8011066
+- Bad Berka Zeughausplatz - 8011067
+- Bad Elster - 8011072
+- Bad Griesbach - 8000707
+- Bad Lauterberg im Harz Barbis - 8005324
+- Bad Salzdetfurth - 8000740
+- Bad Salzdetfurth-Solebad - 8000759
+- Bad Steben - 8000756
+- Bad Teinach-Neubulach - 8000757
+- Bad Wimpfen im Tal - 8000706
+- Balgstädt - 8011103
+- Ballstädt (Kr Gotha) - 8011106
+- Barbelroth - 8000802
+- Bavendorf - 8000827
+- Bebitz - 8011119
+- Belleben - 8011133
+- Benshausen - 8011139
+- Berg (Pfalz) - 8000890
+- Bergenweiler - 8000889
+- Bergsdorf - 8011149
+- Bernburg-Waldau Hp - 8011170
+- Berthelsdorf (Erzgeb) - 8010044
+- Bettmannsäge - 8000928
+- Beuron - 8000933
+- Biesenrode - 8011187
+- Bindfelde - 8011190
+- Binolen - 8000978
+- Birkungen - 8010048
+- Bittelbronn - 8001002
+- Blaibach (Oberpf) - 8001003
+- Blechhammer (Thür) - 8011208
+- Bleichenbach (Oberhess) - 8001018
+- Blumberg-Rehhahn - 8011064
+- Bobitz - 8011215
+- Bodelsberg - 8001046
+- Bodenburg - 8001048
+- Boppard-Fleckertshöhe - 8002004
+- Bottrop-Vonderort - 8001108
+- Boxberg-Wölchingen - 8001111
+- Braunsbedra Ost - 8011256
+- Braunsdorf-Lichtenwalde - 8011257
+- Breitenbrunn (Schwab) - 8001147
+- Breternitz - 8011267
+- Brettorf - 8001176
+- Brigachtal Kirchdorf - 8003339
+- Brigachtal Klengen - 8003336
+- Brilon Stadt - 8001182
+- Brucken - 8001205
+- Buckow (b Beeskow) - 8011284
+- Bufleben - 8010067
+- Burhafe - 8001301
+- Burkhardswalde-Maxen - 8011298
+- Buttstädt - 8011304
+- Bärenhecke-Johnsbach - 8011091
+- Bärenklau - 8011093
+- Börnecke (Harz) - 8011226
+- Büsenbachtal - 8001258
+- Calbe (Saale) Stadt - 8011323
+- Calbe (Saale) West - 8010071
+- Casekow - 8011311
+- Clarholz - 8001335
+- Clausnitz - 8011315
+- Contwig - 8001341
+- Crossen a. d. Elster - 8010196
+- Dachwig - 8011336
+- Dannenberg Ost - 8001372
+- Darlingerode - 8011346
+- Deißlingen Mitte - 8001405
+- Dettingen (Teck) - 8001428
+- Dietersheim - 8001450
+- Dietzhausen - 8011378
+- Dittersbach (b Frankenberg/Sachs) - 8011385
+- Dohna (Sachs) - 8011398
+- Domnitz (SaalKr) - 8011402
+- Donaueschingen Aufen - 8001482
+- Donaueschingen Grüningen - 8001483
+- Dossow (Prign) - 8011408
+- Dottenheim - 8001548
+- Drohndorf-Mehringen - 8011433
+- Duisburg-Bissingheim - 8001599
+- Duisburg-Entenfang - 8005272
+- Döllstädt - 8010081
+- Ebertsheim - 8001638
+- Eckardtsleben - 8011449
+- Effelder (Thür) - 8011453
+- Effolderbach - 8001670
+- Eggersdorf - 8011455
+- Eisenbach-Matzenbach - 8001727
+- Eiswoog - 8001732
+- Ellefeld - 8011477
+- Ellzee - 8001752
+- Elsterberg Kunstseidenwerk - 8011488
+- Elxleben - 8011489
+- Elz (Kr Limburg/Lahn) Süd - 8001765
+- Engstlatt - 8001794
+- Ernstthal am Rennsteig - 8011512
+- Eschelbronn - 8007443
+- Ettenhausen - 8011519
+- Eubigheim - 8001933
+- Ferch-Lienewitz - 8013480
+- Fohrde - 8011550
+- Frankenberg (Sachs) Süd - 8011554
+- Frankfurt (Oder)-Neuberesinchen - 8011557
+- Freckleben - 8011564
+- Freienorla - 8011567
+- Freihöls - 8002075
+- Fretzdorf - 8011572
+- Freyburg (Unstrut) - 8011573
+- Friedrichroda - 8011578
+- Friedrichshafen Landratsamt - 8002122
+- Friedrichshafen-Fischbach - 8002111
+- Friedrichshafen-Kluftern - 8003345
+- Friedrichsruh - 8002113
+- Friesdorf - 8011586
+- Friesdorf Ost - 8011587
+- Förderstedt - 8011549
+- Fürstenwalde (Spree) Süd - 8011591
+- Galgenschanze - 8002175
+- Gangloffsömmern - 8011594
+- Gatersleben - 8011599
+- Gau Bickelheim - 8002191
+- Gera-Langenberg - 8011619
+- Gittelde - 8002281
+- Glückauf - 8011643
+- Goldenstedt (Oldb) - 8002320
+- Golzow (b Eberswalde) - 8011671
+- Goßdorf-Kohlmühle - 8011676
+- Grafenau - 8002344
+- Grießen (Baden) - 8002373
+- Großenbrode - 8002411
+- Grub (Oberpf) - 8002436
+- Gräfenstuhl-Klippmühle - 8011685
+- Gräfentonna - 8011687
+- Grünstadt Nord - 8002444
+- Gutach Freilichtmuseum - 8002480
+- Gutenfürst - 8011790
+- Göbelnrod - 8002301
+- Göhrde - 8002304
+- Hadmersleben - 8011794
+- Haidenaab-Göppmannsbühl - 8002523
+- Haiger Obertor - 8002524
+- Hainewalde - 8011801
+- Halberstadt Oststraße - 8011808
+- Halberstadt-Spiegelsberge - 8011809
+- Halbmeil - 8002533
+- Hammelburg - 8002567
+- Harra - 8011820
+- Harra Nord - 8011821
+- Hartmannmühle - 8011825
+- Hausen (Schwab) - 8002664
+- Hedersleben-Wedderstedt - 8011838
+- Heidenheim Voithwerk - 8070005
+- Heinzenhausen - 8002724
+- Helenesee - 8011853
+- Helmsdorf (b Pirna) - 8011855
+- Helmstadt (Baden) - 8007444
+- Herbertingen Ort - 8002760
+- Hetschburg - 8011869
+- Hettenhausen - 8002814
+- Heudeber-Danstedt - 8010169
+- Hilpoltstein - 8002838
+- Hirsau - 8002852
+- Hitzacker - 8002865
+- Hohenecken - 8002943
+- Hohensülzen - 8002958
+- Holzdorf (b Weimar) - 8011910
+- Holzhau - 8011912
+- Hoppingen - 8002994
+- Hubacker - 8003010
+- Hämerten - 8011796
+- Höhmühlbach - 8002895
+- Hörselgau - 8087061
+- Hüttengrund - 8011925
+- Ibach - 8003035
+- Immendingen Mitte - 8003061
+- Immendingen Zimmern - 8003066
+- Irfersgrün - 8011937
+- Itzelberg - 8003103
+- Kablow - 8011981
+- Kaiserslautern Pfaffwerk - 8003150
+- Kaiserslautern West - 8003151
+- Kapellen-Drusweiler - 8003175
+- Kapsweyer - 8007859
+- Karsdorf - 8011993
+- Katzweiler - 8003215
+- Kiebitzhöhe - 8012007
+- Kiel-Russee - 8003253
+- Kirchscheidungen - 8012012
+- Kleinjena - 8012034
+- Klingenthal - 8012045
+- Klostermansfeld Randsiedlung - 8010204
+- Kläden (Kr Stendal) - 8012014
+- Kranichfeld - 8012092
+- Kreimbach-Kaulbach - 8003429
+- Krumhermsdorf - 8012113
+- Kummersdorf (b Storkow) - 8012129
+- Kölleda - 8012064
+- Könitz (Thür) - 8012075
+- Köttewitz - 8012079
+- Laberweinting - 8003488
+- Langendorf - 8012155
+- Langeneichstädt - 8012156
+- Langenhahn - 8003543
+- Langenorla Ost - 8012159
+- Langenorla West - 8012160
+- Langenwolmsdorf - 8012163
+- Langenwolmsdorf Mitte - 8012164
+- Langlau - 8003554
+- Laucha (Unstrut) - 8012167
+- Lauenstein (Sachs) - 8012170
+- Lauscha (Thür) - 8012171
+- Lautenbach (Baden) - 8003594
+- Legefeld - 8012180
+- Lehnheim - 8003612
+- Lenglern - 8003644
+- Lichtenberg (Erzgeb) - 8012220
+- Lichtentanne (Thür) - 8012225
+- Lichtenthal - 8003676
+- Lindenberg (Mark) - 8012237
+- Loßburg-Rodt - 8003758
+- Lutten - 8003800
+- Löcherberg - 8003721
+- Löcknitz - 8010213
+- Lödingsen - 8003722
+- Lörzenbach-Fahrenbach - 8003731
+- Mansfeld (Südharz) - 8012300
+- Marbach Ost Villingen-Schwenningen - 8003857
+- Marbach West Villingen-Schwenningen - 8003854
+- Maria Rain - 8003859
+- Marktoberdorf Schule - 8003877
+- Marxgrün - 8003903
+- Maximiliansau im Rüsten - 8003911
+- Meeder - 8003938
+- Melsdorf - 8003960
+- Menden (Sauerland) Süd - 8003965
+- Mengersgereuth-Hämmern - 8012333
+- Mengersgereuth-Hämmern Ost - 8012334
+- Mertesheim - 8003988
+- Meßdorf - 8012342
+- Michelaubrück - 8004013
+- Miesenbach - 8007482
+- Miesterhorst - 8012352
+- Miltern - 8012354
+- Mixdorf - 8012370
+- Muldenberg Floßplatz - 8000273
+- Möhringen Bahnhof - 8004068
+- Möhringen Rathaus - 8004067
+- Mönchröden - 8004064
+- Mücheln (Geiseltal) - Stadt - 8012392
+- Mühlbach (b Pirna) - 8012394
+- Mühlen (b Horb) - 8004104
+- Mühlheim (b Tuttlingen) - 8004111
+- München (b Bad Berka) - 8012401
+- Nachterstedt-Hoym - 8012410
+- Nagold-Iselshausen - 8004202
+- Nagold-Steinberg - 8004195
+- Nassau (Erzgeb) - 8012412
+- Nassenbeuren - 8004207
+- Nauendorf (Saalkr) - 8012414
+- Neckarbischofsheim Nord - 8077434
+- Neetzendorf - 8004227
+- Neetzka - 8012421
+- Neidenstein - 8007441
+- Neinstedt - 8012423
+- Nemsdorf-Göhrendorf - 8012424
+- Nendingen (b Tuttlingen) - 8004235
+- Neuburg (Rhein) - 8004257
+- Neuhaus-Igelshieb - 8012452
+- Neundorf (Anh) - 8012467
+- Neunhofen - 8012468
+- Neustadt (Waldnaab) - 8004332
+- Niederhadamar - 8004376
+- Niederlehme - 8012489
+- Niederraunau - 8004401
+- Niederschlottwitz - 8012497
+- Niederschmalkalden - 8012498
+- Niederwillingen - 8012504
+- Niederwürschnitz - 8012505
+- Nienburg (Saale) - 8012507
+- Nohra (b Weimar) - 8012511
+- Nordhausen-Salza - 8012516
+- Oberelchingen - 8004525
+- Obergrunstedt - 8012524
+- Oberkirch-Koehlersiedlung - 8004546
+- Oberlauscha - 8012527
+- Oberschlottwitz - 8012535
+- Obersdorf - 8012537
+- Oegeln - 8012551
+- Oelsnitz (Erzgeb) - 8012553
+- Offensen (Kr Northeim) - 8004652
+- Oppurg - 8012563
+- Osterode am Harz Leege - 8004705
+- Osterode am Harz Mitte - 8004704
+- Ottenhofen-Bergel - 8004724
+- Owen (Teck) - 8004740
+- Paulinzella - 8012615
+- Petersaurach - 8004774
+- Pfaffenhausen - 8004780
+- Pflaumloch - 8004796
+- Pirna-Copitz Nord - 8012641
+- Plauen (Vogtl)-Straßberg - 8010336
+- Porschdorf (Kr Pirna) - 8012662
+- Premnitz Nord - 8012668
+- Prittitz - 8012675
+- Pulsnitz Süd - 8012686
+- Rammelsbach - 8004929
+- Rammingen - 8004930
+- Rammingen (Bay) - 8004927
+- Ramsbach Birkhof - 8004931
+- Ramsbach Höfle - 8004932
+- Ramsen - 8004935
+- Rathmannsdorf (Kr Pirna) - 8012719
+- Rauenstein (Thür) - 8012723
+- Rebdorf-Hofmühle - 8004966
+- Rechenberg - 8012727
+- Rechterfeld - 8004970
+- Reckweilerhof - 8004975
+- Rehweiler - 8004993
+- Reinsdorf (b Nebra) - 8012743
+- Rentzschmühle - 8012751
+- Reuth (b Plauen/Vogtl) - 8012759
+- Riederau - 8005086
+- Rieschweiler - 8005094
+- Rinnthal - 8005103
+- Rohr (Thür) - 8012787
+- Rollhofen - 8005154
+- Rottenacker - 8005195
+- Rottweil Neufra - 8004280
+- Roßbach - 8012429
+- Rödlitz-Hohndorf - 8012781
+- Rönshausen - 8005131
+- Rötenbach (Baden) - 8005136
+- Röthenbach (Oberpf) - 8005139
+- Saasen - 8005249
+- Sanderbusch - 8005285
+- Schaidt (Pf) - 8007857
+- Schalkau - 8012852
+- Schalkau-Mitte - 8012854
+- Schierstedt - 8012862
+- Schiltach Mitte - 8005347
+- Schmalnau - 8005374
+- Schneeberg (Mark) - 8012895
+- Schrezheim - 8005431
+- Schwabsberg - 8005445
+- Schwante - 8012934
+- Schweighofen - 8007860
+- Schwenningen (Bay) - 8005489
+- Schöneck (Vogtl) - 8012908
+- Schöneck (Vogtl) Ferienpark - 8000343
+- Schönhausen (Elbe) - 8010321
+- Schülldorf - 8005435
+- Schüptitz - 8012927
+- Seebach (Kr Mühlhausen) - 8012961
+- Seltendorf - 8012984
+- Seulbitz - 8005545
+- Siebeldingen-Birkweiler - 8005551
+- Sigmaringendorf - 8005568
+- Silbach - 8005569
+- Singen (Thür) - 8012998
+- Sohl - 8013002
+- Solpke - 8013005
+- Soltau (Han) Nord - 8005594
+- Soltendieck - 8000445
+- Sonneberg (Thür) Nord - 8013009
+- Sonneberg (Thür) Ost - 8013010
+- Sonneberg (Thür) West - 8013011
+- Spaichingen Mitte - 8005617
+- Spiegelau - 8005630
+- Stambach - 8005673
+- Stammbach - 8005674
+- Stapelburg - 8013432
+- Steinach (Thür) - 8013034
+- Steinach Süd - 8013036
+- Steinalben - 8005689
+- Steinfeld (Pfalz) - 8007858
+- Steinfeld (b Stendal) - 8013039
+- Steinwenden - 8005715
+- Stendal Vorbf - 8013046
+- Stenn - 8013047
+- Stetten (Donau) - 8005723
+- Stolpen - 8013057
+- Straß-Moos - 8005749
+- Straßberg-Winterlingen - 8005750
+- Stuttgart Ebitzweg - 8005766
+- Stuttgart-Münster - 8005771
+- Stuttgart-Zazenhausen - 8005777
+- Subzin-Liessow - 8013072
+- Suhl-Heinrichs - 8013077
+- Sulzberg - 8005802
+- Tangermünde - 8013084
+- Tangermünde West - 8013085
+- Tannheim (Württ) - 8005823
+- Tannroda - 8013089
+- Tapfheim - 8005824
+- Teicha - 8013097
+- Thale Musestieg - 8013125
+- Thansüß - 8005855
+- Theisbergstegen - 8005857
+- Trais-Horloff - 8005891
+- Trebitz (b Könnern) - 8013140
+- Treuen - 8013144
+- Triebes - 8013150
+- Trochtelfingen (b Bopfingen) - 8005908
+- Tuttlingen Gänsäcker - 8005946
+- Tuttlingen Nord - 8000456
+- Tuttlingen Zentrum - 8079056
+- Töppeln - 8013129
+- Ubbedissen - 8005930
+- Uchtspringe - 8013158
+- Ueckermünde - 8013162
+- Ulbersdorf - 8013168
+- Unadingen - 8005963
+- Unterkochen - 8005997
+- Unterlemnitz - 8010354
+- Unterlenningen - 8005998
+- Unterloquitz - 8013171
+- Vahldorf - 8013180
+- Vatterode - 8013182
+- Vatteröder Teich - 8079152
+- Vechta Stoppelmarkt - 8087020
+- Vehlefanz - 8013183
+- Vernawahlshausen - 8006078
+- Villingen-Schwenningen Eisstadion - 8000356
+- Villingen-Schwenningen Hammerstatt - 8000393
+- Volpriehausen - 8006112
+- Wahlbach (Kr Siegen) - 8006139
+- Walddrehna - 8013210
+- Wallertheim - 8006183
+- Walsleben - 8013222
+- Waltershausen-Schnepfenthal - 8013224
+- Wasserthaleben - 8013244
+- Wasserzell (b Eichstätt) - 8006224
+- Weener - 8006237
+- Weesenstein - 8013247
+- Wegenstedt - 8013250
+- Weil am Rhein Gartenstadt - 8000143
+- Weil am Rhein Ost - 8006273
+- Weil am Rhein Pfädlistraße - 8000146
+- Weilheim - 8006281
+- Weimar West - 8013266
+- Welkers - 8006313
+- Wemmetsweiler Rathaus - 8000378
+- Wendisch-Rietz - 8012855
+- Wernigerode Elmowerk - 8013286
+- Wesseln - 8006358
+- Westhausen - 8006376
+- Willmering - 8006455
+- Wippra - 8013319
+- Wittmund - 8006520
+- Woffleben - 8013333
+- Wohnstadt Nord - 8080600
+- Wolfsgefärth - 8013334
+- Wolterdingen (Han) - 8006559
+- Wurlitz - 8006624
+- Wörnitzstein - 8006533
+- Würgendorf Ort - 8006578
+- Zell-Romrod - 8006644
+- Zella-Mehlis West - 8013383
+- Zollhaus Villingen-Schwenningen - 8006667
+- Zollhaus-Petersthal - 8006670
+- Zwota-Zechenbach - 8013436
+
+## By Bundesland
+
+**2 of 16** Bundesländer fully covered **(12.5%)**.
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
 - [Brandenburg](#brandenburg)
@@ -24,7 +2502,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - [Schleswig-Holstein](#schleswig-holstein)
 - [Thüringen](#thüringen)
 
-## Baden-Württemberg
+### Baden-Württemberg
 
 - Aglasterhausen - 8007445
 - Albbruck - 8000463
@@ -431,7 +2909,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Überlingen-Therme - 8005937
 
 
-## Bayern (Bodensee)
+### Bayern (Bodensee)
 
 - Abensberg - 8000410
 - Adelschlag - 8000419
@@ -887,7 +3365,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Übersee - 8005940
 
 
-## Brandenburg
+### Brandenburg
 
 - Ahrensfelde Friedhof - 8011004
 - Ahrensfelde Nord - 8011005
@@ -1020,7 +3498,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Ziltendorf - 8013406
 
 
-## Bremen
+### Bremen
 
 - Bremen Hbf - 8000050
 - Bremen-Hemelingen - 8001157
@@ -1031,7 +3509,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Bremen-Walle - 8001167
 
 
-## Hessen
+### Hessen
 
 - Albshausen - 8000471
 - Allendorf (Dillkr) - 8000492
@@ -1257,7 +3735,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Zotzenbach - 8006672
 
 
-## Mecklenburg-Vorpommern
+### Mecklenburg-Vorpommern
 
 - Altefähr - 8011017
 - Altentreptow - 8011025
@@ -1303,7 +3781,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Wüstenfelde - 8013352
 
 
-## Niedersachsen
+### Niedersachsen
 
 - Achim - 8000413
 - Adelebsen - 8000418
@@ -1469,7 +3947,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Wüsting - 8006270
 
 
-## Nordrhein-Westfalen
+### Nordrhein-Westfalen
 
 - Ahlen (Westf) - 8000441
 - Alpen - 8000500
@@ -1659,7 +4137,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Zieverich - 8006659
 
 
-## Rheinland-Pfalz
+### Rheinland-Pfalz
 
 - Albersweiler (Pfalz) - 8000466
 - Albsheim (Eis) - 8070096
@@ -1842,7 +4320,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Ürzig DB - 8005945
 
 
-## Saarland
+### Saarland
 
 - Auersmacher - 8000651
 - Besseringen - 8000926
@@ -1886,7 +4364,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Wiebelskirchen - 8006392
 
 
-## Sachsen
+### Sachsen
 
 - Adorf (Vogtl) - 8010001
 - Amtshainersdorf - 8011039
@@ -2123,7 +4601,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Zwotental - 8010398
 
 
-## Sachsen-Anhalt
+### Sachsen-Anhalt
 
 - Aschersleben Pbf - 8010009
 - Baalberge - 8010013
@@ -2301,7 +4779,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Zörnigall - 8013418
 
 
-## Schleswig-Holstein
+### Schleswig-Holstein
 
 - Bredstedt - 8001139
 - Büchen - 8000058
@@ -2330,7 +4808,7 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Timmendorferstrand - 8005874
 
 
-## Thüringen
+### Thüringen
 
 - Ammern - 8011029
 - Apolda - 8011051

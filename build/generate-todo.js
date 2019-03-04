@@ -32,14 +32,22 @@ const incompleteStations = incompleteStationIds.map(id => {
 	return {
 		id,
 		name: station.name || undefined,
+		category: station.category || '7',
 		land: get(get(land, 'properties') || get(land, 'features[0].properties'), 'GEN')
 	}
 })
 
 const main = () => {
+	const categoryHeading = 'By Category'
+	const landHeading = 'By Bundesland'
 	process.stdout.write('# ToDo')
 	process.stdout.write('\n\n')
-	process.stdout.write('List of stations that have not been (fully) covered yet, sorted by Bundesland.')
+	process.stdout.write('List of stations that have not been (fully) covered yet.')
+	process.stdout.write('\n\n')
+
+	process.stdout.write(`- [${categoryHeading}](#${slugger.slug(categoryHeading)})`)
+	process.stdout.write('\n')
+	process.stdout.write(`- [${landHeading}](#${slugger.slug(landHeading)})`)
 	process.stdout.write('\n\n')
 
 	const everything = [...fullData.perrons, ...fullData.tracks]
@@ -53,15 +61,45 @@ const main = () => {
 	process.stdout.write(`**${coveredStationsLength} of ${allStations.length}** stations fully covered **(${coveredStationsPercentage}%)**.`)
 	process.stdout.write('\n\n')
 
-	const byLand = groupBy(incompleteStations, 'land')
+	process.stdout.write(`## ${categoryHeading}`)
+	process.stdout.write('\n\n')
+	const byCategory = groupBy(incompleteStations, 'category')
+	const categories = ['1', '2', '3', '4', '5', '6', '7']
 
+	for (let category of categories) {
+		const categoryName = `Category ${category}`
+		process.stdout.write(`- [${categoryName}](#${slugger.slug(categoryName)})`)
+		process.stdout.write('\n')
+	}
+
+	for (let category of categories) {
+		const categoryName = `Category ${category}`
+		const matchingStations = sortBy(byCategory[category] || [], 'name')
+		process.stdout.write('\n')
+		process.stdout.write(`### ${categoryName}`)
+		process.stdout.write('\n\n')
+		if (matchingStations.length === 0) {
+			process.stdout.write('**All stations in this category are already covered.**')
+			process.stdout.write('\n')
+		} else {
+			for (let matchingStation of matchingStations) {
+				const name = [matchingStation.name, matchingStation.id].filter(x => !!x).join(' - ')
+				process.stdout.write(`- ${name}`)
+				process.stdout.write('\n')
+			}
+		}
+		process.stdout.write('\n')
+	}
+
+	process.stdout.write(`## ${landHeading}`)
+	process.stdout.write('\n\n')
+
+	const byLand = groupBy(incompleteStations, 'land')
 	const coveredLaenderLength = 16 - Object.keys(byLand).length
 	const coveredLaenderPercentage = Math.round(1000 * (coveredLaenderLength / 16)) / 10
 	process.stdout.write(`**${coveredLaenderLength} of 16** Bundesländer fully covered **(${coveredLaenderPercentage}%)**.`)
 	process.stdout.write('\n')
 
-	process.stdout.write('## Contents')
-	process.stdout.write('\n\n')
 	for (let land of Object.keys(byLand).sort()) {
 		process.stdout.write(`- [${land}](#${slugger.slug(land)})`)
 		process.stdout.write('\n')
@@ -69,7 +107,7 @@ const main = () => {
 
 	for (let land of Object.keys(byLand).sort()) {
 		process.stdout.write('\n')
-		process.stdout.write(`## ${land}`)
+		process.stdout.write(`### ${land}`)
 		process.stdout.write('\n\n')
 		const landStations = sortBy(byLand[land], 'name')
 		for (let landStation of landStations) {
