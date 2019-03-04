@@ -2,9 +2,9 @@
 
 List of stations that have not been (fully) covered yet, sorted by Bundesland.
 
-**14833 of 21097** perrons/tracks covered **(70.3%)**.
+**14842 of 21094** perrons/tracks covered **(70.4%)**.
 
-**2908 of 5354** stations fully covered **(54.3%)**.
+**2916 of 5354** stations fully covered **(54.5%)**.
 
 **2 of 16** Bundesländer fully covered **(12.5%)**.
 ## Contents
@@ -1284,18 +1284,10 @@ List of stations that have not been (fully) covered yet, sorted by Bundesland.
 - Lübstorf - 8012264
 - Miltzow - 8012358
 - Neetzka - 8012421
-- Neubrandenburg - 8010241
-- Neustrelitz Hbf - 8010250
-- Ostseebad Binz - 8011191
 - Papendorf - 8012603
-- Parchim - 8010267
-- Pasewalk - 8010268
-- Prora - 8012683
 - Rakow - 8012710
 - Ribnitz-Damgarten West - 8012763
-- Rostock Hbf - 8010304
 - Rostock Kassebohm - 8012806
-- Schwerin Hbf - 8010324
 - Schönberg (Meckl) - 8012902
 - Sponholz - 8013017
 - Stralsund-Grünhufe - 8011778

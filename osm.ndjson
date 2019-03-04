@@ -14846,3 +14846,15 @@
 {"type":"track","id":"8006236:SB1:2","osmType":"node","osmId":"68628693","stationName":"Wedel (Holst)","revised":true}
 {"type":"perron","id":"8004177:B01","osmType":"way","osmId":"238846272","stationName":"Müssen","revised":true}
 {"type":"track","id":"8004177:B01:1","osmType":"node","osmId":"1242123774","stationName":"Müssen","revised":true}
+{"type":"track","id":"8010304:B03:6","osmType":"node","osmId":"3980946237","stationName":"Rostock Hbf","revised":true}
+{"type":"track","id":"8010324:B01:1","osmType":"node","osmId":"3238582142","stationName":"Schwerin Hbf","revised":true}
+{"type":"track","id":"8010324:B03:4","osmType":"node","osmId":"3238582141","stationName":"Schwerin Hbf","revised":true}
+{"type":"perron","id":"8011191:B03","osmType":"relation","osmId":"6197055","stationName":"Ostseebad Binz","revised":true}
+{"type":"track","id":"8010250:B02:1","osmType":"node","osmId":"4265542550","stationName":"Neustrelitz Hbf","revised":true}
+{"type":"perron","id":"8010241:B01","broken":true,"stationName":"Neubrandenburg","revised":true}
+{"type":"perron","id":"8010241:B02","broken":true,"stationName":"Neubrandenburg","revised":true}
+{"type":"perron","id":"8010267:B01","osmType":"way","osmId":"196108289","stationName":"Parchim","revised":true}
+{"type":"track","id":"8010267:B01:1","osmType":"node","osmId":"6314395248","stationName":"Parchim","revised":true}
+{"type":"perron","id":"8010268:B04","broken":true,"stationName":"Pasewalk","revised":true}
+{"type":"track","id":"8010268:B04:4","osmType":"node","osmId":"4263811825","stationName":"Pasewalk","revised":true}
+{"type":"track","id":"8012683:B01:2","osmType":"node","osmId":"6314396651","stationName":"Prora","revised":true}
