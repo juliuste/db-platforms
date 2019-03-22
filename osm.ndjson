@@ -15032,3 +15032,5 @@
 {"type":"perron","id":"8012565:B02","osmType":"way","osmId":"278087964","stationName":"Ortrand","revised":true}
 {"type":"track","id":"8012565:B02:2","osmType":"node","osmId":"1497329288","stationName":"Ortrand","revised":true}
 {"type":"track","id":"8010287:B02:3","osmType":"node","osmId":"6334157269","stationName":"Pritzwalk","revised":true}
+{"type":"perron","id":"8089072:B03","osmType":"way","osmId":"548739856","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"track","id":"8089072:B03:5","osmType":"node","osmId":"427669897","stationName":"Berlin-Mahlsdorf","revised":true}

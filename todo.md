@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15014 of 21129** perrons/tracks covered **(71.1%)**.
+**15016 of 21129** perrons/tracks covered **(71.1%)**.
 
-**2955 of 5361** stations fully covered **(55.1%)**.
+**2956 of 5361** stations fully covered **(55.1%)**.
 
 ## By Category
 
@@ -103,7 +103,6 @@ List of stations that have not been (fully) covered yet.
 - Bayreuth Hbf - 8000028
 - Bebra - 8000029
 - Bergen auf Rügen - 8010033
-- Berlin-Mahlsdorf - 8089072
 - Bitterfeld - 8010050
 - Bonn-Bad Godesberg - 8001082
 - Buchholz (Nordheide) - 8000056
@@ -2454,10 +2453,9 @@ List of stations that have not been (fully) covered yet.
 
 ## By Bundesland
 
-**0 of 16** Bundesländer fully covered **(0%)**.
+**1 of 16** Bundesländer fully covered **(6.3%)**.
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
-- [Berlin](#berlin)
 - [Brandenburg](#brandenburg)
 - [Bremen](#bremen)
 - [Hessen](#hessen)
@@ -3331,11 +3329,6 @@ List of stations that have not been (fully) covered yet.
 - Zollhaus-Petersthal - 8006670
 - Zwiesel (Bay) - 8006684
 - Übersee - 8005940
-
-
-### Berlin
-
-- Berlin-Mahlsdorf - 8089072
 
 
 ### Brandenburg
