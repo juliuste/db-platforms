@@ -9,13 +9,10 @@ const stations = require('db-stations/full')
 const knownMissingStationNumbers = [
 	'2516', // Hamburg Sternschanze
 	'558', // Berlin Schöneberg
-	'1239', // Döberitz
-	'214', // Auerstedt
-	'354', // Bad Sulza Nord
-	'4652', // Oberhof (Thür)
-	'6275', // Tromsdorf
-	'2259', // Greppin
-	'7177' // Bürstadt
+	'7177', // Bürstadt
+	'8298',
+	'7813',
+	'6245'
 ]
 
 // replace stationNumber with station

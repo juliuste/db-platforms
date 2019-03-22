@@ -15,7 +15,7 @@ const transformColumnName = column => {
 }
 
 const download = async () => {
-	const resource = 'http://download-data.deutschebahn.com/static/datasets/bahnsteig/DBSuS-Bahnsteigdaten-Stand2018-03.csv'
+	const resource = 'https://bahn.guru/assets/bahnsteigdaten.csv'
 	const parserStream = parseCsv({
 		delimiter: ';',
 		columns: (oldColumns) => {

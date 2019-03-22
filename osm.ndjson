@@ -306,11 +306,11 @@
 {"type":"track","id":"8000057:B03:5","broken":false,"obsolete":false,"osmType":"node","osmId":"581203529","stationName":"Buchloe","revised":false}
 {"type":"perron","id":"8000058:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"24727616","stationName":"Büchen","revised":false}
 {"type":"track","id":"8000058:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3360122850","stationName":"Büchen","revised":false}
-{"type":"perron","id":"8000058:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"553477278","stationName":"Büchen","revised":false}
-{"type":"track","id":"8000058:B02:140","broken":false,"obsolete":false,"osmType":"node","osmId":"3360122847","stationName":"Büchen","revised":false}
+{"type":"perron","id":"8000058:B05","broken":false,"obsolete":false,"osmType":"way","osmId":"553477278","stationName":"Büchen","revised":false}
+{"type":"track","id":"8000058:B05:140","broken":false,"obsolete":false,"osmType":"node","osmId":"3360122847","stationName":"Büchen","revised":false}
 {"type":"track","id":"8000058:B03:41","broken":false,"obsolete":false,"osmType":"node","osmId":"3905569081","stationName":"Büchen","revised":false}
-{"type":"perron","id":"8000058:B04","broken":false,"obsolete":false,"osmType":"way","osmId":"201335877","stationName":"Büchen","revised":false}
-{"type":"track","id":"8000058:B04:4","broken":false,"obsolete":false,"osmType":"node","osmId":"3360122849","stationName":"Büchen","revised":false}
+{"type":"perron","id":"8000058:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"201335877","stationName":"Büchen","revised":false}
+{"type":"track","id":"8000058:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"3360122849","stationName":"Büchen","revised":false}
 {"type":"perron","id":"8000059:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"120862217","stationName":"Bünde (Westf)","revised":false}
 {"type":"track","id":"8000059:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"4535154020","stationName":"Bünde (Westf)","revised":false}
 {"type":"perron","id":"8000059:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"120862213","stationName":"Bünde (Westf)","revised":false}
@@ -859,8 +859,8 @@
 {"type":"track","id":"8000142:SB4:11","broken":false,"obsolete":false,"osmType":"node","osmId":"29007023","stationName":"Hagen Hbf","revised":false}
 {"type":"track","id":"8000142:SB4:12","broken":false,"obsolete":false,"osmType":"node","osmId":"968973201","stationName":"Hagen Hbf","revised":false}
 {"type":"track","id":"8000144:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"13883766","stationName":"Türkheim (Bay) Bahnhof","revised":false}
-{"type":"track","id":"8000144:B03:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4698892231","stationName":"Türkheim (Bay) Bahnhof","revised":false}
-{"type":"track","id":"8000144:B04:4","broken":false,"obsolete":false,"osmType":"node","osmId":"4698892230","stationName":"Türkheim (Bay) Bahnhof","revised":false}
+{"type":"track","id":"8000144:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4698892231","stationName":"Türkheim (Bay) Bahnhof","revised":false}
+{"type":"track","id":"8000144:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"4698892230","stationName":"Türkheim (Bay) Bahnhof","revised":false}
 {"type":"perron","id":"8000145:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"131644679","stationName":"Haltern am See","revised":false}
 {"type":"track","id":"8000145:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1448626864","stationName":"Haltern am See","revised":false}
 {"type":"perron","id":"8000145:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"4229984","stationName":"Haltern am See","revised":false}
@@ -1333,7 +1333,7 @@
 {"type":"track","id":"8000226:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4742080692","stationName":"Lehrte","revised":false}
 {"type":"perron","id":"8000226:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"235314399","stationName":"Lehrte","revised":false}
 {"type":"track","id":"8000226:B02:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2957528262","stationName":"Lehrte","revised":false}
-{"type":"track","id":"8000226:B03:11","broken":false,"obsolete":false,"osmType":"node","osmId":"21306327","stationName":"Lehrte","revised":false}
+{"type":"track","id":"8000226:B02:11","broken":false,"obsolete":false,"osmType":"node","osmId":"21306327","stationName":"Lehrte","revised":false}
 {"type":"perron","id":"8000226:B05","broken":false,"obsolete":false,"osmType":"way","osmId":"235314397","stationName":"Lehrte","revised":false}
 {"type":"track","id":"8000226:B05:13","broken":false,"obsolete":false,"osmType":"node","osmId":"1231405911","stationName":"Lehrte","revised":false}
 {"type":"track","id":"8000226:B05:14","broken":false,"obsolete":false,"osmType":"node","osmId":"1231405700","stationName":"Lehrte","revised":false}
@@ -2351,9 +2351,9 @@
 {"type":"track","id":"8000539:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"260742384","stationName":"Altenstadt (Iller)","revised":false}
 {"type":"perron","id":"8000544:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"226023715","stationName":"Altglashütten-Falkau","revised":false}
 {"type":"track","id":"8000544:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"71254200","stationName":"Altglashütten-Falkau","revised":false}
-{"type":"perron","id":"8000545:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"117103883","stationName":"Althegnenberg","revised":false}
-{"type":"track","id":"8000545:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2613533437","stationName":"Althegnenberg","revised":false}
-{"type":"track","id":"8000545:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"2613533435","stationName":"Althegnenberg","revised":false}
+{"type":"perron","id":"8000545:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"117103883","stationName":"Althegnenberg","revised":false}
+{"type":"track","id":"8000545:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2613533437","stationName":"Althegnenberg","revised":false}
+{"type":"track","id":"8000545:B01:4","broken":false,"obsolete":false,"osmType":"node","osmId":"2613533435","stationName":"Althegnenberg","revised":false}
 {"type":"perron","id":"8000546:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"201685960","stationName":"Altheim (Hess)","revised":false}
 {"type":"track","id":"8000546:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2699456000","stationName":"Altheim (Hess)","revised":false}
 {"type":"perron","id":"8000546:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"201685961","stationName":"Altheim (Hess)","revised":false}
@@ -3388,8 +3388,8 @@
 {"type":"track","id":"8001215:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"27348873","stationName":"Brühl","revised":false}
 {"type":"perron","id":"8001221:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"518133434","stationName":"Bubach","revised":false}
 {"type":"track","id":"8001221:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3810017800","stationName":"Bubach","revised":false}
-{"type":"perron","id":"8001223:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"421502900","stationName":"Bubenreuth","revised":false}
-{"type":"track","id":"8001223:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5052202414","stationName":"Bubenreuth","revised":false}
+{"type":"perron","id":"8001223:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"421502900","stationName":"Bubenreuth","revised":false}
+{"type":"track","id":"8001223:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5052202414","stationName":"Bubenreuth","revised":false}
 {"type":"perron","id":"8001225:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"49208702","stationName":"Buchbrunn-Mainstockheim","revised":false}
 {"type":"track","id":"8001225:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4732031022","stationName":"Buchbrunn-Mainstockheim","revised":false}
 {"type":"perron","id":"8001225:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"49208701","stationName":"Buchbrunn-Mainstockheim","revised":false}
@@ -4168,8 +4168,8 @@
 {"type":"track","id":"8001752:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"14016471","stationName":"Ellzee","revised":false}
 {"type":"perron","id":"8001760:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"42878562","stationName":"Elsfleth","revised":false}
 {"type":"track","id":"8001760:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4993666950","stationName":"Elsfleth","revised":false}
-{"type":"perron","id":"8001762:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"442585157","stationName":"Eltersdorf","revised":false}
-{"type":"track","id":"8001762:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"414196095","stationName":"Eltersdorf","revised":false}
+{"type":"perron","id":"8001762:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"442585157","stationName":"Eltersdorf","revised":false}
+{"type":"track","id":"8001762:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"414196095","stationName":"Eltersdorf","revised":false}
 {"type":"perron","id":"8001762:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"49455793","stationName":"Eltersdorf","revised":false}
 {"type":"track","id":"8001762:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4403420508","stationName":"Eltersdorf","revised":false}
 {"type":"perron","id":"8001763:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"223766380","stationName":"Eltville","revised":false}
@@ -4602,9 +4602,9 @@
 {"type":"track","id":"8002023:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3102446870","stationName":"Forchheim (b Karlsruhe)","revised":false}
 {"type":"perron","id":"8002023:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"203296375","stationName":"Forchheim (b Karlsruhe)","revised":false}
 {"type":"track","id":"8002023:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"3102446869","stationName":"Forchheim (b Karlsruhe)","revised":false}
-{"type":"perron","id":"8002024:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"7816210","stationName":"Forchheim (Oberfr)","revised":false}
-{"type":"perron","id":"8002024:B03","broken":false,"obsolete":false,"osmType":"way","osmId":"547308951","stationName":"Forchheim (Oberfr)","revised":false}
-{"type":"track","id":"8002024:B03:8","broken":false,"obsolete":false,"osmType":"node","osmId":"5288204418","stationName":"Forchheim (Oberfr)","revised":false}
+{"type":"perron","id":"8002024:B03","broken":false,"obsolete":false,"osmType":"relation","osmId":"7816210","stationName":"Forchheim (Oberfr)","revised":false}
+{"type":"perron","id":"8002024:B04","broken":false,"obsolete":false,"osmType":"way","osmId":"547308951","stationName":"Forchheim (Oberfr)","revised":false}
+{"type":"track","id":"8002024:B04:8","broken":false,"obsolete":false,"osmType":"node","osmId":"5288204418","stationName":"Forchheim (Oberfr)","revised":false}
 {"type":"perron","id":"8002025:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"288910189","stationName":"Frankenthal Süd","revised":false}
 {"type":"track","id":"8002025:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1682275203","stationName":"Frankenthal Süd","revised":false}
 {"type":"perron","id":"8002025:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"345467156","stationName":"Frankenthal Süd","revised":false}
@@ -5099,7 +5099,7 @@
 {"type":"track","id":"8002389:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1136145776","stationName":"Frechen-Königsdorf","revised":false}
 {"type":"track","id":"8002389:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1546846250","stationName":"Frechen-Königsdorf","revised":false}
 {"type":"track","id":"8002391:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2117616752","stationName":"Groß Rohrheim","revised":false}
-{"type":"track","id":"8002391:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5964652369","stationName":"Groß Rohrheim","revised":false}
+{"type":"track","id":"8002391:B03:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5964652369","stationName":"Groß Rohrheim","revised":false}
 {"type":"perron","id":"8002393:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"248608492","stationName":"Groß Umstadt Mitte","revised":false}
 {"type":"track","id":"8002393:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4475621642","stationName":"Groß Umstadt Mitte","revised":false}
 {"type":"perron","id":"8002399:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"441429391","stationName":"Großarmschlag","revised":false}
@@ -5761,7 +5761,7 @@
 {"type":"track","id":"8002898:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"264159582","stationName":"Höllenthal","revised":false}
 {"type":"perron","id":"8002899:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"222786851","stationName":"Höllriegelskreuth","revised":false}
 {"type":"track","id":"8002899:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1686221620","stationName":"Höllriegelskreuth","revised":false}
-{"type":"track","id":"8002899:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"48032129","stationName":"Höllriegelskreuth","revised":false}
+{"type":"track","id":"8002899:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"48032129","stationName":"Höllriegelskreuth","revised":false}
 {"type":"perron","id":"8002903:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"169735185","stationName":"Wildeck-Hönebach","revised":false}
 {"type":"track","id":"8002903:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1805037242","stationName":"Wildeck-Hönebach","revised":false}
 {"type":"perron","id":"8002903:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"169735186","stationName":"Wildeck-Hönebach","revised":false}
@@ -6434,8 +6434,8 @@
 {"type":"perron","id":"8003379:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"7215327","stationName":"Köln Steinstraße","revised":false}
 {"type":"track","id":"8003379:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"276372736","stationName":"Köln Steinstraße","revised":false}
 {"type":"track","id":"8003379:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1262374254","stationName":"Köln Steinstraße","revised":false}
-{"type":"perron","id":"8003381:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"314089268","stationName":"Königshofen (Baden)","revised":false}
-{"type":"track","id":"8003381:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5633687163","stationName":"Königshofen (Baden)","revised":false}
+{"type":"perron","id":"8003381:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"314089268","stationName":"Königshofen (Baden)","revised":false}
+{"type":"track","id":"8003381:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5633687163","stationName":"Königshofen (Baden)","revised":false}
 {"type":"perron","id":"8003382:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"115578048","stationName":"Königslutter","revised":false}
 {"type":"track","id":"8003382:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2776068021","stationName":"Königslutter","revised":false}
 {"type":"perron","id":"8003382:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"115578054","stationName":"Königslutter","revised":false}
@@ -6807,10 +6807,10 @@
 {"type":"track","id":"8003660:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"4728745111","stationName":"Leubsdorf (Rhein)","revised":false}
 {"type":"perron","id":"8003663:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"37611437","stationName":"Leuterschach","revised":false}
 {"type":"track","id":"8003663:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"33712148","stationName":"Leuterschach","revised":false}
-{"type":"perron","id":"8003664:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"545002393","stationName":"Leutershausen-Wiedersbach","revised":false}
-{"type":"track","id":"8003664:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5275671387","stationName":"Leutershausen-Wiedersbach","revised":false}
-{"type":"perron","id":"8003664:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"545002395","stationName":"Leutershausen-Wiedersbach","revised":false}
-{"type":"track","id":"8003664:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5275671386","stationName":"Leutershausen-Wiedersbach","revised":false}
+{"type":"perron","id":"8003664:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"545002393","stationName":"Leutershausen-Wiedersbach","revised":false}
+{"type":"track","id":"8003664:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5275671387","stationName":"Leutershausen-Wiedersbach","revised":false}
+{"type":"perron","id":"8003664:SB2","broken":false,"obsolete":false,"osmType":"way","osmId":"545002395","stationName":"Leutershausen-Wiedersbach","revised":false}
+{"type":"track","id":"8003664:SB2:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5275671386","stationName":"Leutershausen-Wiedersbach","revised":false}
 {"type":"perron","id":"8003665:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"343211475","stationName":"Leutesdorf (Rhein)","revised":false}
 {"type":"track","id":"8003665:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1270467431","stationName":"Leutesdorf (Rhein)","revised":false}
 {"type":"perron","id":"8003665:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"7127795","stationName":"Leutesdorf (Rhein)","revised":false}
@@ -7273,10 +7273,10 @@
 {"type":"track","id":"8003979:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1509445592","stationName":"Merching","revised":false}
 {"type":"track","id":"8003980:B01:20","broken":false,"obsolete":false,"osmType":"node","osmId":"4899357021","stationName":"Merchweiler","revised":false}
 {"type":"track","id":"8003980:B01:30","broken":false,"obsolete":false,"osmType":"node","osmId":"4899357022","stationName":"Merchweiler","revised":false}
-{"type":"track","id":"8003982:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584557","stationName":"Mering","revised":false}
-{"type":"track","id":"8003982:B01:4","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584532","stationName":"Mering","revised":false}
-{"type":"track","id":"8003982:B02:5","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584514","stationName":"Mering","revised":false}
-{"type":"track","id":"8003982:B02:6","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584503","stationName":"Mering","revised":false}
+{"type":"track","id":"8003982:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584557","stationName":"Mering","revised":false}
+{"type":"track","id":"8003982:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584532","stationName":"Mering","revised":false}
+{"type":"track","id":"8003982:B03:5","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584514","stationName":"Mering","revised":false}
+{"type":"track","id":"8003982:B03:6","broken":false,"obsolete":false,"osmType":"node","osmId":"2591584503","stationName":"Mering","revised":false}
 {"type":"perron","id":"8003986:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"230833896","stationName":"Mersch (Westf)","revised":false}
 {"type":"track","id":"8003986:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2392727216","stationName":"Mersch (Westf)","revised":false}
 {"type":"perron","id":"8003986:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"230833897","stationName":"Mersch (Westf)","revised":false}
@@ -8886,10 +8886,6 @@
 {"type":"track","id":"8005161:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1809819862","stationName":"Ronshausen","revised":false}
 {"type":"perron","id":"8005161:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"169823978","stationName":"Ronshausen","revised":false}
 {"type":"track","id":"8005161:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1809819767","stationName":"Ronshausen","revised":false}
-{"type":"perron","id":"8005163:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"93119850","stationName":"Rosbach v d Höhe","revised":false}
-{"type":"track","id":"8005163:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1417961821","stationName":"Rosbach v d Höhe","revised":false}
-{"type":"perron","id":"8005163:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"93119848","stationName":"Rosbach v d Höhe","revised":false}
-{"type":"track","id":"8005163:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1417961822","stationName":"Rosbach v d Höhe","revised":false}
 {"type":"perron","id":"8005164:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"226238601","stationName":"Rosbach (Sieg)","revised":false}
 {"type":"track","id":"8005164:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1298645741","stationName":"Rosbach (Sieg)","revised":false}
 {"type":"perron","id":"8005164:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"131974933","stationName":"Rosbach (Sieg)","revised":false}
@@ -9874,8 +9870,6 @@
 {"type":"track","id":"8006006:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1550211300","stationName":"Germering-Unterpfaffenhofen","revised":false}
 {"type":"perron","id":"8006017:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"366506571","stationName":"Untersteinach (b Stadtsteinach)","revised":false}
 {"type":"track","id":"8006017:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4515125916","stationName":"Untersteinach (b Stadtsteinach)","revised":false}
-{"type":"perron","id":"8006019:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"527416752","stationName":"Untersulzbach","revised":false}
-{"type":"track","id":"8006019:B02:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5127593997","stationName":"Untersulzbach","revised":false}
 {"type":"perron","id":"8006031:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"111385599","stationName":"Rödermark-Urberach","revised":false}
 {"type":"track","id":"8006031:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"33706706","stationName":"Rödermark-Urberach","revised":false}
 {"type":"perron","id":"8006031:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"111385598","stationName":"Rödermark-Urberach","revised":false}
@@ -9976,7 +9970,7 @@
 {"type":"perron","id":"8006098:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"39178606","stationName":"Voerde (Niederrhein)","revised":false}
 {"type":"track","id":"8006098:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"3177779792","stationName":"Voerde (Niederrhein)","revised":false}
 {"type":"track","id":"8006100:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"30959711","stationName":"Vogelweh","revised":false}
-{"type":"track","id":"8006100:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2577138529","stationName":"Vogelweh","revised":false}
+{"type":"track","id":"8006100:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2577138529","stationName":"Vogelweh","revised":false}
 {"type":"perron","id":"8006104:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"483230311","stationName":"Voldagsen","revised":false}
 {"type":"track","id":"8006104:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"236223179","stationName":"Voldagsen","revised":false}
 {"type":"perron","id":"8006109:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"497969523","stationName":"Volkringhausen","revised":false}
@@ -11272,7 +11266,7 @@
 {"type":"track","id":"8010210:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"4172420711","stationName":"Lietzow (Rügen)","revised":false}
 {"type":"track","id":"8010212:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2793052414","stationName":"Löbau (Sachs)","revised":false}
 {"type":"track","id":"8010212:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2793052410","stationName":"Löbau (Sachs)","revised":false}
-{"type":"track","id":"8010213:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5237769657","stationName":"Löcknitz","revised":false}
+{"type":"track","id":"8010213:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5237769657","stationName":"Löcknitz","revised":false}
 {"type":"perron","id":"8010214:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"118353492","stationName":"Löwenberg (Mark)","revised":false}
 {"type":"track","id":"8010214:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"3827714921","stationName":"Löwenberg (Mark)","revised":false}
 {"type":"perron","id":"8010214:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"118353497","stationName":"Löwenberg (Mark)","revised":false}
@@ -11544,9 +11538,6 @@
 {"type":"track","id":"8010307:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5284147435","stationName":"Rudolstadt-Schwarza","revised":false}
 {"type":"perron","id":"8010307:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"64509239","stationName":"Rudolstadt-Schwarza","revised":false}
 {"type":"track","id":"8010307:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5284147434","stationName":"Rudolstadt-Schwarza","revised":false}
-{"type":"track","id":"8010308:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2656059696","stationName":"Ruhland","revised":false}
-{"type":"track","id":"8010308:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2656059690","stationName":"Ruhland","revised":false}
-{"type":"track","id":"8010308:B03:4","broken":false,"obsolete":false,"osmType":"node","osmId":"2589375014","stationName":"Ruhland","revised":false}
 {"type":"perron","id":"8010309:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"194491562","stationName":"Saalfeld (Saale)","revised":false}
 {"type":"track","id":"8010309:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2050002500","stationName":"Saalfeld (Saale)","revised":false}
 {"type":"track","id":"8010309:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2050002494","stationName":"Saalfeld (Saale)","revised":false}
@@ -12835,8 +12826,6 @@
 {"type":"track","id":"8012193:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1833965920","stationName":"Leipzig-Möckern","revised":false}
 {"type":"perron","id":"8012194:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"152362681","stationName":"Leipzig-Stötteritz","revised":false}
 {"type":"perron","id":"8012194:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"152362681","stationName":"Leipzig-Stötteritz","revised":false}
-{"type":"perron","id":"8012195:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"199088279","stationName":"Leipzig-Thekla","revised":false}
-{"type":"track","id":"8012195:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2091293375","stationName":"Leipzig-Thekla","revised":false}
 {"type":"perron","id":"8012196:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"104144307","stationName":"Leipzig Nord","revised":false}
 {"type":"track","id":"8012196:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1831497357","stationName":"Leipzig Nord","revised":false}
 {"type":"track","id":"8012196:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"376132366","stationName":"Leipzig Nord","revised":false}
@@ -13337,7 +13326,7 @@
 {"type":"perron","id":"8012698:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"128820130","stationName":"Raddusch","revised":false}
 {"type":"track","id":"8012698:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1456295351","stationName":"Raddusch","revised":false}
 {"type":"track","id":"8012699:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"664456609","stationName":"Radeberg","revised":false}
-{"type":"track","id":"8012699:B03:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1583960227","stationName":"Radeberg","revised":false}
+{"type":"track","id":"8012699:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1583960227","stationName":"Radeberg","revised":false}
 {"type":"track","id":"8012700:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2708821645","stationName":"Radebeul-Weintraube","revised":false}
 {"type":"track","id":"8012700:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2708821646","stationName":"Radebeul-Weintraube","revised":false}
 {"type":"track","id":"8012701:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2708870081","stationName":"Radebeul-Zitzschewig","revised":false}
@@ -13387,9 +13376,9 @@
 {"type":"track","id":"8012739:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"2784002755","stationName":"Reichenbach (Vogtl) ob Bf","revised":false}
 {"type":"perron","id":"8012739:B04","broken":false,"obsolete":false,"osmType":"way","osmId":"172691735","stationName":"Reichenbach (Vogtl) ob Bf","revised":false}
 {"type":"track","id":"8012739:B04:4","broken":false,"obsolete":false,"osmType":"node","osmId":"1435257081","stationName":"Reichenbach (Vogtl) ob Bf","revised":false}
-{"type":"perron","id":"8012750:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"172538920","stationName":"Rentwertshausen","revised":false}
-{"type":"track","id":"8012750:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"30903113","stationName":"Rentwertshausen","revised":false}
-{"type":"track","id":"8012750:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"30903113","stationName":"Rentwertshausen","revised":false}
+{"type":"perron","id":"8012750:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"172538920","stationName":"Rentwertshausen","revised":false}
+{"type":"track","id":"8012750:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"30903113","stationName":"Rentwertshausen","revised":false}
+{"type":"track","id":"8012750:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"30903113","stationName":"Rentwertshausen","revised":false}
 {"type":"perron","id":"8012757:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"560241094","stationName":"Reußen","revised":false}
 {"type":"track","id":"8012757:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3714249557","stationName":"Reußen","revised":false}
 {"type":"perron","id":"8012757:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"560627043","stationName":"Reußen","revised":false}
@@ -13979,10 +13968,10 @@
 {"type":"track","id":"8013477:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4711883588","stationName":"Erkner","revised":false}
 {"type":"perron","id":"8013477:B03","broken":false,"obsolete":false,"osmType":"way","osmId":"517976611","stationName":"Erkner","revised":false}
 {"type":"track","id":"8013477:B03:2","broken":false,"obsolete":false,"osmType":"node","osmId":"4711883587","stationName":"Erkner","revised":false}
-{"type":"perron","id":"8013479:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"126701100","stationName":"Falkensee","revised":false}
-{"type":"track","id":"8013479:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1416364874","stationName":"Falkensee","revised":false}
-{"type":"perron","id":"8013479:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"126705475","stationName":"Falkensee","revised":false}
-{"type":"track","id":"8013479:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1416364870","stationName":"Falkensee","revised":false}
+{"type":"perron","id":"8013479:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"126701100","stationName":"Falkensee","revised":false}
+{"type":"track","id":"8013479:B02:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1416364874","stationName":"Falkensee","revised":false}
+{"type":"perron","id":"8013479:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"126705475","stationName":"Falkensee","revised":false}
+{"type":"track","id":"8013479:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1416364870","stationName":"Falkensee","revised":false}
 {"type":"perron","id":"8013480:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"53281851","stationName":"Ferch-Lienewitz","revised":false}
 {"type":"track","id":"8013480:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3421680677","stationName":"Ferch-Lienewitz","revised":false}
 {"type":"perron","id":"8013481:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"340250573","stationName":"Golm","revised":false}
@@ -14349,10 +14338,11 @@
 {"type":"perron","id":"8089044:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"237221872","stationName":"Berlin Brandenburger Tor","revised":false}
 {"type":"track","id":"8089044:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4946539237","stationName":"Berlin Brandenburger Tor","revised":false}
 {"type":"track","id":"8089044:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"322796388","stationName":"Berlin Brandenburger Tor","revised":false}
+{"type":"perron","id":"8089045:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"420055571","stationName":"Warschauer Straße","revised":false}
 {"type":"track","id":"8089045:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3714150030","stationName":"Warschauer Straße","revised":false}
-{"type":"track","id":"8089045:SB1:3","broken":false,"obsolete":false,"osmType":"node","osmId":"6132735787","stationName":"Warschauer Straße","revised":false}
-{"type":"perron","id":"8089045:SB2","broken":false,"obsolete":false,"osmType":"way","osmId":"420055571","stationName":"Warschauer Straße","revised":false}
-{"type":"track","id":"8089045:SB2:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5032009260","stationName":"Warschauer Straße","revised":false}
+{"type":"track","id":"8089045:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5032009260","stationName":"Warschauer Straße","revised":false}
+{"type":"perron","id":"8089045:SB2","broken":false,"obsolete":false,"osmType":"way","osmId":"222663267","stationName":"Warschauer Straße","revised":false}
+{"type":"track","id":"8089045:SB2:3","broken":false,"obsolete":false,"osmType":"node","osmId":"6132735787","stationName":"Warschauer Straße","revised":false}
 {"type":"track","id":"8089045:SB2:4","broken":false,"obsolete":false,"osmType":"node","osmId":"6127606967","stationName":"Warschauer Straße","revised":false}
 {"type":"perron","id":"8089048:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"372567584","stationName":"Wollankstraße","revised":false}
 {"type":"track","id":"8089048:SB1:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1871614108","stationName":"Wollankstraße","revised":false}
@@ -14699,7 +14689,6 @@
 {"type":"perron","id":"8011003:B02","osmType":"way","osmId":"36961257","stationName":"Ahrensfelde","revised":true}
 {"type":"track","id":"8011003:B02:41","osmType":"node","osmId":"1117011745","stationName":"Ahrensfelde","revised":true}
 {"type":"track","id":"8011003:B01:42","osmType":"node","osmId":"1117011810","stationName":"Ahrensfelde","revised":true}
-{"type":"perron","id":"8089045:SB1","broken":true,"stationName":"Berlin Warschauer Straße","revised":true}
 {"type":"track","id":"8089103:SB1:2","obsolete":true,"stationName":"Berlin Alt-Reinickendorf","revised":true}
 {"type":"track","id":"8089056:B01:2","broken":true,"stationName":"Berlin-Blankenburg","revised":true}
 {"type":"perron","id":"8010036:SB1","osmType":"way","osmId":"41557261","stationName":"Berlin-Lichtenberg","revised":true}
@@ -14737,10 +14726,6 @@
 {"type":"perron","id":"8010035:B03","osmType":"relation","osmId":"6414593","stationName":"Berlin-Karlshorst","revised":true}
 {"type":"track","id":"8010035:B03:11","osmType":"node","osmId":"29809225","stationName":"Berlin-Karlshorst","revised":true}
 {"type":"track","id":"8010035:B03:12","osmType":"node","osmId":"1106283879","stationName":"Berlin-Karlshorst","revised":true}
-{"type":"perron","id":"8010035:B01","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
-{"type":"perron","id":"8010035:B02","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
-{"type":"track","id":"8010035:B01:1","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
-{"type":"track","id":"8010035:B02:2","obsolete":true,"stationName":"Berlin-Karlshorst","revised":true}
 {"type":"perron","id":"8089100:SB1","osmType":"relation","osmId":"5377150","stationName":"Jungfernheide","revised":true}
 {"type":"track","id":"8089100:SB1:3","osmType":"node","osmId":"3656889352","stationName":"Jungfernheide","revised":true}
 {"type":"track","id":"8089100:SB1:4","osmType":"node","osmId":"3656889353","stationName":"Jungfernheide","revised":true}
