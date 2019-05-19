@@ -4,6 +4,8 @@ const groupBy = require('lodash/groupBy')
 const omit = require('lodash/omit')
 const flatMap = require('lodash/flatMap')
 const stations = require('db-stations/full')
+const parseNumber = require('parse-decimal-number')
+const germanNumberSymbols = require('cldr').extractNumberSymbols('de_DE')
 
 // @todo fix this somehow
 const knownMissingStationNumbers = [
@@ -36,8 +38,8 @@ const createPerron = list => {
 		id: [station, perron].join(':'),
 		name: perron,
 		station,
-		length: +length,
-		height: +height
+		length: parseNumber(length, germanNumberSymbols),
+		height: parseNumber(height, germanNumberSymbols)
 	}
 }
 
