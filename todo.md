@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15016 of 21129** perrons/tracks covered **(71.1%)**.
+**15013 of 21129** perrons/tracks covered **(71.1%)**.
 
-**2956 of 5361** stations fully covered **(55.1%)**.
+**2954 of 5361** stations fully covered **(55.1%)**.
 
 ## By Category
 
@@ -1004,6 +1004,7 @@ List of stations that have not been (fully) covered yet.
 - Baruth (Mark) - 8011116
 - Batzenhäusle - 8000821
 - Batzhausen - 8000822
+- Bayerisch Eisenstein - 8000830
 - Beerfelden-Hetzbach - 8002815
 - Behringersdorf - 8000850
 - Beimerstetten - 8000858
@@ -2053,6 +2054,7 @@ List of stations that have not been (fully) covered yet.
 - Deißlingen Mitte - 8001405
 - Dernbach (Westerw) - 8001418
 - Dettingen (Teck) - 8001428
+- Dettum - 8001429
 - Dietersheim - 8001450
 - Dietzhausen - 8011378
 - Dittersbach (b Frankenberg/Sachs) - 8011385
@@ -2909,6 +2911,7 @@ List of stations that have not been (fully) covered yet.
 - Bad Wörishofen - 8000768
 - Baiersdorf - 8000783
 - Batzhausen - 8000822
+- Bayerisch Eisenstein - 8000830
 - Bayreuth Hbf - 8000028
 - Behringersdorf - 8000850
 - Beratzhausen - 8000882
@@ -3754,6 +3757,7 @@ List of stations that have not been (fully) covered yet.
 - Dahlenburg - 8001360
 - Dannenberg Ost - 8001372
 - Dedensen / Gümmer - 8001393
+- Dettum - 8001429
 - Diepholz - 8001443
 - Dollbergen - 8001492
 - Dorfmark - 8001502

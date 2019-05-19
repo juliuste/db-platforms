@@ -234,7 +234,7 @@
 {"type":"track","id":"8000045:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4550120543","stationName":"Boppard Hbf","revised":false}
 {"type":"track","id":"8000046:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"504027190","stationName":"Siegen","revised":false}
 {"type":"track","id":"8000046:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"479189191","stationName":"Siegen","revised":false}
-{"type":"track","id":"8000046:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"504027195","stationName":"Siegen","revised":false}
+{"type":"track","id":"8000046:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"6481700020","stationName":"Siegen","revised":true}
 {"type":"track","id":"8000046:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"479189206","stationName":"Siegen","revised":false}
 {"type":"track","id":"8000046:B02:54","broken":false,"obsolete":false,"osmType":"node","osmId":"479189218","stationName":"Siegen","revised":false}
 {"type":"track","id":"8000046:B02:55","broken":false,"obsolete":false,"osmType":"node","osmId":"479189210","stationName":"Siegen","revised":false}
@@ -2818,8 +2818,6 @@
 {"type":"perron","id":"8000826:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"51160669","stationName":"Baunach","revised":false}
 {"type":"track","id":"8000826:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"652705309","stationName":"Baunach","revised":false}
 {"type":"perron","id":"8000830:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"116841182","stationName":"Bayerisch Eisenstein","revised":false}
-{"type":"track","id":"8000830:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"528650068","stationName":"Bayerisch Eisenstein","revised":false}
-{"type":"track","id":"8000830:B02:4","broken":false,"obsolete":false,"osmType":"node","osmId":"528650068","stationName":"Bayerisch Eisenstein","revised":false}
 {"type":"perron","id":"8000831:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"136201336","stationName":"Bayerisch Gmain","revised":false}
 {"type":"track","id":"8000831:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3270464738","stationName":"Bayerisch Gmain","revised":false}
 {"type":"perron","id":"8000832:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"6878688","stationName":"Leverkusen Chempark","revised":false}
@@ -3034,7 +3032,7 @@
 {"type":"track","id":"8000973:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3211907965","stationName":"Binau","revised":false}
 {"type":"perron","id":"8000973:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"144123863","stationName":"Binau","revised":false}
 {"type":"track","id":"8000973:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1577030012","stationName":"Binau","revised":false}
-{"type":"perron","id":"8000974:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"51098865","stationName":"Bindlach","revised":false}
+{"type":"perron","id":"8000974:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"686532892","stationName":"Bindlach","revised":true}
 {"type":"perron","id":"8000975:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"459093853","stationName":"Bingen-Gaulsheim","revised":false}
 {"type":"track","id":"8000975:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4550120537","stationName":"Bingen-Gaulsheim","revised":false}
 {"type":"perron","id":"8000975:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"459093852","stationName":"Bingen-Gaulsheim","revised":false}
@@ -3667,7 +3665,6 @@
 {"type":"perron","id":"8001427:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"72592606","stationName":"Dettingen (Main)","revised":false}
 {"type":"track","id":"8001427:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"632451975","stationName":"Dettingen (Main)","revised":false}
 {"type":"perron","id":"8001429:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"129433887","stationName":"Dettum","revised":false}
-{"type":"track","id":"8001429:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"269570129","stationName":"Dettum","revised":false}
 {"type":"perron","id":"8001435:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"381725951","stationName":"Diebach","revised":false}
 {"type":"track","id":"8001435:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"475380918","stationName":"Diebach","revised":false}
 {"type":"perron","id":"8001438:SB1","broken":false,"obsolete":false,"osmType":"way","osmId":"42857265","stationName":"Diebsteich","revised":false}
@@ -5220,7 +5217,7 @@
 {"type":"track","id":"8002495:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2216459477","stationName":"Hadamar","revised":false}
 {"type":"perron","id":"8002495:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"290904012","stationName":"Hadamar","revised":false}
 {"type":"track","id":"8002495:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"298647835","stationName":"Hadamar","revised":false}
-{"type":"perron","id":"8002496:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"224581772","stationName":"Hademarschen","revised":false}
+{"type":"perron","id":"8002496:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"224581760","stationName":"Hademarschen","revised":true}
 {"type":"track","id":"8002496:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2334005096","stationName":"Hademarschen","revised":false}
 {"type":"perron","id":"8002498:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"115788051","stationName":"Hähnlein-Alsbach","revised":false}
 {"type":"track","id":"8002498:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4475149075","stationName":"Hähnlein-Alsbach","revised":false}
@@ -6934,7 +6931,7 @@
 {"type":"track","id":"8003754:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1278138842","stationName":"Lorsbach","revised":false}
 {"type":"track","id":"8003754:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"41819100","stationName":"Lorsbach","revised":false}
 {"type":"track","id":"8003755:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2699455978","stationName":"Lorsch","revised":false}
-{"type":"perron","id":"8003755:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"527320713","stationName":"Lorsch","revised":false}
+{"type":"perron","id":"8003755:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"680973359","stationName":"Lorsch","revised":true}
 {"type":"track","id":"8003755:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"912398605","stationName":"Lorsch","revised":false}
 {"type":"perron","id":"8003759:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"27772706","stationName":"Ludwigshafen (Rhein) Mitte","revised":false}
 {"type":"track","id":"8003759:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"715909553","stationName":"Ludwigshafen (Rhein) Mitte","revised":false}
@@ -9604,7 +9601,7 @@
 {"type":"track","id":"8005767:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"278460219","stationName":"Stuttgart Nord","revised":false}
 {"type":"track","id":"8005767:B01:4","broken":false,"obsolete":false,"osmType":"node","osmId":"1983073382","stationName":"Stuttgart Nord","revised":false}
 {"type":"perron","id":"8005768:SB1","broken":false,"obsolete":false,"osmType":"relation","osmId":"4067727","stationName":"Stuttgart Flughafen/Messe","revised":false}
-{"type":"track","id":"8005768:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3095790432","stationName":"Stuttgart Flughafen/Messe","revised":false}
+{"type":"track","id":"8005768:SB1:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3221999879","stationName":"Stuttgart Flughafen/Messe","revised":true}
 {"type":"track","id":"8005768:SB1:2","broken":false,"obsolete":false,"osmType":"node","osmId":"301647801","stationName":"Stuttgart Flughafen/Messe","revised":false}
 {"type":"perron","id":"8005769:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"47852545","stationName":"Stuttgart-Bad Cannstatt","revised":false}
 {"type":"track","id":"8005769:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"303193945","stationName":"Stuttgart-Bad Cannstatt","revised":false}
@@ -11527,7 +11524,7 @@
 {"type":"track","id":"8010304:B09:11","broken":false,"obsolete":false,"osmType":"node","osmId":"3981023881","stationName":"Rostock Hbf","revised":false}
 {"type":"perron","id":"8010305:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"451133968","stationName":"Rottenbach","revised":false}
 {"type":"track","id":"8010305:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3058300843","stationName":"Rottenbach","revised":false}
-{"type":"perron","id":"8010305:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"450268214","stationName":"Rottenbach","revised":false}
+{"type":"perron","id":"8010305:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"9439953","stationName":"Rottenbach","revised":true}
 {"type":"track","id":"8010305:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5583343642","stationName":"Rottenbach","revised":false}
 {"type":"track","id":"8010305:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"5583343643","stationName":"Rottenbach","revised":false}
 {"type":"perron","id":"8010306:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"6007947","stationName":"Rudolstadt (Thür)","revised":false}
@@ -12451,7 +12448,7 @@
 {"type":"track","id":"8011735:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5246309054","stationName":"Groß Schwaß","revised":false}
 {"type":"perron","id":"8011745:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"172527387","stationName":"Großdeuben","revised":false}
 {"type":"track","id":"8011745:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2589139537","stationName":"Großdeuben","revised":false}
-{"type":"perron","id":"8011745:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"172527399","stationName":"Großdeuben","revised":false}
+{"type":"perron","id":"8011745:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"9569842","stationName":"Großdeuben","revised":true}
 {"type":"track","id":"8011745:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2589139533","stationName":"Großdeuben","revised":false}
 {"type":"track","id":"8011749:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1497314393","stationName":"Großenhain Cottb Bf","revised":false}
 {"type":"track","id":"8011749:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1497314418","stationName":"Großenhain Cottb Bf","revised":false}
