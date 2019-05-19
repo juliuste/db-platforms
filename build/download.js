@@ -5,6 +5,7 @@ const parseCsv = require('csv-parse')
 const streamToPromise = require('get-stream').array
 
 const transformColumnName = column => {
+	if (!column) return undefined
 	if (column === 'Bahnhofsnummer') return 'stationNumber'
 	if (column === 'Bahnsteig') return 'perron'
 	if (column === 'Gleisnummer') return 'track'
@@ -15,12 +16,12 @@ const transformColumnName = column => {
 }
 
 const download = async () => {
-	const resource = 'https://bahn.guru/assets/bahnsteigdaten.csv'
+	const resource = 'http://download-data.deutschebahn.com/static/datasets/bahnsteig/DBSuS-Bahnsteigdaten-Stand2019-03.csv'
 	const parserStream = parseCsv({
 		delimiter: ';',
 		columns: (oldColumns) => {
 			const columns = oldColumns.map(transformColumnName)
-			if (columns.length !== 6) throw new Error('unexpected column count in the original dataset')
+			if (columns.filter(c => !!c).length !== 6) throw new Error('unexpected column count in the original dataset')
 			return columns
 		}
 	})
