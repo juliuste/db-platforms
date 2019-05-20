@@ -15031,3 +15031,148 @@
 {"type":"track","id":"8010287:B02:3","osmType":"node","osmId":"6334157269","stationName":"Pritzwalk","revised":true}
 {"type":"perron","id":"8089072:B03","osmType":"way","osmId":"548739856","stationName":"Berlin-Mahlsdorf","revised":true}
 {"type":"track","id":"8089072:B03:5","osmType":"node","osmId":"427669897","stationName":"Berlin-Mahlsdorf","revised":true}
+{"type":"perron","id":"8010085:B13","osmType":"relation","osmId":"3578388","stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B10","osmType":"relation","osmId":"3578210","stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B09","osmType":"relation","osmId":"3578209","stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B08","osmType":"relation","osmId":"3578208","stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B02","osmType":"relation","osmId":"3577671","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B13:18","osmType":"node","osmId":"1417195468","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B13:19","osmType":"node","osmId":"1417195470","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B09:11","osmType":"node","osmId":"2719126626","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B08:10","osmType":"node","osmId":"2712181154","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B08:9","osmType":"node","osmId":"2719126624","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B05:4","osmType":"node","osmId":"692162457","stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8010085:B02:2","osmType":"node","osmId":"2718622554","stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B12","osmType":"relation","osmId":"5552128","stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B03","broken":true,"stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B04","broken":true,"stationName":"Dresden Hbf","revised":true}
+{"type":"perron","id":"8010085:B05","broken":true,"stationName":"Dresden Hbf","revised":true}
+{"type":"track","id":"8000152:B04:310","broken":true,"stationName":"Hannover Hbf","revised":true}
+{"type":"perron","id":"8000244:B06","osmType":"relation","osmId":"6833067","stationName":"Mannheim Hbf","revised":true}
+{"type":"track","id":"8000244:B06:11","osmType":"node","osmId":"5110479803","stationName":"Mannheim Hbf","revised":true}
+{"type":"track","id":"8000244:B06:12","osmType":"node","osmId":"4580339372","stationName":"Mannheim Hbf","revised":true}
+{"type":"track","id":"8000041:B01:2","osmType":"node","osmId":"2375129707","stationName":"Bochum Hbf","revised":true}
+{"type":"track","id":"8000038:B02:6","osmType":"node","osmId":"3057428189","stationName":"Bietigheim-Bissingen","revised":true}
+{"type":"perron","id":"8000044:B01","osmType":"relation","osmId":"6705228","stationName":"Bonn Hbf","revised":true}
+{"type":"track","id":"8000044:B01:1","osmType":"node","osmId":"1198542409","stationName":"Bonn Hbf","revised":true}
+{"type":"perron","id":"8010101:B01","osmType":"relation","osmId":"6497717","stationName":"Erfurt Hbf","revised":true}
+{"type":"perron","id":"8010101:B02","osmType":"relation","osmId":"5427987","stationName":"Erfurt Hbf","revised":true}
+{"type":"perron","id":"8010101:B06","osmType":"relation","osmId":"6454580","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B01:1","osmType":"node","osmId":"3397146057","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B01:2","osmType":"node","osmId":"3770966908","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B02:3","osmType":"node","osmId":"3690913069","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B02:4","osmType":"node","osmId":"6484613043","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B02:5","osmType":"node","osmId":"4290657748","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B02:6","osmType":"node","osmId":"5893262649","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B02:7","osmType":"node","osmId":"5893262648","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B02:8","osmType":"node","osmId":"2380335619","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B06:9","osmType":"node","osmId":"4387226924","stationName":"Erfurt Hbf","revised":true}
+{"type":"track","id":"8010101:B06:10","osmType":"node","osmId":"3396894446","stationName":"Erfurt Hbf","revised":true}
+{"type":"perron","id":"8000107:B01","osmType":"relation","osmId":"3140219","stationName":"Freiburg (Breisgau) Hbf","revised":true}
+{"type":"perron","id":"8000107:B06","osmType":"relation","osmId":"3140223","stationName":"Freiburg (Breisgau) Hbf","revised":true}
+{"type":"perron","id":"8000068:B01","osmType":"way","osmId":"172201456","stationName":"Darmstadt Hbf","revised":true}
+{"type":"track","id":"8000068:B01:1","osmType":"node","osmId":"776240126","stationName":"Darmstadt Hbf","revised":true}
+{"type":"track","id":"8000068:B02:4","osmType":"node","osmId":"776240174","stationName":"Darmstadt Hbf","revised":true}
+{"type":"track","id":"8000068:B06:12","osmType":"node","osmId":"776240131","stationName":"Darmstadt Hbf","revised":true}
+{"type":"perron","id":"8000189:B01","osmType":"way","osmId":"210057858","stationName":"Kaiserslautern Hbf","revised":false}
+{"type":"perron","id":"8000183:B01","osmType":"relation","osmId":"5351081","stationName":"Ingolstadt Hbf","revised":true}
+{"type":"perron","id":"8000183:B04","osmType":"relation","osmId":"5351084","stationName":"Ingolstadt Hbf","revised":true}
+{"type":"perron","id":"8000294:B02","osmType":"relation","osmId":"2379663","stationName":"Osnabrück Hbf","revised":true}
+{"type":"perron","id":"8000294:B04","osmType":"relation","osmId":"2379664","stationName":"Osnabrück Hbf","revised":true}
+{"type":"track","id":"8000257:B01:8","osmType":"node","osmId":"1976345118","stationName":"Worms Hbf","revised":true}
+{"type":"perron","id":"8010366:B01","osmType":"relation","osmId":"7073247","stationName":"Weimar","revised":true}
+{"type":"perron","id":"8010366:B03","osmType":"relation","osmId":"7073248","stationName":"Weimar","revised":true}
+{"type":"perron","id":"8010366:B05","osmType":"relation","osmId":"7073249","stationName":"Weimar","revised":true}
+{"type":"track","id":"8000253:SB5:8","osmType":"node","osmId":"457885697","stationName":"Mönchengladbach Hbf","revised":true}
+{"type":"track","id":"8000320:B01:1a","osmType":"node","osmId":"2578699510","stationName":"Rosenheim","revised":true}
+{"type":"perron","id":"8000290:B06","osmType":"relation","osmId":"3143878","stationName":"Offenburg","revised":true}
+{"type":"perron","id":"8000240:B02","osmType":"relation","osmId":"6187200","stationName":"Mainz Hbf","revised":true}
+{"type":"perron","id":"8000240:B03","osmType":"relation","osmId":"6187202","stationName":"Mainz Hbf","revised":true}
+{"type":"track","id":"8000240:B01:1","osmType":"node","osmId":"3396388009","stationName":"Mainz Hbf","revised":true}
+{"type":"track","id":"8000240:B02:2","osmType":"node","osmId":"1271418628","stationName":"Mainz Hbf","revised":true}
+{"type":"track","id":"8000240:B02:3","osmType":"node","osmId":"2661524088","stationName":"Mainz Hbf","revised":true}
+{"type":"track","id":"8000240:B03:4","osmType":"node","osmId":"3266053301","stationName":"Mainz Hbf","revised":true}
+{"type":"track","id":"8000240:B03:5","osmType":"node","osmId":"4208990698","stationName":"Mainz Hbf","revised":true}
+{"type":"track","id":"8000240:B04:6","osmType":"node","osmId":"933799272","stationName":"Mainz Hbf","revised":true}
+{"type":"perron","id":"8010089:B01","osmType":"relation","osmId":"1281044","stationName":"Dresden-Neustadt","revised":true}
+{"type":"perron","id":"8010089:B02","osmType":"relation","osmId":"1281046","stationName":"Dresden-Neustadt","revised":true}
+{"type":"perron","id":"8010089:B03","osmType":"relation","osmId":"1281045","stationName":"Dresden-Neustadt","revised":true}
+{"type":"perron","id":"8010089:B04","osmType":"relation","osmId":"1281047","stationName":"Dresden-Neustadt","revised":true}
+{"type":"track","id":"8010089:B02:4","osmType":"node","osmId":"988900539","stationName":"Dresden-Neustadt","revised":true}
+{"type":"track","id":"8010089:B04:7","osmType":"node","osmId":"988900267","stationName":"Dresden-Neustadt","revised":true}
+{"type":"track","id":"8010089:B04:8","osmType":"node","osmId":"988900203","stationName":"Dresden-Neustadt","revised":true}
+{"type":"track","id":"8000206:B03:105","osmType":"node","osmId":"4476731640","stationName":"Koblenz Hbf","revised":true}
+{"type":"perron","id":"8000299:B01","osmType":"way","osmId":"33624601","stationName":"Pforzheim Hbf","revised":true}
+{"type":"perron","id":"8000299:B02","osmType":"way","osmId":"25108520","stationName":"Pforzheim Hbf","revised":true}
+{"type":"perron","id":"8000299:B03","osmType":"way","osmId":"27436642","stationName":"Pforzheim Hbf","revised":true}
+{"type":"perron","id":"8000299:B04","osmType":"way","osmId":"27436536","stationName":"Pforzheim Hbf","revised":true}
+{"type":"track","id":"8000299:B01:1","osmType":"node","osmId":"390264966","stationName":"Pforzheim Hbf","revised":true}
+{"type":"track","id":"8000299:B02:2","osmType":"node","osmId":"3244617669","stationName":"Pforzheim Hbf","revised":true}
+{"type":"track","id":"8000299:B02:3","osmType":"node","osmId":"2896390549","stationName":"Pforzheim Hbf","revised":true}
+{"type":"track","id":"8000299:B04:103","osmType":"node","osmId":"3244617667","stationName":"Pforzheim Hbf","revised":true}
+{"type":"track","id":"8000299:B04:104","osmType":"node","osmId":"3244617668","stationName":"Pforzheim Hbf","revised":true}
+{"type":"track","id":"8000118:B02:7","osmType":"node","osmId":"449691888","stationName":"Gelsenkirchen Hbf","revised":true}
+{"type":"track","id":"8000118:B03:8","osmType":"node","osmId":"2388337736","stationName":"Gelsenkirchen Hbf","revised":true}
+{"type":"perron","id":"8000073:B02","osmType":"relation","osmId":"5986057","stationName":"Singen (Hohentwiel)","revised":true}
+{"type":"perron","id":"8000073:B03","osmType":"relation","osmId":"5986056","stationName":"Singen (Hohentwiel)","revised":true}
+{"type":"perron","id":"8000073:B04","osmType":"way","osmId":"98478665","stationName":"Singen (Hohentwiel)","revised":true}
+{"type":"perron","id":"8010171:B01","osmType":"relation","osmId":"3696771","stationName":"Hosena","revised":true}
+{"type":"perron","id":"8010171:B02","osmType":"relation","osmId":"3696772","stationName":"Hosena","revised":true}
+{"type":"track","id":"8010171:B01:1","osmType":"node","osmId":"2825590208","stationName":"Hosena","revised":true}
+{"type":"track","id":"8010171:B02:4","osmType":"node","osmId":"2825590209","stationName":"Hosena","revised":true}
+{"type":"perron","id":"8011923:B01","osmType":"way","osmId":"381287602","stationName":"Hubertushöhe","revised":true}
+{"type":"track","id":"8011923:B01:1","osmType":"node","osmId":"5208422340","stationName":"Hubertushöhe","revised":true}
+{"type":"perron","id":"8012089:B01","osmType":"way","osmId":"549414017","stationName":"Kraftwerk Finkenheerd","revised":true}
+{"type":"perron","id":"8012089:B02","osmType":"way","osmId":"549414016","stationName":"Kraftwerk Finkenheerd","revised":true}
+{"type":"track","id":"8012089:B01:1","osmType":"node","osmId":"5307098843","stationName":"Kraftwerk Finkenheerd","revised":true}
+{"type":"track","id":"8012089:B02:2","osmType":"node","osmId":"5307098842","stationName":"Kraftwerk Finkenheerd","revised":true}
+{"type":"perron","id":"8012129:B01","osmType":"way","osmId":"441323747","stationName":"Kummersdorf (b Storkow)","revised":true}
+{"type":"track","id":"8012129:B01:1","osmType":"node","osmId":"5208422342","stationName":"Kummersdorf (b Storkow)","revised":true}
+{"type":"perron","id":"8012084:B01","osmType":"way","osmId":"128816181","stationName":"Kolkwitz Süd","revised":true}
+{"type":"perron","id":"8012084:B02","osmType":"way","osmId":"128816180","stationName":"Kolkwitz Süd","revised":true}
+{"type":"track","id":"8012084:B01:1","osmType":"node","osmId":"1422494585","stationName":"Kolkwitz Süd","revised":true}
+{"type":"track","id":"8012084:B02:2","osmType":"node","osmId":"35912801","stationName":"Kolkwitz Süd","revised":true}
+{"type":"perron","id":"8013222:B01","osmType":"way","osmId":"237584554","stationName":"Walsleben","revised":true}
+{"type":"track","id":"8013222:B01:1","osmType":"node","osmId":"1059591649","stationName":"Walsleben","revised":true}
+{"type":"perron","id":"8013183:B01","osmType":"way","osmId":"203460073","stationName":"Vehlefanz","revised":true}
+{"type":"track","id":"8013183:B01:1","osmType":"node","osmId":"4881022804","stationName":"Vehlefanz","revised":true}
+{"type":"perron","id":"8010183:B02","osmType":"relation","osmId":"3706283","stationName":"Sedlitz Ost","revised":true}
+{"type":"perron","id":"8012934:B01","osmType":"way","osmId":"200619022","stationName":"Schwante","revised":true}
+{"type":"track","id":"8012934:B01:1","osmType":"node","osmId":"4881022805","stationName":"Schwante","revised":true}
+{"type":"perron","id":"8012973:B01","osmType":"way","osmId":"328011949","stationName":"Seelow (Mark)","revised":true}
+{"type":"track","id":"8012973:B01:1","osmType":"node","osmId":"5213148720","stationName":"Seelow (Mark)","revised":true}
+{"type":"perron","id":"8012205:B01","osmType":"way","osmId":"236310631","stationName":"Letschin","revised":true}
+{"type":"track","id":"8012205:B01:1","osmType":"node","osmId":"5213148719","stationName":"Letschin","revised":true}
+{"type":"perron","id":"8011981:B01","osmType":"way","osmId":"344138524","stationName":"Kablow","revised":true}
+{"type":"track","id":"8011981:B01:1","osmType":"node","osmId":"41102049","stationName":"Kablow","revised":true}
+{"type":"perron","id":"8010357:B02","osmType":"way","osmId":"176950579","stationName":"Guben","revised":true}
+{"type":"track","id":"8010357:B02:2","osmType":"node","osmId":"4355680773","stationName":"Guben","revised":true}
+{"type":"perron","id":"8011572:B01","osmType":"way","osmId":"454559041","stationName":"Fretzdorf","revised":true}
+{"type":"track","id":"8011572:B01:1","osmType":"node","osmId":"2380677961","stationName":"Fretzdorf","revised":true}
+{"type":"perron","id":"8011740:B01","osmType":"way","osmId":"90582708","stationName":"Großbeeren","revised":true}
+{"type":"perron","id":"8011740:B02","osmType":"way","osmId":"90582701","stationName":"Großbeeren","revised":true}
+{"type":"track","id":"8011740:B01:1","osmType":"node","osmId":"1615315270","stationName":"Großbeeren","revised":true}
+{"type":"track","id":"8011740:B02:2","osmType":"node","osmId":"1189144934","stationName":"Großbeeren","revised":true}
+{"type":"perron","id":"8013109:B01","osmType":"way","osmId":"231955890","stationName":"Groß Köris","revised":true}
+{"type":"perron","id":"8013109:B02","osmType":"way","osmId":"231955889","stationName":"Groß Köris","revised":true}
+{"type":"track","id":"8013109:B01:1","osmType":"node","osmId":"4543786215","stationName":"Groß Köris","revised":true}
+{"type":"track","id":"8013109:B02:2","osmType":"node","osmId":"413912345","stationName":"Groß Köris","revised":true}
+{"type":"perron","id":"8011691:B01","osmType":"way","osmId":"47046484","stationName":"Gransee","revised":true}
+{"type":"track","id":"8011691:B01:1","osmType":"node","osmId":"1330982171","stationName":"Gransee","revised":true}
+{"type":"track","id":"8010111:B02:3","osmType":"node","osmId":"1667919891","stationName":"Forst (Lausitz)","revised":true}
+{"type":"perron","id":"8011671:B01","osmType":"way","osmId":"381663280","stationName":"Golzow (b Eberswalde)","revised":true}
+{"type":"track","id":"8011671:B01:1","osmType":"node","osmId":"61103521","stationName":"Golzow (b Eberswalde)","revised":true}
+{"type":"perron","id":"8011672:B01","osmType":"way","osmId":"236307345","stationName":"Golzow (Oderbruch)","revised":true}
+{"type":"track","id":"8011672:B01:1","osmType":"node","osmId":"5213148679","stationName":"Golzow (Oderbruch)","revised":true}
+{"type":"perron","id":"8011894:B01","osmType":"way","osmId":"403463040","stationName":"Hohenleipisch","revised":true}
+{"type":"perron","id":"8011894:B02","osmType":"way","osmId":"362438779","stationName":"Hohenleipisch","revised":true}
+{"type":"track","id":"8011894:B01:1","osmType":"node","osmId":"386570507","stationName":"Hohenleipisch","revised":true}
+{"type":"track","id":"8011894:B02:2","osmType":"node","osmId":"1497501558","stationName":"Hohenleipisch","revised":true}
+{"type":"track","id":"8080970:B01:2","osmType":"node","osmId":"29629842","stationName":"Mahlow","revised":true}
+{"type":"track","id":"8080970:B01:3","osmType":"node","osmId":"34646966","stationName":"Mahlow","revised":true}
+{"type":"track","id":"8081020:B01:1","osmType":"node","osmId":"1117011926","stationName":"Neuenhagen (b Berlin)","revised":true}
+{"type":"perron","id":"8012735:B01","osmType":"way","osmId":"334232936","stationName":"Rehfelde","revised":true}
+{"type":"track","id":"8012735:B01:1","osmType":"node","osmId":"5213148690","stationName":"Rehfelde","revised":true}
+{"type":"perron","id":"8011557:B01","osmType":"way","osmId":"119446692","stationName":"Frankfurt (Oder)-Neuberesinchen","revised":true}
+{"type":"track","id":"8011557:B01:1","osmType":"node","osmId":"5208422330","stationName":"Frankfurt (Oder)-Neuberesinchen","revised":true}
+{"type":"track","id":"8011559:B01:1","osmType":"node","osmId":"310822577","stationName":"Frankfurt (Oder)-Rosengarten","revised":true}

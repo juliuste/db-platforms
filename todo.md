@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15013 of 21129** perrons/tracks covered **(71.1%)**.
+**15154 of 21125** perrons/tracks covered **(71.7%)**.
 
-**2954 of 5361** stations fully covered **(55.1%)**.
+**2998 of 5361** stations fully covered **(55.9%)**.
 
 ## By Category
 
@@ -22,8 +22,6 @@ List of stations that have not been (fully) covered yet.
 ### Category 1
 
 - Dresden Hbf - 8010085
-- Hannover Hbf - 8000152
-- Mannheim Hbf - 8000244
 - München Hbf - 8000261
 
 
@@ -32,20 +30,12 @@ List of stations that have not been (fully) covered yet.
 - Aschaffenburg Hbf - 8000010
 - Augsburg Hbf - 8000013
 - Bielefeld Hbf - 8000036
-- Bietigheim-Bissingen - 8000038
-- Bochum Hbf - 8000041
-- Bonn Hbf - 8000044
 - Bremen Hbf - 8000050
 - Bruchsal - 8000055
 - Chemnitz Hbf - 8010184
-- Darmstadt Hbf - 8000068
-- Dresden-Neustadt - 8010089
 - Düsseldorf Flughafen - 8000082
-- Erfurt Hbf - 8010101
-- Freiburg (Breisgau) Hbf - 8000107
 - Fulda - 8000115
 - Fürth (Bay) Hbf - 8000114
-- Gelsenkirchen Hbf - 8000118
 - Gießen - 8000124
 - Hagen Hbf - 8000142
 - Halle (Saale) Hbf - 8010159
@@ -54,33 +44,24 @@ List of stations that have not been (fully) covered yet.
 - Herford - 8000162
 - Hildesheim Hbf - 8000169
 - Ingolstadt Hbf - 8000183
-- Kaiserslautern Hbf - 8000189
 - Kassel Hbf - 8000193
 - Kassel-Wilhelmshöhe - 8003200
-- Koblenz Hbf - 8000206
 - Landshut (Bay) Hbf - 8000217
 - Lüneburg - 8000238
 - Magdeburg Hbf - 8010224
-- Mainz Hbf - 8000240
-- Mönchengladbach Hbf - 8000253
 - Münster (Westf) Hbf - 8000263
 - Oberhausen Hbf - 8000286
-- Offenburg - 8000290
 - Oldenburg (Oldb) Hbf - 8000291
 - Osnabrück Hbf - 8000294
 - Paderborn Hbf - 8000297
-- Pforzheim Hbf - 8000299
 - Plochingen - 8000302
 - Regensburg Hbf - 8000309
-- Rosenheim - 8000320
 - Saarbrücken Hbf - 8000323
 - Singen (Hohentwiel) - 8000073
 - Trier Hbf - 8000134
 - Tübingen Hbf - 8000141
 - Uelzen - 8000168
 - Ulm Hbf - 8000170
-- Weimar - 8010366
-- Worms Hbf - 8000257
 - Wuppertal Hbf - 8000266
 - Würzburg Hbf - 8000260
 
@@ -666,7 +647,6 @@ List of stations that have not been (fully) covered yet.
 - Glauburg-Stockheim - 8000347
 - Glückstadt - 8002293
 - Grafing Stadt - 8002348
-- Gransee - 8011691
 - Grebenstein - 8002358
 - Grenzach - 8002365
 - Grimma ob Bf - 8011705
@@ -702,7 +682,6 @@ List of stations that have not been (fully) covered yet.
 - Hohenbrunn - 8002940
 - Hohenstein-Ernstthal - 8011904
 - Hornberg - 8003001
-- Hosena - 8010171
 - Hoyerswerda - 8010177
 - Hämelerwald - 8002499
 - Höllriegelskreuth - 8002899
@@ -758,7 +737,6 @@ List of stations that have not been (fully) covered yet.
 - Lörrach Schwarzwaldstraße - 8003743
 - Magdeburg SKET Industriepark - 8013485
 - Magdeburg Südost - 8012287
-- Mahlow - 8080970
 - Malmsheim - 8003831
 - Markdorf (Baden) - 8003871
 - Markkleeberg - 8012308
@@ -863,7 +841,6 @@ List of stations that have not been (fully) covered yet.
 - Schweinfurt Stadt - 8005481
 - Schwindegg - 8005495
 - Schöna - 8012898
-- Sedlitz Ost - 8010183
 - Seesen - 8000043
 - Sehnde - 8005511
 - Senden - 8005532
@@ -1172,9 +1149,7 @@ List of stations that have not been (fully) covered yet.
 - Flintbek - 8002011
 - Flomersheim - 8002014
 - Fornsbach - 8002026
-- Forst (Lausitz) - 8010111
 - Frankenberg (Sachs) - 8011553
-- Frankfurt (Oder)-Rosengarten - 8011559
 - Frankleben - 8011560
 - Freden (Leine) - 8002063
 - Freiburg Messe/Universität - 8000453
@@ -1229,7 +1204,6 @@ List of stations that have not been (fully) covered yet.
 - Goldhausen - 8002321
 - Goldshöfe - 8000380
 - Golm - 8013481
-- Golzow (Oderbruch) - 8011672
 - Gotha Ost - 8011678
 - Goßmannsdorf - 8002333
 - Greiz - 8010140
@@ -1240,10 +1214,8 @@ List of stations that have not been (fully) covered yet.
 - Grieben (Meckl) - 8011702
 - Grimmenthal - 8010142
 - Groß Ammensleben - 8011714
-- Groß Köris - 8013109
 - Groß Rohrheim - 8002391
 - Groß Umstadt Mitte - 8002393
-- Großbeeren - 8011740
 - Großdüngen - 8002405
 - Großengottern - 8011746
 - Großenlüder - 8002413
@@ -1310,13 +1282,11 @@ List of stations that have not been (fully) covered yet.
 - Hirschhorn (Pfalz) - 8002858
 - Hochneukirch - 8000390
 - Hofen (b Aalen) - 8002930
-- Hohenleipisch - 8011894
 - Holm-Seppensen - 8002967
 - Holthusen - 8010173
 - Holzhausen-Heddinghausen - 8002978
 - Hoppstädten (Nahe) - 8002995
 - Horn-Bad Meinberg - 8003000
-- Hubertushöhe - 8011923
 - Hundsgrün - 8011928
 - Hungen - 8000400
 - Hähnichen - 8011795
@@ -1384,13 +1354,11 @@ List of stations that have not been (fully) covered yet.
 - Kochel - 8003355
 - Kodersdorf - 8012061
 - Kolbermoor - 8003397
-- Kolkwitz Süd - 8012084
 - Kollmarsreute - 8003398
 - Kollnau - 8003399
 - Kork - 8003408
 - Kothmaißling - 8003413
 - Kraftsdorf - 8012088
-- Kraftwerk Finkenheerd - 8012089
 - Kremperheide - 8003431
 - Krensitz - 8012097
 - Krumbach (Schwab) - 8003457
@@ -1436,7 +1404,6 @@ List of stations that have not been (fully) covered yet.
 - Leisnig - 8012198
 - Lengenwang - 8003639
 - Lenggries - 8003643
-- Letschin - 8012205
 - Leutenberg - 8012213
 - Lichtenstein (Sachs) - 8012223
 - Lieblos - 8003681
@@ -1543,7 +1510,6 @@ List of stations that have not been (fully) covered yet.
 - Neuburg (Kammel) - 8004256
 - Neue Schenke - 8012443
 - Neuenburg (Baden) - 8089119
-- Neuenhagen (b Berlin) - 8081020
 - Neuhausen (b Cottbus) - 8012456
 - Neukirch (Lausitz) Ost - 8012460
 - Neumark (Sachs) - 8010244
@@ -1676,7 +1642,6 @@ List of stations that have not been (fully) covered yet.
 - Regensburg-Burgweinting - 8001298
 - Rehau - 8004988
 - Rehfeld (b Falkenberg/Elster) - 8012734
-- Rehfelde - 8012735
 - Reichelsdorfer Keller - 8004994
 - Reichelsheim (Wetterau) - 8004995
 - Reichenschwand - 8005005
@@ -1766,7 +1731,6 @@ List of stations that have not been (fully) covered yet.
 - Sebnitz (Sachs) - 8012959
 - Sechshelden - 8005498
 - Seefeld (Mark) - 8012966
-- Seelow (Mark) - 8012973
 - Seerhausen - 8012975
 - Seeshaupt - 8005508
 - Selb-Plößberg - 8005518
@@ -2089,11 +2053,9 @@ List of stations that have not been (fully) covered yet.
 - Ferch-Lienewitz - 8013480
 - Fohrde - 8011550
 - Frankenberg (Sachs) Süd - 8011554
-- Frankfurt (Oder)-Neuberesinchen - 8011557
 - Freckleben - 8011564
 - Freienorla - 8011567
 - Freihöls - 8002075
-- Fretzdorf - 8011572
 - Freyburg (Unstrut) - 8011573
 - Friedrichroda - 8011578
 - Friedrichshafen Landratsamt - 8002122
@@ -2112,7 +2074,6 @@ List of stations that have not been (fully) covered yet.
 - Gittelde - 8002281
 - Glückauf - 8011643
 - Goldenstedt (Oldb) - 8002320
-- Golzow (b Eberswalde) - 8011671
 - Goßdorf-Kohlmühle - 8011676
 - Grafenau - 8002344
 - Grießen (Baden) - 8002373
@@ -2167,7 +2128,6 @@ List of stations that have not been (fully) covered yet.
 - Immendingen Zimmern - 8003066
 - Irfersgrün - 8011937
 - Itzelberg - 8003103
-- Kablow - 8011981
 - Kaiserslautern Pfaffwerk - 8003150
 - Kaiserslautern West - 8003151
 - Kapellen-Drusweiler - 8003175
@@ -2185,7 +2145,6 @@ List of stations that have not been (fully) covered yet.
 - Kranichfeld - 8012092
 - Kreimbach-Kaulbach - 8003429
 - Krumhermsdorf - 8012113
-- Kummersdorf (b Storkow) - 8012129
 - Kölleda - 8012064
 - Könitz (Thür) - 8012075
 - Köttewitz - 8012079
@@ -2334,7 +2293,6 @@ List of stations that have not been (fully) covered yet.
 - Schneeberg (Mark) - 8012895
 - Schrezheim - 8005431
 - Schwabsberg - 8005445
-- Schwante - 8012934
 - Schweighofen - 8007860
 - Schwenningen (Bay) - 8005489
 - Schöneck (Vogtl) - 8012908
@@ -2410,7 +2368,6 @@ List of stations that have not been (fully) covered yet.
 - Vatterode - 8013182
 - Vatteröder Teich - 8079152
 - Vechta Stoppelmarkt - 8087020
-- Vehlefanz - 8013183
 - Vernawahlshausen - 8006078
 - Villingen-Schwenningen Eisstadion - 8000356
 - Villingen-Schwenningen Hammerstatt - 8000393
@@ -2418,7 +2375,6 @@ List of stations that have not been (fully) covered yet.
 - Wahlbach (Kr Siegen) - 8006139
 - Walddrehna - 8013210
 - Wallertheim - 8006183
-- Walsleben - 8013222
 - Waltershausen-Schnepfenthal - 8013224
 - Wasserthaleben - 8013244
 - Wasserzell (b Eichstätt) - 8006224
@@ -2516,7 +2472,6 @@ List of stations that have not been (fully) covered yet.
 - Biberach (Baden) - 8000942
 - Biberach Süd - 8000944
 - Bieringen - 8000959
-- Bietigheim-Bissingen - 8000038
 - Bietingen - 8000965
 - Bisingen - 8000999
 - Bittelbronn - 8001002
@@ -2575,7 +2530,6 @@ List of stations that have not been (fully) covered yet.
 - Fichtenberg - 8001982
 - Fornsbach - 8002026
 - Freiberg (Neckar) - 8002065
-- Freiburg (Breisgau) Hbf - 8000107
 - Freiburg Messe/Universität - 8000453
 - Freiburg-Littenweiler - 8002068
 - Freiburg-St Georgen - 8002069
@@ -2692,7 +2646,6 @@ List of stations that have not been (fully) covered yet.
 - Löwental - 8003733
 - Malmsheim - 8003831
 - Mannheim ARENA / Maimarkt - 8003841
-- Mannheim Hbf - 8000244
 - Mannheim-Handelshafen - 8006508
 - Mannheim-Käfertal - 8003843
 - Mannheim-Neckarau - 8003844
@@ -2740,7 +2693,6 @@ List of stations that have not been (fully) covered yet.
 - Oberlenningen - 8004553
 - Oberwinden - 8004603
 - Oberzell - 8004605
-- Offenburg - 8000290
 - Offenburg Kreisschulzentrum - 8004639
 - Oftersheim - 8004658
 - Oppenau - 8004679
@@ -2748,7 +2700,6 @@ List of stations that have not been (fully) covered yet.
 - Osterburken - 8000295
 - Owen (Teck) - 8004740
 - Pflaumloch - 8004796
-- Pforzheim Hbf - 8000299
 - Plochingen - 8000302
 - Plüderhausen - 8004842
 - Radolfzell - 8000880
@@ -3212,7 +3163,6 @@ List of stations that have not been (fully) covered yet.
 - Rohrbach (Ilm) - 8000256
 - Rohrenfeld - 8005149
 - Rollhofen - 8005154
-- Rosenheim - 8000320
 - Roth - 8005185
 - Rothenburg ob der Tauber - 8005190
 - Rottendorf - 8005198
@@ -3344,46 +3294,27 @@ List of stations that have not been (fully) covered yet.
 - Ferch-Lienewitz - 8013480
 - Finkenheerd - 8011540
 - Fohrde - 8011550
-- Forst (Lausitz) - 8010111
-- Frankfurt (Oder)-Neuberesinchen - 8011557
-- Frankfurt (Oder)-Rosengarten - 8011559
-- Fretzdorf - 8011572
 - Friedersdorf (b Königs Wusterhausen) - 8011574
 - Fürstenberg (Havel) - 8010399
 - Fürstenwalde (Spree) - 8010120
 - Fürstenwalde (Spree) Süd - 8011591
 - Golm - 8013481
-- Golzow (Oderbruch) - 8011672
-- Golzow (b Eberswalde) - 8011671
-- Gransee - 8011691
-- Groß Köris - 8013109
-- Großbeeren - 8011740
 - Guben - 8010357
 - Helenesee - 8011853
 - Hennigsdorf (b Berlin) - 8013483
 - Herzberg (Elster) - 8011867
-- Hohenleipisch - 8011894
-- Hosena - 8010171
-- Hubertushöhe - 8011923
 - Jänschwalde Ost - 8011945
-- Kablow - 8011981
 - Kerkwitz - 8012006
 - Klinge - 8012043
-- Kolkwitz Süd - 8012084
-- Kraftwerk Finkenheerd - 8012089
-- Kummersdorf (b Storkow) - 8012129
 - Lauchhammer - 8012169
-- Letschin - 8012205
 - Lindenberg (Mark) - 8012237
 - Ludwigsfelde - 8010215
 - Lübben (Spreewald) - 8010217
 - Lübbenau (Spreewald) - 8010220
-- Mahlow - 8080970
 - Marquardt - 8012315
 - Müncheberg (Mark) - 8010236
 - Nauen - 8010239
 - Nechlin - 8012418
-- Neuenhagen (b Berlin) - 8081020
 - Neuhausen (b Cottbus) - 8012456
 - Neupetershain - 8012469
 - Neuruppin Rheinsberger Tor - 8010175
@@ -3404,20 +3335,14 @@ List of stations that have not been (fully) covered yet.
 - Rangsdorf - 8012713
 - Rathenow - 8010296
 - Rehfeld (b Falkenberg/Elster) - 8012734
-- Rehfelde - 8012735
 - Ruhland - 8010308
 - Schneeberg (Mark) - 8012895
-- Schwante - 8012934
 - Schwarzheide Ost - 8012941
 - Schönfließ Dorf - 8012914
-- Sedlitz Ost - 8010183
 - Seefeld (Mark) - 8012966
-- Seelow (Mark) - 8012973
 - Strausberg - 8010341
 - Trebbin - 8013137
-- Vehlefanz - 8013183
 - Walddrehna - 8013210
-- Walsleben - 8013222
 - Weisen - 8013258
 - Wellmitz - 8013272
 - Wendisch-Rietz - 8012855
@@ -3480,7 +3405,6 @@ List of stations that have not been (fully) covered yet.
 - Büches-Düdelsheim - 8001244
 - Bürstadt - 8000360
 - Cölbe - 8000065
-- Darmstadt Hbf - 8000068
 - Darmstadt Nord - 8001375
 - Darmstadt Ost - 8001376
 - Darmstadt Süd - 8001377
@@ -3781,7 +3705,6 @@ List of stations that have not been (fully) covered yet.
 - Göhrde - 8002304
 - Hameln - 8000148
 - Hannover Bismarckstraße - 8002580
-- Hannover Hbf - 8000152
 - Hannover Karl-Wiechert-Allee - 8070086
 - Hannover-Flughafen - 8002589
 - Hannover-Messe / Laatzen - 8003487
@@ -3898,9 +3821,7 @@ List of stations that have not been (fully) covered yet.
 - Blankenheim (Wald) - 8001008
 - Blumenkamp - 8001030
 - Bocholt - 8000040
-- Bochum Hbf - 8000041
 - Bochum-Dahlhausen - 8001038
-- Bonn Hbf - 8000044
 - Bonn-Bad Godesberg - 8001082
 - Bonn-Beuel - 8001083
 - Bork (Westf) - 8001097
@@ -3943,7 +3864,6 @@ List of stations that have not been (fully) covered yet.
 - Euskirchen-Kuchenheim - 8003462
 - Finnentrop - 8000102
 - Fröndenberg - 8000113
-- Gelsenkirchen Hbf - 8000118
 - Geseke - 8002262
 - Gladbeck-Zweckel - 8002284
 - Glesch - 8002290
@@ -4001,7 +3921,6 @@ List of stations that have not been (fully) covered yet.
 - Millingen - 8004023
 - Minden (Westf) - 8000252
 - Moers - 8000644
-- Mönchengladbach Hbf - 8000253
 - Mönchengladbach-Genhausen - 8004061
 - Mülheim (Ruhr) Hbf - 8000259
 - Mülheim (Ruhr) West - 8004122
@@ -4146,7 +4065,6 @@ List of stations that have not been (fully) covered yet.
 - Ingelheim - 8003075
 - Insheim - 8003080
 - Kaisersesch - 8003148
-- Kaiserslautern Hbf - 8000189
 - Kaiserslautern Pfaffwerk - 8003150
 - Kaiserslautern West - 8003151
 - Kapellen-Drusweiler - 8003175
@@ -4158,7 +4076,6 @@ List of stations that have not been (fully) covered yet.
 - Kirchheim (Weinstr) - 8003285
 - Klein Winternheim-Ober Olm - 8003316
 - Kobern-Gondorf - 8003350
-- Koblenz Hbf - 8000206
 - Koblenz-Ehrenbreitstein - 8003351
 - Kreimbach-Kaulbach - 8003429
 - Lambrecht (Pfalz) - 8003497
@@ -4172,7 +4089,6 @@ List of stations that have not been (fully) covered yet.
 - Lohnweiler - 8003739
 - Ludwigshafen-Oggersheim - 8003766
 - Löf - 8003723
-- Mainz Hbf - 8000240
 - Mainz-Gonsenheim - 8003817
 - Martinstein - 8003899
 - Maximiliansau im Rüsten - 8003911
@@ -4245,7 +4161,6 @@ List of stations that have not been (fully) covered yet.
 - Wiltingen (Saar) - 8006461
 - Wissen (Sieg) - 8006501
 - Wittlich Hbf - 8000379
-- Worms Hbf - 8000257
 - Wörth (Rhein)-Mozartstraße - 8006536
 - Ürzig DB - 8005945
 
@@ -4341,7 +4256,6 @@ List of stations that have not been (fully) covered yet.
 - Dresden-Friedrichstadt - 8013475
 - Dresden-Kemnitz - 8011421
 - Dresden-Klotzsche - 8010088
-- Dresden-Neustadt - 8010089
 - Dresden-Niedersedlitz Hp - 8011422
 - Dresden-Pieschen - 8011423
 - Dresden-Plauen - 8013476
@@ -4778,7 +4692,6 @@ List of stations that have not been (fully) covered yet.
 - Elgersburg - 8011476
 - Ellrich - 8011480
 - Elxleben - 8011489
-- Erfurt Hbf - 8010101
 - Erfurt Nord - 8010102
 - Erfurt-Gispersleben - 8011503
 - Ernstthal am Rennsteig - 8011512
@@ -4915,7 +4828,6 @@ List of stations that have not been (fully) covered yet.
 - Wandersleben - 8013226
 - Wasserthaleben - 8013244
 - Wasungen - 8013245
-- Weimar - 8010366
 - Weimar West - 8013266
 - Werther - 8013291
 - Wipperdorf - 8013318
