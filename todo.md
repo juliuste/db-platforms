@@ -5,7 +5,7 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15154 of 21125** perrons/tracks covered **(71.7%)**.
+**15150 of 21125** perrons/tracks covered **(71.7%)**.
 
 **2998 of 5361** stations fully covered **(55.9%)**.
 

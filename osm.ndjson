@@ -50,13 +50,9 @@
 {"type":"track","id":"8000010:B04:8","broken":false,"obsolete":false,"osmType":"node","osmId":"4498121455","stationName":"Aschaffenburg Hbf","revised":false}
 {"type":"perron","id":"8000011:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"151439101","stationName":"Ascheberg (Holst)","revised":false}
 {"type":"track","id":"8000011:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1642632869","stationName":"Ascheberg (Holst)","revised":false}
-{"type":"perron","id":"8000012:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"225531363","stationName":"Au (Sieg)","revised":false}
-{"type":"track","id":"8000012:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"60172854","stationName":"Au (Sieg)","revised":false}
 {"type":"track","id":"8000012:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1298632778","stationName":"Au (Sieg)","revised":false}
 {"type":"track","id":"8000012:B02:31","broken":false,"obsolete":false,"osmType":"node","osmId":"3024342783","stationName":"Au (Sieg)","revised":false}
 {"type":"track","id":"8000012:B02:32","broken":false,"obsolete":false,"osmType":"node","osmId":"3024342823","stationName":"Au (Sieg)","revised":false}
-{"type":"perron","id":"8000012:B11","broken":false,"obsolete":false,"osmType":"way","osmId":"225532517","stationName":"Au (Sieg)","revised":false}
-{"type":"track","id":"8000012:B11:11","broken":false,"obsolete":false,"osmType":"node","osmId":"3256760448","stationName":"Au (Sieg)","revised":false}
 {"type":"track","id":"8000013:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2601523192","stationName":"Augsburg Hbf","revised":false}
 {"type":"track","id":"8000013:B01:101","broken":false,"obsolete":false,"osmType":"node","osmId":"2601522676","stationName":"Augsburg Hbf","revised":false}
 {"type":"track","id":"8000013:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2601523178","stationName":"Augsburg Hbf","revised":false}
@@ -1290,7 +1286,7 @@
 {"type":"track","id":"8000213:B04:52","broken":false,"obsolete":false,"osmType":"node","osmId":"32325248","stationName":"Kreiensen","revised":false}
 {"type":"perron","id":"8000214:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"159685334","stationName":"Kreuztal","revised":false}
 {"type":"track","id":"8000214:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1297228400","stationName":"Kreuztal","revised":false}
-{"type":"perron","id":"8000214:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"159685336","stationName":"Kreuztal","revised":false}
+{"type":"perron","id":"8000214:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"9611257","stationName":"Kreuztal","revised":true}
 {"type":"track","id":"8000214:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"173493857","stationName":"Kreuztal","revised":false}
 {"type":"track","id":"8000215:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"653274796","stationName":"Lage (Lippe)","revised":false}
 {"type":"track","id":"8000215:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"29283208","stationName":"Lage (Lippe)","revised":false}
@@ -5889,7 +5885,7 @@
 {"type":"track","id":"8003016:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"4475149076","stationName":"Hünfeld","revised":false}
 {"type":"perron","id":"8003016:B03","broken":false,"obsolete":false,"osmType":"relation","osmId":"7233230","stationName":"Hünfeld","revised":false}
 {"type":"track","id":"8003016:B03:4","broken":false,"obsolete":false,"osmType":"node","osmId":"4475149077","stationName":"Hünfeld","revised":false}
-{"type":"perron","id":"8003018:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"159898390","stationName":"Siegen-Geisweid","revised":false}
+{"type":"perron","id":"8003018:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"9622490","stationName":"Siegen-Geisweid","revised":true}
 {"type":"track","id":"8003018:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1719633888","stationName":"Siegen-Geisweid","revised":false}
 {"type":"track","id":"8003018:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"312059580","stationName":"Siegen-Geisweid","revised":false}
 {"type":"track","id":"8003020:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"261038477","stationName":"Siegen-Weidenau","revised":false}
@@ -10380,9 +10376,9 @@
 {"type":"track","id":"8006499:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"1257730794","stationName":"Wirtheim","revised":false}
 {"type":"track","id":"8006499:B01:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1591347322","stationName":"Wirtheim","revised":false}
 {"type":"track","id":"8006499:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1257730794","stationName":"Wirtheim","revised":false}
-{"type":"perron","id":"8006501:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"114694801","stationName":"Wissen (Sieg)","revised":false}
+{"type":"perron","id":"8006501:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"9625391","stationName":"Wissen (Sieg)","revised":true}
 {"type":"track","id":"8006501:B01:601","broken":false,"obsolete":false,"osmType":"node","osmId":"43496328","stationName":"Wissen (Sieg)","revised":false}
-{"type":"perron","id":"8006501:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"114694787","stationName":"Wissen (Sieg)","revised":false}
+{"type":"perron","id":"8006501:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"1599629","stationName":"Wissen (Sieg)","revised":true}
 {"type":"track","id":"8006501:B02:602","broken":false,"obsolete":false,"osmType":"node","osmId":"1298547840","stationName":"Wissen (Sieg)","revised":false}
 {"type":"perron","id":"8006503:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"358423244","stationName":"Wissingen","revised":false}
 {"type":"track","id":"8006503:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4535154019","stationName":"Wissingen","revised":false}
@@ -11386,10 +11382,10 @@
 {"type":"track","id":"8010253:B01:3","broken":false,"obsolete":false,"osmType":"node","osmId":"335772509","stationName":"Niederwiesa","revised":false}
 {"type":"perron","id":"8010253:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"8321344","stationName":"Niederwiesa","revised":false}
 {"type":"track","id":"8010253:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2789250526","stationName":"Niederwiesa","revised":false}
-{"type":"perron","id":"8010254:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"108981150","stationName":"Nienhagen (b Halberstadt)","revised":false}
-{"type":"track","id":"8010254:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4411452217","stationName":"Nienhagen (b Halberstadt)","revised":false}
-{"type":"perron","id":"8010254:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"108981150","stationName":"Nienhagen (b Halberstadt)","revised":false}
-{"type":"track","id":"8010254:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"4411452217","stationName":"Nienhagen (b Halberstadt)","revised":false}
+{"type":"perron","id":"8010254:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"108981154","stationName":"Nienhagen (b Halberstadt)","revised":true}
+{"type":"track","id":"8010254:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4411452216","stationName":"Nienhagen (b Halberstadt)","revised":true}
+{"type":"perron","id":"8010254:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"108981150","stationName":"Nienhagen (b Halberstadt)","revised":true}
+{"type":"track","id":"8010254:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1249008891","stationName":"Nienhagen (b Halberstadt)","revised":true}
 {"type":"perron","id":"8010255:B01","broken":false,"obsolete":false,"osmType":"relation","osmId":"3717994","stationName":"Berlin Ostbahnhof","revised":false}
 {"type":"track","id":"8010255:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"2837556541","stationName":"Berlin Ostbahnhof","revised":false}
 {"type":"perron","id":"8010255:B02","broken":false,"obsolete":false,"osmType":"relation","osmId":"3717996","stationName":"Berlin Ostbahnhof","revised":false}
@@ -14210,7 +14206,7 @@
 {"type":"perron","id":"8087064:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"44929208","stationName":"Oberursel-Stierstadt","revised":false}
 {"type":"track","id":"8087064:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"1286648098","stationName":"Oberursel-Stierstadt","revised":false}
 {"type":"perron","id":"8087065:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"79617355","stationName":"Wehrden (Weser)","revised":false}
-{"type":"track","id":"8087065:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"566116891","stationName":"Wehrden (Weser)","revised":false}
+{"type":"track","id":"8087065:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"6515326973","stationName":"Wehrden (Weser)","revised":true}
 {"type":"perron","id":"8087080:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"35432528","stationName":"Maulbronn West","revised":false}
 {"type":"track","id":"8087080:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"2656117483","stationName":"Maulbronn West","revised":false}
 {"type":"track","id":"8087080:B02:3","broken":false,"obsolete":false,"osmType":"node","osmId":"1280535828","stationName":"Maulbronn West","revised":false}
