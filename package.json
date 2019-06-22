@@ -46,7 +46,7 @@
 		"csv-parse": "^4.3.3",
 		"db-stations": "^2.11.0",
 		"depcheck": "^0.8.0",
-		"eslint": "^5.16.0",
+		"eslint": "^6.0.0",
 		"eslint-config-standard": "^12.0.0",
 		"eslint-plugin-import": "^2.17.2",
 		"eslint-plugin-node": "^9.0.1",
