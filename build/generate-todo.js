@@ -66,13 +66,13 @@ const main = () => {
 	const byCategory = groupBy(incompleteStations, 'category')
 	const categories = ['1', '2', '3', '4', '5', '6', '7']
 
-	for (let category of categories) {
+	for (const category of categories) {
 		const categoryName = `Category ${category}`
 		process.stdout.write(`- [${categoryName}](#${slugger.slug(categoryName)})`)
 		process.stdout.write('\n')
 	}
 
-	for (let category of categories) {
+	for (const category of categories) {
 		const categoryName = `Category ${category}`
 		const matchingStations = sortBy(byCategory[category] || [], 'name')
 		process.stdout.write('\n')
@@ -82,7 +82,7 @@ const main = () => {
 			process.stdout.write('**All stations in this category are already covered.**')
 			process.stdout.write('\n')
 		} else {
-			for (let matchingStation of matchingStations) {
+			for (const matchingStation of matchingStations) {
 				const name = [matchingStation.name, matchingStation.id].filter(x => !!x).join(' - ')
 				process.stdout.write(`- ${name}`)
 				process.stdout.write('\n')
@@ -100,17 +100,17 @@ const main = () => {
 	process.stdout.write(`**${coveredLaenderLength} of 16** Bundesländer fully covered **(${coveredLaenderPercentage}%)**.`)
 	process.stdout.write('\n')
 
-	for (let land of Object.keys(byLand).sort()) {
+	for (const land of Object.keys(byLand).sort()) {
 		process.stdout.write(`- [${land}](#${slugger.slug(land)})`)
 		process.stdout.write('\n')
 	}
 
-	for (let land of Object.keys(byLand).sort()) {
+	for (const land of Object.keys(byLand).sort()) {
 		process.stdout.write('\n')
 		process.stdout.write(`### ${land}`)
 		process.stdout.write('\n\n')
 		const landStations = sortBy(byLand[land], 'name')
-		for (let landStation of landStations) {
+		for (const landStation of landStations) {
 			const name = [landStation.name, landStation.id].filter(x => !!x).join(' - ')
 			process.stdout.write(`- ${name}`)
 			process.stdout.write('\n')

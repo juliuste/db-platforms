@@ -53,7 +53,7 @@ tape('db-perrons base', t => {
 tape('db-perrons upstream osm', async t => {
 	// @todo distance to matching perron/track (if available)
 	const osmElements = [...tracks, ...perrons].filter(item => !!item.osm).map(item => ({ ...item.osm, datasetType: item.type }))
-	for (let elements of chunk(osmElements, 100)) {
+	for (const elements of chunk(osmElements, 100)) {
 		const osmQuery = `[out:json][timeout:20]; ${elements.map(item => `${item.type}(${item.id}); out;`).join(' ')}`
 		const osmResults = await retry(() => queryOsm(osmQuery), { retries: 3 })
 		elements.forEach(element => {
