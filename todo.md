@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15150 of 21125** perrons/tracks covered **(71.7%)**.
+**15140 of 21125** perrons/tracks covered **(71.7%)**.
 
-**2998 of 5361** stations fully covered **(55.9%)**.
+**2996 of 5361** stations fully covered **(55.9%)**.
 
 ## By Category
 
@@ -751,6 +751,7 @@ List of stations that have not been (fully) covered yet.
 - Mertingen Bahnhof - 8003989
 - Mittweida - 8012369
 - Murrhardt - 8004188
+- Möckmühl - 8004050
 - Mössingen - 8004070
 - Mühlheim-Dietesheim - 8070088
 - Mülheim (Ruhr) West - 8004122
@@ -1645,6 +1646,7 @@ List of stations that have not been (fully) covered yet.
 - Reichelsdorfer Keller - 8004994
 - Reichelsheim (Wetterau) - 8004995
 - Reichenschwand - 8005005
+- Reichertshausen (Ilm) - 8005008
 - Reinhardsbrunn-Friedrichroda - 8012742
 - Reisen (Hess) - 8005026
 - Rentrisch - 8005044
@@ -2661,6 +2663,7 @@ List of stations that have not been (fully) covered yet.
 - Munderkingen - 8004182
 - Murg (Baden) - 8004184
 - Murrhardt - 8004188
+- Möckmühl - 8004050
 - Mögglingen (b Gmünd) - 8004053
 - Möhringen Bahnhof - 8004068
 - Möhringen Rathaus - 8004067
@@ -3156,6 +3159,7 @@ List of stations that have not been (fully) covered yet.
 - Rehau - 8004988
 - Reichelsdorfer Keller - 8004994
 - Reichenschwand - 8005005
+- Reichertshausen (Ilm) - 8005008
 - Retzbach-Zellingen - 8005049
 - Reuth (b Erbendorf) - 8005050
 - Riederau - 8005086
