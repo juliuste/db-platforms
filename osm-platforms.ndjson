@@ -500,7 +500,6 @@
 {"id":"8000786:1","osmType":"way","osmId":"516182741","stationName":"Balduinstein","revised":false}
 {"id":"8000786:2","osmType":"way","osmId":"526322265","stationName":"Balduinstein","revised":false}
 {"id":"8000787:1","osmType":"way","osmId":"60685087","stationName":"Balgheim","revised":false}
-{"id":"8000792:1","osmType":"way","osmId":"381108911","stationName":"Baltersweiler","revised":false}
 {"id":"8000793:1","osmType":"way","osmId":"83707693","stationName":"Balve","revised":false}
 {"id":"8000025:1","osmType":"way","osmId":"68015393","stationName":"Bamberg","revised":false}
 {"id":"8000025:2","osmType":"relation","osmId":"5382888","stationName":"Bamberg","revised":false}
@@ -3115,14 +3114,6 @@
 {"id":"8002537:1","osmType":"way","osmId":"179636032","stationName":"Halen","revised":false}
 {"id":"8002534:1","osmType":"way","osmId":"222907110","stationName":"Hallbergmoos","revised":false}
 {"id":"8002534:2","osmType":"way","osmId":"222907109","stationName":"Hallbergmoos","revised":false}
-{"id":"8010159:1","osmType":"way","osmId":"51002625","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:2","osmType":"way","osmId":"51002625","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:8","osmType":"way","osmId":"550895368","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:9","osmType":"way","osmId":"550895368","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:10","osmType":"way","osmId":"111874227","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:11","osmType":"way","osmId":"111874227","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:12","osmType":"way","osmId":"550895373","stationName":"Halle (Saale) Hbf","revised":false}
-{"id":"8010159:13","osmType":"way","osmId":"550895373","stationName":"Halle (Saale) Hbf","revised":false}
 {"id":"8002539:1","osmType":"way","osmId":"206849314","stationName":"Halle (Westf)","revised":false}
 {"id":"8002539:2","osmType":"way","osmId":"206849315","stationName":"Halle (Westf)","revised":false}
 {"id":"8080630:1","osmType":"way","osmId":"266177958","stationName":"Halle (Westf)-Gerry-Weber-Stadion","revised":false}
@@ -4299,8 +4290,6 @@
 {"id":"8003481:2","osmType":"way","osmId":"233568484","stationName":"Kusel","revised":false}
 {"id":"8003481:1","osmType":"way","osmId":"233568478","stationName":"Kusel","revised":false}
 {"id":"8010189:1","osmType":"way","osmId":"378450514","stationName":"Küstrin-Kietz","revised":false}
-{"id":"8003483:1","osmType":"way","osmId":"76120782","stationName":"Kutzenhausen","revised":false}
-{"id":"8003483:2","osmType":"way","osmId":"67192568","stationName":"Kutzenhausen","revised":false}
 {"id":"8012141:1","osmType":"way","osmId":"563126790","stationName":"Kyhna","revised":false}
 {"id":"8012141:2","osmType":"way","osmId":"563124548","stationName":"Kyhna","revised":false}
 {"id":"8003484:1","osmType":"way","osmId":"166385459","stationName":"Kyllburg","revised":false}
@@ -5077,8 +5066,6 @@
 {"id":"8010234:2","osmType":"way","osmId":"276664919","stationName":"Mittelherwigsdorf (Sachs)","revised":false}
 {"id":"8010234:3","osmType":"way","osmId":"276664918","stationName":"Mittelherwigsdorf (Sachs)","revised":false}
 {"id":"8012367:1","osmType":"way","osmId":"192972944","stationName":"Mittelschmalkalden","revised":false}
-{"id":"8004040:2","osmType":"way","osmId":"103688197","stationName":"Mittelsinn","revised":false}
-{"id":"8004040:3","osmType":"way","osmId":"103688197","stationName":"Mittelsinn","revised":false}
 {"id":"8004043:1","osmType":"relation","osmId":"6771649","stationName":"Mittenwald","revised":false}
 {"id":"8004048:1","osmType":"way","osmId":"129722157","stationName":"Mittlerer Landweg","revised":false}
 {"id":"8004048:2","osmType":"way","osmId":"129722157","stationName":"Mittlerer Landweg","revised":false}
@@ -5320,7 +5307,6 @@
 {"id":"8004163:2","osmType":"relation","osmId":"3277349","stationName":"München-Westkreuz","revised":false}
 {"id":"8087062:1","osmType":"way","osmId":"177387507","stationName":"Münchweiler (Alsenz)","revised":false}
 {"id":"8087062:2","osmType":"way","osmId":"177387506","stationName":"Münchweiler (Alsenz)","revised":false}
-{"id":"8004169:1","osmType":"way","osmId":"203909815","stationName":"Münnerstadt","revised":false}
 {"id":"8004171:1","osmType":"way","osmId":"487214864","stationName":"Münster (b Dieburg)","revised":false}
 {"id":"8004183:1","osmType":"way","osmId":"53820220","stationName":"Munster (Örtze)","revised":false}
 {"id":"8000263:2","osmType":"relation","osmId":"5561455","stationName":"Münster (Westf) Hbf","revised":false}
@@ -5579,8 +5565,6 @@
 {"id":"8004373:1","osmType":"way","osmId":"48605395","stationName":"Niedererbach","revised":false}
 {"id":"8012485:1","osmType":"way","osmId":"348330538","stationName":"Niederfinow","revised":false}
 {"id":"8012485:2","osmType":"way","osmId":"348330539","stationName":"Niederfinow","revised":false}
-{"id":"8012487:2","osmType":"way","osmId":"123874492","stationName":"Niedergörsdorf","revised":false}
-{"id":"8012487:1","osmType":"way","osmId":"123874485","stationName":"Niedergörsdorf","revised":false}
 {"id":"8004381:501","osmType":"way","osmId":"194227967","stationName":"Niederhövels","revised":false}
 {"id":"8004381:503","osmType":"way","osmId":"131974937","stationName":"Niederhövels","revised":false}
 {"id":"8004382:1","osmType":"way","osmId":"138301810","stationName":"Niederjosbach","revised":false}
@@ -7307,7 +7291,6 @@
 {"id":"8005825:2","osmType":"way","osmId":"259528599","stationName":"Tarp","revised":false}
 {"id":"8005826:1","osmType":"way","osmId":"231110395","stationName":"Tating","revised":false}
 {"id":"8013092:1","osmType":"way","osmId":"244100150","stationName":"Taubenheim (Spree)","revised":false}
-{"id":"8013093:1","osmType":"way","osmId":"586129782","stationName":"Taucha (b Leipzig)","revised":false}
 {"id":"8005831:1","osmType":"way","osmId":"23544811","stationName":"Taufkirchen","revised":false}
 {"id":"8005831:2","osmType":"way","osmId":"23544827","stationName":"Taufkirchen","revised":false}
 {"id":"8013095:1","osmType":"way","osmId":"387920855","stationName":"Tautenhain","revised":false}
