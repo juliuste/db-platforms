@@ -62,13 +62,13 @@ tape('upstream osm', async t => {
 			const matching = osmResults.find(item => item.id + '' === element.id + '' && item.type === element.type)
 			t.ok(matching, `matching osm element ${element.type} ${element.id}`)
 			if (element.datasetType === 'osmStopPosition') {
-				t.ok(matching.tags.public_transport === 'stop_position', `public_transport=stop_position ${element.type} ${element.id}`)
+				t.ok(matching && (matching.tags.public_transport === 'stop_position'), `public_transport=stop_position ${element.type} ${element.id}`)
 			}
 			if (element.datasetType === 'osmPlatform') {
 				// @todo warn if public_transport is not set
-				const isRailwayPlatformEdge = matching.tags.railway === 'platform_edge'
-				const isRailwayPlatform = matching.tags.railway === 'platform'
-				const isPublicTransportPlatform = matching.tags.public_transport === 'platform'
+				const isRailwayPlatformEdge = matching && (matching.tags.railway === 'platform_edge')
+				const isRailwayPlatform = matching && (matching.tags.railway === 'platform')
+				const isPublicTransportPlatform = matching && (matching.tags.public_transport === 'platform')
 				t.ok(isRailwayPlatformEdge || isRailwayPlatform || isPublicTransportPlatform, `<tag>=platform ${element.type} ${element.id}`)
 			}
 		})
