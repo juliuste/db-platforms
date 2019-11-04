@@ -4203,8 +4203,8 @@
 {"id":"8003411:7","osmType":"relation","osmId":"4007411","stationName":"Kornwestheim Pbf","revised":false}
 {"id":"8003412:1","osmType":"way","osmId":"335899012","stationName":"Korschenbroich","revised":false}
 {"id":"8003412:2","osmType":"relation","osmId":"4749981","stationName":"Korschenbroich","revised":false}
-{"id":"8010195:4","osmType":"way","osmId":"219331086","stationName":"Köthen","revised":false}
-{"id":"8010195:5","osmType":"way","osmId":"219331086","stationName":"Köthen","revised":false}
+{"id":"8010195:4","osmType":"relation","osmId":"1682296","stationName":"Köthen","revised":false}
+{"id":"8010195:5","osmType":"relation","osmId":"1682296","stationName":"Köthen","revised":false}
 {"id":"8003413:2","osmType":"way","osmId":"448792258","stationName":"Kothmaißling","revised":false}
 {"id":"8003415:1","osmType":"way","osmId":"526254182","stationName":"Kottenheim","revised":false}
 {"id":"8012080:1","osmType":"way","osmId":"186171768","stationName":"Kötzschau","revised":false}
@@ -5069,7 +5069,7 @@
 {"id":"8004043:1","osmType":"relation","osmId":"6771649","stationName":"Mittenwald","revised":false}
 {"id":"8004048:1","osmType":"way","osmId":"129722157","stationName":"Mittlerer Landweg","revised":false}
 {"id":"8004048:2","osmType":"way","osmId":"129722157","stationName":"Mittlerer Landweg","revised":false}
-{"id":"8012369:1","osmType":"relation","osmId":"8530514","stationName":"Mittweida","revised":false}
+{"id":"8012369:1","osmType":"way","osmId":"732177204","stationName":"Mittweida","revised":false}
 {"id":"8012370:1","osmType":"way","osmId":"126185236","stationName":"Mixdorf","revised":true}
 {"id":"8004049:2","osmType":"way","osmId":"539944949","stationName":"Mochenwangen","revised":false}
 {"id":"8012371:1","osmType":"way","osmId":"161387512","stationName":"Mockrehna","revised":false}
@@ -5861,9 +5861,9 @@
 {"id":"8004624:2","osmType":"way","osmId":"140046991","stationName":"Öhringen West","revised":false}
 {"id":"8004664:1","osmType":"way","osmId":"205685841","stationName":"Okarben","revised":false}
 {"id":"8004664:2","osmType":"way","osmId":"205685840","stationName":"Okarben","revised":false}
-{"id":"8004665:1","osmType":"way","osmId":"454948408","stationName":"Oker","revised":false}
-{"id":"8004665:2","osmType":"way","osmId":"367474410","stationName":"Oker","revised":false}
-{"id":"8004665:3","osmType":"way","osmId":"367474410","stationName":"Oker","revised":false}
+{"id":"8004665:1","osmType":"way","osmId":"736625376","stationName":"Oker","revised":false}
+{"id":"8004665:2","osmType":"way","osmId":"736625375","stationName":"Oker","revised":false}
+{"id":"8004665:3","osmType":"way","osmId":"736625375","stationName":"Oker","revised":false}
 {"id":"8004632:1","osmType":"way","osmId":"35432178","stationName":"Ölbronn-Dürrn","revised":false}
 {"id":"8004632:2","osmType":"way","osmId":"35432177","stationName":"Ölbronn-Dürrn","revised":false}
 {"id":"8004667:1","osmType":"relation","osmId":"3224037","stationName":"Olching","revised":false}
@@ -7143,8 +7143,8 @@
 {"id":"8005740:2","osmType":"way","osmId":"166769858","stationName":"Stockstadt (Rhein)","revised":false}
 {"id":"8000348:1","osmType":"relation","osmId":"7518879","stationName":"Stolberg (Rheinl) Hbf","revised":false}
 {"id":"8000348:2","osmType":"relation","osmId":"7518879","stationName":"Stolberg (Rheinl) Hbf","revised":false}
-{"id":"8010337:2","osmType":"way","osmId":"317873063","stationName":"Stollberg (Sachs)","revised":false}
-{"id":"8010337:3","osmType":"way","osmId":"317873063","stationName":"Stollberg (Sachs)","revised":false}
+{"id":"8010337:2","osmType":"way","osmId":"741756070","stationName":"Stollberg (Sachs)","revised":false}
+{"id":"8010337:3","osmType":"way","osmId":"741756071","stationName":"Stollberg (Sachs)","revised":false}
 {"id":"8005746:1","osmType":"way","osmId":"35165000","stationName":"Stommeln","revised":false}
 {"id":"8005746:2","osmType":"way","osmId":"35164993","stationName":"Stommeln","revised":false}
 {"id":"8013058:1","osmType":"way","osmId":"408035268","stationName":"Storkow (Mark)","revised":false}
