@@ -1,6 +1,6 @@
 {
 	"name": "db-platforms",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Deutsche Bahn platform information, enriched with OSM data.",
 	"keywords": [
 		"bahn",

@@ -1,5 +1,9 @@
 # Changelog
 
+## `0.1.1`
+
+- Fix broken OpenStreetMap entries
+
 ## `0.1.0`
 
 - **BREAKING:** Rename module to **`db-platforms`** (from `db-perrons`)
