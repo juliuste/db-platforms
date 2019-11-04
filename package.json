@@ -1,7 +1,7 @@
 {
-	"name": "db-perrons",
+	"name": "db-platforms",
 	"version": "0.0.6",
-	"description": "Deutsche Bahn perron (platform) and track information, enriched with OSM data.",
+	"description": "Deutsche Bahn platform information, enriched with OSM data.",
 	"keywords": [
 		"bahn",
 		"bahnsteig",
@@ -16,9 +16,9 @@
 		"track",
 		"train"
 	],
-	"homepage": "https://github.com/juliuste/db-perrons",
-	"bugs": "https://github.com/juliuste/db-perrons/issues",
-	"repository": "juliuste/db-perrons",
+	"homepage": "https://github.com/juliuste/db-platforms",
+	"bugs": "https://github.com/juliuste/db-platforms/issues",
+	"repository": "juliuste/db-platforms",
 	"license": "CC-BY 4.0",
 	"author": "Julius Tens <mail@juliustens.eu>",
 	"files": [

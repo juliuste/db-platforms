@@ -1,4 +1,4 @@
-# db-perrons
+# db-platforms
 
 Deutsche Bahn perron (platform) and track information, enriched (by crowdsourcing) with OSM data.
 
@@ -6,11 +6,11 @@ You're invited to help, see the [definitions](#definitions), [data structure](#d
 
 Using [this original dataset](https://data.deutschebahn.com/dataset/data-bahnsteig) provided by [Deutsche Bahn](https://www.bahn.de).
 
-[![npm version](https://img.shields.io/npm/v/db-perrons.svg)](https://www.npmjs.com/package/db-perrons)
-[![Build Status](https://travis-ci.org/juliuste/db-perrons.svg?branch=master)](https://travis-ci.org/juliuste/db-perrons)
-[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/db-perrons.svg)](https://greenkeeper.io/)
-[![dependency status](https://img.shields.io/david/juliuste/db-perrons.svg)](https://david-dm.org/juliuste/db-perrons)
-[![license](https://img.shields.io/github/license/juliuste/db-perrons.svg?style=flat)](license)
+[![npm version](https://img.shields.io/npm/v/db-platforms.svg)](https://www.npmjs.com/package/db-platforms)
+[![Build Status](https://travis-ci.org/juliuste/db-platforms.svg?branch=master)](https://travis-ci.org/juliuste/db-platforms)
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliuste/db-platforms.svg)](https://greenkeeper.io/)
+[![dependency status](https://img.shields.io/david/juliuste/db-platforms.svg)](https://david-dm.org/juliuste/db-platforms)
+[![license](https://img.shields.io/github/license/juliuste/db-platforms.svg?style=flat)](license)
 [![chat on gitter](https://badges.gitter.im/juliuste.svg)](https://gitter.im/juliuste)
 
 ## Definitions
@@ -27,11 +27,11 @@ Since the word *platform* is ambiguous in the English language (some people use 
 If you're using `JavaScript`, you can use the package by installing:
 
 ```bash
-npm install db-perrons
+npm install db-platforms
 ```
 
 ```js
-const { tracks, perrons } = require('db-perrons')
+const { tracks, perrons } = require('db-platforms')
 ```
 
 `tracks` and `perrons` are arrays of objects which look as follows:
@@ -138,7 +138,7 @@ Put together, our example would give us the following data row for the NDJSON fi
 
 ## Contributing
 
-If you want to add information to the dataset, **[fork this repository](https://help.github.com/articles/fork-a-repo/), add information and finally [submit a pull request](https://help.github.com/articles/about-pull-requests/)**. If you don't know how any of this works, you can also just [open an issue](https://github.com/juliuste/db-perrons/issues) with the information you want to add in text form and I'll add it to the dataset for you. The same applies if you have found an error or want to change anything about the data structure.
+If you want to add information to the dataset, **[fork this repository](https://help.github.com/articles/fork-a-repo/), add information and finally [submit a pull request](https://help.github.com/articles/about-pull-requests/)**. If you don't know how any of this works, you can also just [open an issue](https://github.com/juliuste/db-platforms/issues) with the information you want to add in text form and I'll add it to the dataset for you. The same applies if you have found an error or want to change anything about the data structure.
 
 Please note that by contributing to this project, you waive any copyright claims on the information you add.
 
@@ -151,13 +151,13 @@ If you want to contribute to this project, you can either add data to `osm.ndjso
 1. Clone the repository (or your fork)
 
 ```bash
-git clone https://github.com/juliuste/db-perrons.git
+git clone https://github.com/juliuste/db-platforms.git
 ```
 
 2. Navigate to the repository root
 
 ```bash
-cd db-perrons
+cd db-platforms
 ```
 
 3. Use the CLI to add entries to `osm.ndjson`
