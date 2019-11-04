@@ -7,46 +7,58 @@ const ndjson = require('ndjson')
 const fs = require('fs')
 const { resolve } = require('path')
 
-const mergeOsmDataWithStatic = (osmData, parsedPerronsAndTracks) => {
-	const { perrons, tracks } = JSON.parse(JSON.stringify(parsedPerronsAndTracks)) // cloning is "inefficient" and not necessary here, but the method doesn't have side effects
-	osmData.forEach(row => {
-		const { type, id, broken, obsolete, osmType, osmId, stationName } = row
-		if (!['track', 'perron'].includes(type) || !id || !stationName) throw new Error(`invalid entry "${JSON.stringify(row)}"`)
+const mergeOsmDataWithStatic = (osmPlatformData, osmStopPositionData, obsoleteData, parsedTracks) => {
+	const tracks = JSON.parse(JSON.stringify(parsedTracks)) // cloning is "inefficient" and not necessary here, but the method doesn't have side effects
+	return tracks.map(track => {
+		const matchingPlatforms = osmPlatformData.filter(d => d.id === track.id)
+		const matchingStopPositions = osmStopPositionData.filter(d => d.id === track.id)
+		const obsolete = obsoleteData.filter(d => d.id === track.id)
 
-		const list = type === 'track' ? tracks : perrons
-		const matching = list.filter(item => item.type === type && item.id === id)
-		if (matching.length !== 1) throw new Error(`no matching entries found in original dataset for ${type} "${id}"`)
-		const [item] = matching
+		if (matchingPlatforms.length > 1) throw new Error(`more than one osm platform entry found for track ${track.id}`)
+		if (matchingStopPositions.length > 1) throw new Error(`more than one osm stop_position entry found for track ${track.id}`)
+		if (obsolete.length > 1) throw new Error(`more than one obsolete entry found for track ${track.id}`)
 
-		if (broken) {
-			item.broken = true
-			return
+		if (obsolete.length === 1) return null
+
+		const [matchingPlatform] = matchingPlatforms
+		const [matchingStopPosition] = matchingStopPositions
+
+		if (matchingPlatform) {
+			const { osmType, osmId } = matchingPlatform
+			if (!['node', 'way', 'relation'].includes(osmType) || !osmId) throw new Error(`invalid entry "${JSON.stringify(matchingPlatform)}"`)
+			track.osmPlatform = {
+				type: osmType,
+				id: osmId
+			}
 		}
 
-		if (obsolete) {
-			item.obsolete = true
-			return
+		if (matchingStopPosition) {
+			const { osmType, osmId } = matchingStopPosition
+			if (!['node', 'way', 'relation'].includes(osmType) || !osmId) throw new Error(`invalid entry "${JSON.stringify(matchingStopPosition)}"`)
+			track.osmStopPosition = {
+				type: osmType,
+				id: osmId
+			}
 		}
 
-		if (!['node', 'way', 'relation'].includes(osmType) || !osmId) throw new Error(`invalid entry "${JSON.stringify(row)}"`)
-		if (item.osm) throw new Error(`duplicate osm data for ${type} "${id}"`)
-		item.osm = { type: osmType, id: osmId }
-	})
-
-	return {
-		perrons: perrons.filter(perron => !perron.broken && !perron.obsolete),
-		tracks: tracks.filter(track => !track.broken && !track.obsolete)
-	}
+		return track
+	}).filter(Boolean)
 }
 
 const build = async () => {
 	const data = await download()
-	const parsedPerronsAndTracks = parse(data)
+	const parsedTracks = parse(data)
 
-	const osmDataStream = fs.createReadStream(resolve(__dirname, '../osm.ndjson')).pipe(ndjson.parse())
-	const osmData = await streamToPromise(osmDataStream)
+	const osmPlatformDataStream = fs.createReadStream(resolve(__dirname, '../osm-platforms.ndjson')).pipe(ndjson.parse())
+	const osmPlatformData = await streamToPromise(osmPlatformDataStream)
 
-	return mergeOsmDataWithStatic(osmData, parsedPerronsAndTracks)
+	const osmStopPositionDataStream = fs.createReadStream(resolve(__dirname, '../osm-stop-positions.ndjson')).pipe(ndjson.parse())
+	const osmStopPositionData = await streamToPromise(osmStopPositionDataStream)
+
+	const obsoleteDataStream = fs.createReadStream(resolve(__dirname, '../obsolete.ndjson')).pipe(ndjson.parse())
+	const obsoleteData = await streamToPromise(obsoleteDataStream)
+
+	return mergeOsmDataWithStatic(osmPlatformData, osmStopPositionData, obsoleteData, parsedTracks)
 }
 
 build()

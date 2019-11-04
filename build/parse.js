@@ -34,7 +34,6 @@ const createPerron = list => {
 	}
 
 	return {
-		type: 'perron',
 		id: [station, perron].join(':'),
 		name: perron,
 		station,
@@ -46,18 +45,19 @@ const createPerron = list => {
 const createTrack = perrons => rawTrack => {
 	const { station, trackName: longName, track, perron: perronName } = rawTrack
 	const perron = perrons.find(perron => perron.name === perronName && perron.station === station)
+
 	const parsedName = longName.replace('Gleis ', '').trim()
 	if (parsedName !== track.trim() && String(Number(parsedName)) !== parsedName) {
 		console.error(`Mismatching track names: ${parsedName}, ${track} at ${station}, skipping`)
 		return null
 	}
+
 	return {
-		type: 'track',
-		id: [station, perronName, track].join(':'), // @todo departurePerron / arrivalPerron
+		id: [station, track].join(':'), // @todo departurePerron / arrivalPerron
 		name: parsedName,
 		longName,
 		station,
-		perron: perron.id // @todo departurePerron / arrivalPerron
+		perron
 	}
 }
 
@@ -65,16 +65,14 @@ const processStationPerronsAndTracks = list => {
 	const byPerron = Object.values(groupBy(list, 'perron'))
 	const perrons = byPerron.map(createPerron)
 	const tracks = list.map(createTrack(perrons)).filter(Boolean)
-	return [...perrons, ...tracks]
+	return tracks
 }
 
 const parse = data => {
 	const withStationIds = data.filter(e => !knownMissingStationNumbers.includes(e.stationNumber)).map(improveStationMetadata)
 	const byStation = Object.values(groupBy(withStationIds, 'station'))
-	const all = flatMap(byStation, processStationPerronsAndTracks)
-	const tracks = all.filter(e => e.type === 'track')
-	const perrons = all.filter(e => e.type === 'perron')
-	return { perrons, tracks }
+	const tracks = flatMap(byStation, processStationPerronsAndTracks)
+	return tracks
 }
 
 module.exports = parse

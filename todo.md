@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15138 of 21123** perrons/tracks covered **(71.7%)**.
+**7730 of 11905** tracks covered **(64.9%)**.
 
-**2995 of 5361** stations fully covered **(55.9%)**.
+**2990 of 5363** stations fully covered **(55.8%)**.
 
 ## By Category
 
@@ -22,6 +22,7 @@ List of stations that have not been (fully) covered yet.
 ### Category 1
 
 - Dresden Hbf - 8010085
+- Hannover Hbf - 8000152
 - München Hbf - 8000261
 
 
@@ -242,6 +243,8 @@ List of stations that have not been (fully) covered yet.
 - Balingen (Württ) - 8000353
 - Bassum - 8000354
 - Bautzen - 8010026
+- Berlin-Blankenburg - 8089056
+- Berlin-Friedrichshagen - 8089060
 - Biblis - 8000503
 - Bingen (Rhein) Hbf - 8000039
 - Bingen (Rhein) Stadt - 8000976
@@ -430,6 +433,7 @@ List of stations that have not been (fully) covered yet.
 - Osterburken - 8000295
 - Osthofen - 8004714
 - Parsberg - 8004755
+- Pasewalk - 8010268
 - Pegnitz - 8004759
 - Pirmasens Nord - 8000876
 - Pleinfeld - 8004835
@@ -437,6 +441,7 @@ List of stations that have not been (fully) covered yet.
 - Plüderhausen - 8004842
 - Porta Westfalica - 8004868
 - Porz (Rhein) - 8004869
+- Priesterweg - 8089034
 - Puchheim - 8004893
 - Radeberg - 8012699
 - Radolfzell - 8000880
@@ -457,6 +462,7 @@ List of stations that have not been (fully) covered yet.
 - Saarburg (Bz Trier) - 8005245
 - Salzbergen - 8005262
 - Sangerhausen - 8010312
+- Savignyplatz - 8089037
 - Schlüchtern - 8000891
 - Schopfheim - 8005420
 - Schwaikheim - 8005454
@@ -761,6 +767,7 @@ List of stations that have not been (fully) covered yet.
 - München-Neuperlach Süd - 8006696
 - Münster Zentrum Nord - 8004173
 - Nersingen - 8004239
+- Neubrandenburg - 8010241
 - Neuburg (Donau) - 8004254
 - Neukirchen (b Sulzbach-Rosenberg) - 8000269
 - Neunkirchen a Sand - 8004310
@@ -859,7 +866,6 @@ List of stations that have not been (fully) covered yet.
 - Stuttgart-Sommerrain - 8005774
 - Sulz (Neckar) - 8005791
 - Sulzbach (Murr) - 8005795
-- Taucha (b Leipzig) - 8013093
 - Teisendorf - 8005833
 - Thale Hbf - 8013112
 - Timmendorferstrand - 8005874
@@ -975,7 +981,6 @@ List of stations that have not been (fully) covered yet.
 - Bad Wörishofen - 8000768
 - Baddeckenstedt - 8000772
 - Balingen Süd - 8000788
-- Baltersweiler - 8000792
 - Barleben - 8011111
 - Barleber See - 8011112
 - Barnten - 8000808
@@ -1121,6 +1126,7 @@ List of stations that have not been (fully) covered yet.
 - Elmenhorst - 8011481
 - Elsfleth - 8001760
 - Elsterberg - 8011487
+- Elsterwerda-Biehla - 8010100
 - Elz (Kr Limburg/Lahn) - 8001764
 - Elzach - 8001766
 - Enkenbach - 8000372
@@ -1324,6 +1330,7 @@ List of stations that have not been (fully) covered yet.
 - Kainzenbad - 8003146
 - Kaisersesch - 8003148
 - Kamenz (Sachs) - 8011988
+- Karl-Bonhoeffer-Nervenklinik - 8089102
 - Kassel-Oberzwehren - 8003199
 - Katlenburg - 8003209
 - Kattenes - 8003211
@@ -2414,9 +2421,10 @@ List of stations that have not been (fully) covered yet.
 
 ## By Bundesland
 
-**1 of 16** Bundesländer fully covered **(6.3%)**.
+**0 of 16** Bundesländer fully covered **(0%)**.
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
+- [Berlin](#berlin)
 - [Brandenburg](#brandenburg)
 - [Bremen](#bremen)
 - [Hessen](#hessen)
@@ -3289,12 +3297,22 @@ List of stations that have not been (fully) covered yet.
 - Übersee - 8005940
 
 
+### Berlin
+
+- Berlin-Blankenburg - 8089056
+- Berlin-Friedrichshagen - 8089060
+- Karl-Bonhoeffer-Nervenklinik - 8089102
+- Priesterweg - 8089034
+- Savignyplatz - 8089037
+
+
 ### Brandenburg
 
 - Baruth (Mark) - 8011116
 - Blumberg (b Berlin) - 8011211
 - Dossow (Prign) - 8011408
 - Döberitz - 8011390
+- Elsterwerda-Biehla - 8010100
 - Erkner - 8013477
 - Ferch-Lienewitz - 8013480
 - Finkenheerd - 8011540
@@ -3625,7 +3643,9 @@ List of stations that have not been (fully) covered yet.
 - Lübstorf - 8012264
 - Miltzow - 8012358
 - Neetzka - 8012421
+- Neubrandenburg - 8010241
 - Papendorf - 8012603
+- Pasewalk - 8010268
 - Rakow - 8012710
 - Ribnitz-Damgarten West - 8012763
 - Rostock Kassebohm - 8012806
@@ -3710,6 +3730,7 @@ List of stations that have not been (fully) covered yet.
 - Göhrde - 8002304
 - Hameln - 8000148
 - Hannover Bismarckstraße - 8002580
+- Hannover Hbf - 8000152
 - Hannover Karl-Wiechert-Allee - 8070086
 - Hannover-Flughafen - 8002589
 - Hannover-Messe / Laatzen - 8003487
@@ -4173,7 +4194,6 @@ List of stations that have not been (fully) covered yet.
 ### Saarland
 
 - Auersmacher - 8000651
-- Baltersweiler - 8000792
 - Besseringen - 8000926
 - Bexbach - 8000941
 - Bildstock - 8000967
@@ -4429,7 +4449,6 @@ List of stations that have not been (fully) covered yet.
 - Stollberg (Sachs) - 8010337
 - Stolpen - 8013057
 - Syrau - 8013080
-- Taucha (b Leipzig) - 8013093
 - Tharandt - 8013114
 - Tiefenau - 8013124
 - Torgau - 8010351

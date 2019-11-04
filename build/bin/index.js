@@ -5,16 +5,17 @@ const mri = require('mri')
 const chalk = require('chalk')
 const fs = require('fs')
 const { spawn } = require('child_process')
+const { resolve } = require('path')
 
 const pkg = require('../../package.json')
-const { queryStation, parseStation, queryElementType, queryElementId, queryPerronOsmType, queryOsmId, verifyOsmId, queryBrokenOrObsolete } = require('./lib')
+const { queryStation, parseStation, queryOsmCategory, queryElementId, queryOsmType, queryOsmId, verifyOsmId, queryObsolete } = require('./lib')
 
 const argv = mri(process.argv.slice(2), {
 	boolean: ['help', 'h', 'version', 'v']
 })
 
 const opt = {
-	datafile: argv._[0] || './osm.ndjson',
+	dataDirectory: argv._[0] || '.',
 	help: argv.help || argv.h,
 	version: argv.version || argv.v,
 	open: argv['auto-open'] || argv.o,
@@ -23,10 +24,10 @@ const opt = {
 
 if (opt.help === true) {
 	process.stdout.write(`
-db-perrons-cli [datafile] [options]
+db-perrons-cli [data-directory] [options]
 
 Arguments:
-    datafile        NDJSON data file path (default: './osm.ndjson').
+    data-directory        NDJSON data directory path containing ndjson files (default: '.').
 
 Options:
 	--auto-open     -o Open OpenStreetMap around stations automatically (only on mac OS, using 'open' CLI)
@@ -49,12 +50,10 @@ const showError = function (err) {
 }
 
 const main = async (opt) => {
-	// query arrival station
+	// query station
 	const { id: station, name: stationName, location: stationLocation } = await queryStation('Which station?', { unknownOnly: opt.unknownOnly })
-	const { perrons, tracks } = await parseStation(station)
-
-	const selectablePerrons = perrons.filter(p => !opt.unknownOnly || !p.osm)
-	const selectableTracks = tracks.filter(t => !opt.unknownOnly || !t.osm)
+	const tracks = await parseStation(station)
+	const selectableTracks = tracks.filter(t => !opt.unknownOnly || (!t.osmPlatform || !t.osmStopPosition))
 
 	if (stationLocation && opt.open) {
 		const { latitude, longitude } = stationLocation
@@ -62,42 +61,26 @@ const main = async (opt) => {
 		spawn('open', [url])
 	}
 
-	// query elementType (perron/track)
-	if (selectablePerrons.length === 0 && selectableTracks.length === 0) throw new Error('No tracks or perrons found for the given station.')
-	const elementType = await queryElementType('Which element type?', { perrons: selectablePerrons.length > 0, tracks: selectableTracks.length > 0 })
+	// query track number
+	const options = selectableTracks.map(track => ({
+		value: track.id,
+		title: track.name
+	}))
+	const elementId = await queryElementId('Which track?', options)
+	const selected = selectableTracks.find(t => t.id === elementId)
 
-	// perron/track number
-	let options
-	if (elementType === 'perron') {
-		options = selectablePerrons.map(perron => {
-			const tracksAtPerron = tracks.filter(track => track.perron === perron.id)
-			const trackDescription = `track${tracksAtPerron.length > 1 ? 's' : ''} ${tracksAtPerron.map(track => track.name).join('/')}`
-			return {
-				value: perron.id,
-				title: [perron.name, trackDescription].join(' - ')
-			}
-		})
-	}
-	if (elementType === 'track') {
-		options = selectableTracks.map(track => ({
-			value: track.id,
-			title: track.name
-		}))
-	}
-	const elementId = await queryElementId('Which element?', options)
+	// query obsolete
+	const obsolete = await queryObsolete('Obsolete?')
 
-	let broken
-	let obsolete
-	const brokenOrObsolete = await queryBrokenOrObsolete('Broken or obsolete?')
-	if (brokenOrObsolete === 'broken') broken = true
-	if (brokenOrObsolete === 'obsolete') obsolete = true
+	let osmType, osmId, osmCategory, entry, file
+	if (!obsolete) {
+		// query osm public_transport category (platform/stopPosition)
+		if (selectableTracks.length === 0) throw new Error('No tracks found for the given station.')
+		osmCategory = await queryOsmCategory('Which OSM public_transport category?', { stopPosition: !selected.osmStopPosition, platform: !selected.osmPlatform })
 
-	let osmType
-	let osmId
-	if (!obsolete && !broken) {
-		// osm type
-		if (elementType === 'perron') {
-			osmType = await queryPerronOsmType('Which OSM type?', elementType)
+		// query osm type
+		if (osmCategory === 'platform') {
+			osmType = await queryOsmType('Which OSM type?')
 		} else {
 			osmType = 'node'
 			console.log('OSM-Type: node')
@@ -106,24 +89,24 @@ const main = async (opt) => {
 		// osm id
 		osmId = await queryOsmId('Which OSM id?')
 		verifyOsmId(osmId)
+
+		entry = {
+			id: elementId,
+			osmType,
+			osmId,
+			stationName,
+			revised: true
+		}
+		file = resolve(opt.dataDirectory, osmCategory === 'platform' ? './osm-platforms.ndjson' : './osm-stop-positions.ndjson')
+	} else {
+		entry = { id: elementId, stationName }
+		file = resolve(opt.dataDirectory, './obsolete.ndjson')
 	}
 
-	const entries = {
-		type: elementType,
-		id: elementId,
-		broken,
-		obsolete,
-		osmType,
-		osmId,
-		stationName,
-		revised: true
-	}
-
-	const ndjson = JSON.stringify(entries) + '\n'
-
+	const ndjson = JSON.stringify(entry) + '\n'
 	try {
-		fs.appendFileSync(opt.datafile, ndjson) // @todo pify & await
-		console.log('Appended to ' + opt.datafile)
+		fs.appendFileSync(file, ndjson) // @todo pify & await
+		console.log('Appended to ' + file)
 	} catch (err) {
 		showError(err)
 	}

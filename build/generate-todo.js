@@ -13,9 +13,9 @@ const stations = require('db-stations/full')
 const Slugger = require('github-slugger')
 const slugger = new Slugger()
 
-const fullData = require('..')
-const allStations = uniq([...fullData.perrons, ...fullData.tracks].map(item => item.station))
-const incompleteStationIds = uniq([...fullData.perrons, ...fullData.tracks].filter(item => !item.osm).map(item => item.station))
+const tracks = require('..')
+const allStations = uniq(tracks.map(item => item.station))
+const incompleteStationIds = uniq(tracks.filter(item => !item.osmStopPosition || !item.osmPlatform).map(item => item.station))
 const incompleteStations = incompleteStationIds.map(id => {
 	const station = stations.find(s => s.id === id)
 
@@ -50,10 +50,9 @@ const main = () => {
 	process.stdout.write(`- [${landHeading}](#${slugger.slug(landHeading)})`)
 	process.stdout.write('\n\n')
 
-	const everything = [...fullData.perrons, ...fullData.tracks]
-	const coveredLength = everything.filter(item => !!item.osm).length
-	const coveredPercentage = Math.round(1000 * (coveredLength / everything.length)) / 10
-	process.stdout.write(`**${coveredLength} of ${everything.length}** perrons/tracks covered **(${coveredPercentage}%)**.`)
+	const coveredLength = tracks.filter(item => item.osmStopPosition && item.osmPlatform).length
+	const coveredPercentage = Math.round(1000 * (coveredLength / tracks.length)) / 10
+	process.stdout.write(`**${coveredLength} of ${tracks.length}** tracks covered **(${coveredPercentage}%)**.`)
 	process.stdout.write('\n\n')
 
 	const coveredStationsLength = allStations.length - incompleteStations.length

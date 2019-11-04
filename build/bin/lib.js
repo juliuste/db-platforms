@@ -7,7 +7,7 @@ const selectPrompt = require('select-prompt')
 const autocompletePrompt = require('cli-autocomplete')
 const uniq = require('lodash/uniq')
 const got = require('got')
-const { perrons, tracks } = require('../..')
+const tracks = require('../..')
 
 const findStations = async query => {
 	const { body } = await got.get('https://2.db.transport.rest/stations', {
@@ -25,9 +25,8 @@ const id9to7 = id => id.length === 9 && id.slice(0, 2) === '00' ? id.slice(2) : 
 const isStationId = (s) => /^\d{7}$/.test(s.toString())
 const parseStation = (query) => {
 	if (isStationId(query)) {
-		const perronsAtStation = perrons.filter(p => p.station === query)
 		const tracksAtStation = tracks.filter(t => t.station === query)
-		return { perrons: perronsAtStation, tracks: tracksAtStation }
+		return tracksAtStation
 	}
 	throw new Error('Station not found.')
 }
@@ -37,7 +36,7 @@ const suggestStations = unknownOnly => async (input) => {
 	const validStations = stations.filter(s => isUICLocationCode(id9to7(s.id))).map(({ name, id, location }) => ({ title: [name, id9to7(id)].join(' - '), value: { name, id: id9to7(id), location } }))
 	if (!unknownOnly) return validStations
 	return validStations.filter(({ value }) => {
-		const incompleteStations = uniq([...perrons, ...tracks].filter(item => !item.osm).map(item => item.station))
+		const incompleteStations = uniq(tracks.filter(item => !item.osmPlatform || !item.osmStopPosition).map(item => item.station))
 		return incompleteStations.includes(value.id)
 	}).filter((element, index) => index < 5)
 }
@@ -49,19 +48,19 @@ const queryStation = (msg, { unknownOnly }) => new Promise((resolve, reject) => 
 		})
 })
 
-// element type (perron/track)
-const queryElementType = (msg, { perrons, tracks }) => new Promise((resolve, reject) => {
+// osm public_transport category (stopPosition/platform)
+const queryOsmCategory = (msg, { stopPosition, platform }) => new Promise((resolve, reject) => {
 	const options = []
-	if (perrons) {
+	if (stopPosition) {
 		options.push({
-			value: 'perron',
-			title: 'Perron'
+			value: 'stopPosition',
+			title: 'Stop position'
 		})
 	}
-	if (tracks) {
+	if (platform) {
 		options.push({
-			value: 'track',
-			title: 'Track'
+			value: 'platform',
+			title: 'Platform'
 		})
 	}
 	selectPrompt(msg, options)
@@ -77,7 +76,7 @@ const queryElementId = (msg, options) => new Promise((resolve, reject) => {
 })
 
 // osm type (way/relation)
-const queryPerronOsmType = (msg) => new Promise((resolve, reject) => {
+const queryOsmType = (msg) => new Promise((resolve, reject) => {
 	selectPrompt(msg, [
 		{
 			value: 'way',
@@ -103,19 +102,15 @@ const queryOsmId = (msg) => new Promise((resolve, reject) =>
 )
 
 // broken or obsolete
-const queryBrokenOrObsolete = (msg) => new Promise((resolve, reject) => {
+const queryObsolete = (msg) => new Promise((resolve, reject) => {
 	const options = [
 		{
-			value: undefined,
+			value: false,
 			title: 'No'
 		},
 		{
-			value: 'broken',
-			title: 'Broken'
-		},
-		{
-			value: 'obsolete',
-			title: 'Obsolete'
+			value: true,
+			title: 'Yes'
 		}
 	]
 	selectPrompt(msg, options)
@@ -126,10 +121,10 @@ const queryBrokenOrObsolete = (msg) => new Promise((resolve, reject) => {
 module.exports = {
 	queryStation,
 	parseStation,
-	queryElementType,
+	queryOsmCategory,
 	queryElementId,
-	queryPerronOsmType,
+	queryOsmType,
 	queryOsmId,
 	verifyOsmId,
-	queryBrokenOrObsolete
+	queryObsolete
 }
