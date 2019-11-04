@@ -46,10 +46,15 @@ const createPerron = list => {
 const createTrack = perrons => rawTrack => {
 	const { station, trackName: longName, track, perron: perronName } = rawTrack
 	const perron = perrons.find(perron => perron.name === perronName && perron.station === station)
+	const parsedName = longName.replace('Gleis ', '').trim()
+	if (parsedName !== track.trim() && String(Number(parsedName)) !== parsedName) {
+		console.error(`Mismatching track names: ${parsedName}, ${track} at ${station}, skipping`)
+		return null
+	}
 	return {
 		type: 'track',
 		id: [station, perronName, track].join(':'), // @todo departurePerron / arrivalPerron
-		name: track,
+		name: parsedName,
 		longName,
 		station,
 		perron: perron.id // @todo departurePerron / arrivalPerron
@@ -59,7 +64,7 @@ const createTrack = perrons => rawTrack => {
 const processStationPerronsAndTracks = list => {
 	const byPerron = Object.values(groupBy(list, 'perron'))
 	const perrons = byPerron.map(createPerron)
-	const tracks = list.map(createTrack(perrons))
+	const tracks = list.map(createTrack(perrons)).filter(Boolean)
 	return [...perrons, ...tracks]
 }
 

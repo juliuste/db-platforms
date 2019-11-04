@@ -2766,8 +2766,6 @@
 {"type":"track","id":"8000787:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"3908048564","stationName":"Balgheim","revised":false}
 {"type":"perron","id":"8000792:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"381108911","stationName":"Baltersweiler","revised":false}
 {"type":"track","id":"8000792:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"5079529960","stationName":"Baltersweiler","revised":false}
-{"type":"perron","id":"8000792:B02","broken":false,"obsolete":false,"osmType":"way","osmId":"381108909","stationName":"Baltersweiler","revised":false}
-{"type":"track","id":"8000792:B02:2","broken":false,"obsolete":false,"osmType":"node","osmId":"5079529961","stationName":"Baltersweiler","revised":false}
 {"type":"perron","id":"8000793:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"83707693","stationName":"Balve","revised":false}
 {"type":"track","id":"8000793:B01:1","broken":false,"obsolete":false,"osmType":"node","osmId":"4894630814","stationName":"Balve","revised":false}
 {"type":"perron","id":"8000794:B01","broken":false,"obsolete":false,"osmType":"way","osmId":"158301359","stationName":"Bammental","revised":false}

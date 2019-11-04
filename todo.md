@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**15140 of 21125** perrons/tracks covered **(71.7%)**.
+**15138 of 21123** perrons/tracks covered **(71.7%)**.
 
-**2996 of 5361** stations fully covered **(55.9%)**.
+**2995 of 5361** stations fully covered **(55.9%)**.
 
 ## By Category
 
@@ -975,6 +975,7 @@ List of stations that have not been (fully) covered yet.
 - Bad Wörishofen - 8000768
 - Baddeckenstedt - 8000772
 - Balingen Süd - 8000788
+- Baltersweiler - 8000792
 - Barleben - 8011111
 - Barleber See - 8011112
 - Barnten - 8000808
@@ -4172,6 +4173,7 @@ List of stations that have not been (fully) covered yet.
 ### Saarland
 
 - Auersmacher - 8000651
+- Baltersweiler - 8000792
 - Besseringen - 8000926
 - Bexbach - 8000941
 - Bildstock - 8000967
