@@ -667,6 +667,8 @@
 {"id":"8011160:12","osmType":"node","osmId":"2813070482","stationName":"Berlin Hauptbahnhof","revised":false}
 {"id":"8011160:13","osmType":"node","osmId":"2813070483","stationName":"Berlin Hauptbahnhof","revised":false}
 {"id":"8011160:14","osmType":"node","osmId":"2813070484","stationName":"Berlin Hauptbahnhof","revised":false}
+{"id":"8011160:5","osmType":"node","osmId":"3856100099","stationName":"Berlin Hauptbahnhof","revised":true}
+{"id":"8011160:6","osmType":"node","osmId":"3856100100","stationName":"Berlin Hauptbahnhof","revised":true}
 {"id":"8011160:15","osmType":"node","osmId":"27412648","stationName":"Berlin Hbf","revised":true}
 {"id":"8011160:16","osmType":"node","osmId":"2813070486","stationName":"Berlin Hbf","revised":true}
 {"id":"8011160:1","osmType":"node","osmId":"3856100095","stationName":"Berlin Hbf","revised":true}
@@ -839,6 +841,12 @@
 {"id":"8089087:3","osmType":"node","osmId":"1871614104","stationName":"Berlin-Schönholz","revised":false}
 {"id":"8089087:4","osmType":"node","osmId":"1871614103","stationName":"Berlin-Schönholz","revised":false}
 {"id":"8089000:1","osmType":"node","osmId":"2634967358","stationName":"Berlin-Schulzendorf","revised":true}
+{"id":"8010404:1","osmType":"node","osmId":"610780825","stationName":"Berlin-Spandau","revised":true}
+{"id":"8010404:2","osmType":"node","osmId":"4208739687","stationName":"Berlin-Spandau","revised":true}
+{"id":"8010404:3","osmType":"node","osmId":"3101920260","stationName":"Berlin-Spandau","revised":true}
+{"id":"8010404:4","osmType":"node","osmId":"28469425","stationName":"Berlin-Spandau","revised":true}
+{"id":"8010404:5","osmType":"node","osmId":"81462758","stationName":"Berlin-Spandau","revised":true}
+{"id":"8010404:6","osmType":"node","osmId":"3101920258","stationName":"Berlin-Spandau","revised":true}
 {"id":"8089088:1","osmType":"node","osmId":"1106283819","stationName":"Berlin-Spindlersfeld","revised":false}
 {"id":"8013021:1","osmType":"node","osmId":"2400635511","stationName":"Berlin-Staaken","revised":true}
 {"id":"8013021:2","osmType":"node","osmId":"141801940","stationName":"Berlin-Staaken","revised":true}

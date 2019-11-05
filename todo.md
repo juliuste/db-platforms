@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**7681 of 11899** tracks covered **(64.6%)**.
+**7693 of 11899** tracks covered **(64.7%)**.
 
-**2951 of 5361** stations fully covered **(55%)**.
+**2954 of 5361** stations fully covered **(55.1%)**.
 
 ## By Category
 
@@ -21,7 +21,6 @@ List of stations that have not been (fully) covered yet.
 
 ### Category 1
 
-- Berlin Hauptbahnhof - 8011160
 - Dresden Hbf - 8010085
 - München Hbf - 8000261
 
@@ -30,7 +29,6 @@ List of stations that have not been (fully) covered yet.
 
 - Aschaffenburg Hbf - 8000010
 - Augsburg Hbf - 8000013
-- Berlin-Spandau - 8010404
 - Bielefeld Hbf - 8000036
 - Bremen Hbf - 8000050
 - Bruchsal - 8000055
@@ -429,7 +427,6 @@ List of stations that have not been (fully) covered yet.
 - Plettenberg - 8004838
 - Plüderhausen - 8004842
 - Porz (Rhein) - 8004869
-- Priesterweg - 8089034
 - Puchheim - 8004893
 - Radeberg - 8012699
 - Radolfzell - 8000880
@@ -2458,10 +2455,9 @@ List of stations that have not been (fully) covered yet.
 
 ## By Bundesland
 
-**0 of 16** Bundesländer fully covered **(0%)**.
+**1 of 16** Bundesländer fully covered **(6.3%)**.
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
-- [Berlin](#berlin)
 - [Brandenburg](#brandenburg)
 - [Bremen](#bremen)
 - [Hessen](#hessen)
@@ -3339,13 +3335,6 @@ List of stations that have not been (fully) covered yet.
 - Zollhaus-Petersthal - 8006670
 - Zwiesel (Bay) - 8006684
 - Übersee - 8005940
-
-
-### Berlin
-
-- Berlin Hauptbahnhof - 8011160
-- Berlin-Spandau - 8010404
-- Priesterweg - 8089034
 
 
 ### Brandenburg

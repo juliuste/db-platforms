@@ -6621,6 +6621,10 @@
 {"id":"8004885:1a","osmType":"relation","osmId":"6779478","stationName":"Prien am Chiemsee","revised":false}
 {"id":"8004885:2","osmType":"relation","osmId":"6779479","stationName":"Prien am Chiemsee","revised":false}
 {"id":"8004885:3","osmType":"relation","osmId":"6779479","stationName":"Prien am Chiemsee","revised":false}
+{"id":"8089034:1","osmType":"way","osmId":"47888226","stationName":"Priesterweg","revised":true}
+{"id":"8089034:3","osmType":"way","osmId":"47888226","stationName":"Priesterweg","revised":true}
+{"id":"8089034:2","osmType":"way","osmId":"47888225","stationName":"Priesterweg","revised":true}
+{"id":"8089034:4","osmType":"way","osmId":"47888225","stationName":"Priesterweg","revised":true}
 {"id":"8010285:1","osmType":"way","osmId":"89137961","stationName":"Priestewitz","revised":false}
 {"id":"8010285:2","osmType":"way","osmId":"89137959","stationName":"Priestewitz","revised":false}
 {"id":"8004888:1","osmType":"way","osmId":"359247833","stationName":"Prisdorf","revised":false}
