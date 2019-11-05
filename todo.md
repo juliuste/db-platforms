@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**7693 of 11899** tracks covered **(64.7%)**.
+**7714 of 11899** tracks covered **(64.8%)**.
 
-**2954 of 5361** stations fully covered **(55.1%)**.
+**2962 of 5361** stations fully covered **(55.3%)**.
 
 ## By Category
 
@@ -126,7 +126,6 @@ List of stations that have not been (fully) covered yet.
 - Göppingen - 8000127
 - Görlitz - 8010131
 - Günzburg - 8000139
-- Gütersloh Hbf - 8002461
 - Halberstadt - 8010157
 - Hameln - 8000148
 - Hennigsdorf (b Berlin) - 8013483
@@ -311,7 +310,6 @@ List of stations that have not been (fully) covered yet.
 - Halle-Neustadt - 8010160
 - Hannover Bismarckstraße - 8002580
 - Hannover Karl-Wiechert-Allee - 8070086
-- Hannover-Flughafen - 8002589
 - Hannover-Messe / Laatzen - 8003487
 - Haste (Han) - 8002634
 - Hattersheim (Main) - 8002637
@@ -673,7 +671,6 @@ List of stations that have not been (fully) covered yet.
 - Hornberg - 8003001
 - Hoyerswerda - 8010177
 - Hämelerwald - 8002499
-- Höllriegelskreuth - 8002899
 - Hückelhoven-Baal - 8000677
 - Hünfeld - 8003016
 - Idstein (Taunus) - 8003041
@@ -1237,7 +1234,6 @@ List of stations that have not been (fully) covered yet.
 - Güterglück - 8010154
 - Haarhausen - 8011792
 - Hachenburg - 8002494
-- Hadamar - 8002495
 - Haffkrug - 8002504
 - Hagenbach - 8002515
 - Hainichen - 8011802
@@ -1261,7 +1257,6 @@ List of stations that have not been (fully) covered yet.
 - Heidenheim-Schnaitheim - 8002691
 - Heimenkirch - 8002710
 - Herbrechtingen - 8002766
-- Herdecke - 8002769
 - Herdorf - 8002770
 - Hergatz - 8000387
 - Herlasgrün - 8010166
@@ -1289,7 +1284,6 @@ List of stations that have not been (fully) covered yet.
 - Hohenwestedt - 8002959
 - Holm-Seppensen - 8002967
 - Holthusen - 8010173
-- Holzhausen-Heddinghausen - 8002978
 - Hoppstädten (Nahe) - 8002995
 - Horn-Bad Meinberg - 8003000
 - Hundsgrün - 8011928
@@ -1365,7 +1359,6 @@ List of stations that have not been (fully) covered yet.
 - Kollmarsreute - 8003398
 - Kollnau - 8003399
 - Kork - 8003408
-- Kothmaißling - 8003413
 - Kraftsdorf - 8012088
 - Krempe - 8003430
 - Kremperheide - 8003431
@@ -2193,7 +2186,6 @@ List of stations that have not been (fully) covered yet.
 - Laberweinting - 8003488
 - Langendorf - 8012155
 - Langeneichstädt - 8012156
-- Langenhahn - 8003543
 - Langenorla Ost - 8012159
 - Langenorla West - 8012160
 - Langenwolmsdorf - 8012163
@@ -3018,7 +3010,6 @@ List of stations that have not been (fully) covered yet.
 - Hof Hbf - 8002924
 - Hohenbrunn - 8002940
 - Hoppingen - 8002994
-- Höllriegelskreuth - 8002899
 - Hörlkofen - 8002912
 - Hösbach - 8002918
 - Immenreuth - 8003063
@@ -3045,7 +3036,6 @@ List of stations that have not been (fully) covered yet.
 - Klosterlechfeld - 8003342
 - Kochel - 8003355
 - Kolbermoor - 8003397
-- Kothmaißling - 8003413
 - Kronach - 8003446
 - Krumbach (Schwab) - 8003457
 - Kulmbach - 8003476
@@ -3525,7 +3515,6 @@ List of stations that have not been (fully) covered yet.
 - Groß Umstadt-Wiebelsbach - 8000384
 - Großenlüder - 8002413
 - Göbelnrod - 8002301
-- Hadamar - 8002495
 - Haiger - 8000386
 - Haiger Obertor - 8002524
 - Hailer-Meerholz - 8002526
@@ -3781,7 +3770,6 @@ List of stations that have not been (fully) covered yet.
 - Hameln - 8000148
 - Hannover Bismarckstraße - 8002580
 - Hannover Karl-Wiechert-Allee - 8070086
-- Hannover-Flughafen - 8002589
 - Hannover-Messe / Laatzen - 8003487
 - Hardegsen - 8002594
 - Hasbergen (Kr Osnabrück) - 8002615
@@ -3948,18 +3936,15 @@ List of stations that have not been (fully) covered yet.
 - Glesch - 8002290
 - Goch - 8002296
 - Greven - 8002369
-- Gütersloh Hbf - 8002461
 - Hagen Hbf - 8000142
 - Hamm (Westf) - 8000149
 - Hamminkeln - 8002571
 - Hattingen (Ruhr) - 8002639
 - Heessen - 8002680
-- Herdecke - 8002769
 - Herford - 8000162
 - Herne-Börnig - 8002779
 - Herzogenrath - 8002806
 - Hilchenbach - 8002826
-- Holzhausen-Heddinghausen - 8002978
 - Horn-Bad Meinberg - 8003000
 - Horrem - 8000178
 - Hövelriege - 8002921
@@ -4158,7 +4143,6 @@ List of stations that have not been (fully) covered yet.
 - Landau (Pfalz) Süd - 8003507
 - Landau (Pfalz) West - 8003508
 - Landstuhl - 8003515
-- Langenhahn - 8003543
 - Lauterecken-Grumbach - 8000547
 - Leutesdorf (Rhein) - 8003665
 - Lohnweiler - 8003739
