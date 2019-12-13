@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**8253 of 11897** tracks covered **(69.4%)**.
+**8250 of 11897** tracks covered **(69.3%)**.
 
-**3292 of 5360** stations fully covered **(61.4%)**.
+**3291 of 5360** stations fully covered **(61.4%)**.
 
 ## By Category
 
@@ -230,6 +230,7 @@ List of stations that have not been (fully) covered yet.
 - Großkorbetha - 8010146
 - Grünstadt - 8000137
 - Gunzenhausen - 8000385
+- Gößnitz - 8010134
 - Hannover Karl-Wiechert-Allee - 8070086
 - Haste (Han) - 8002634
 - Hattersheim (Main) - 8002637
@@ -4125,6 +4126,7 @@ List of stations that have not been (fully) covered yet.
 - Großschwabhausen - 8011762
 - Gräfentonna - 8011687
 - Guthmannshausen - 8011791
+- Gößnitz - 8010134
 - Haarhausen - 8011792
 - Harra - 8011820
 - Harra Nord - 8011821

@@ -3262,8 +3262,6 @@
 {"id":"8000130:4","osmType":"node","osmId":"2960176813","stationName":"Goslar","revised":false}
 {"id":"8000130:5","osmType":"node","osmId":"2960176817","stationName":"Goslar","revised":false}
 {"id":"8002333:1","osmType":"node","osmId":"342876511","stationName":"Goßmannsdorf","revised":false}
-{"id":"8010134:1","osmType":"node","osmId":"2582770370","stationName":"Gößnitz","revised":false}
-{"id":"8010134:2","osmType":"node","osmId":"2582770369","stationName":"Gößnitz","revised":false}
 {"id":"8010136:1","osmType":"node","osmId":"3690930202","stationName":"Gotha","revised":false}
 {"id":"8010136:1a","osmType":"node","osmId":"3690930203","stationName":"Gotha","revised":false}
 {"id":"8010136:2","osmType":"node","osmId":"2051260772","stationName":"Gotha","revised":false}
@@ -6059,7 +6057,6 @@
 {"id":"8087062:2","osmType":"node","osmId":"280670918","stationName":"Münchweiler (Alsenz)","revised":false}
 {"id":"8004166:11","osmType":"node","osmId":"5129045706","stationName":"Münchweiler (Rodalb)","revised":false}
 {"id":"8004166:12","osmType":"node","osmId":"5129045707","stationName":"Münchweiler (Rodalb)","revised":false}
-{"id":"8004169:2","osmType":"node","osmId":"370092016","stationName":"Münnerstadt","revised":false}
 {"id":"8004169:3","osmType":"node","osmId":"5913813296","stationName":"Münnerstadt","revised":false}
 {"id":"8004171:1","osmType":"node","osmId":"292604694","stationName":"Münster (b Dieburg)","revised":false}
 {"id":"8004183:1","osmType":"node","osmId":"6769864162","stationName":"Munster (Örtze)","revised":false}
