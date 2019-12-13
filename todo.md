@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**8257 of 11899** tracks covered **(69.4%)**.
+**8253 of 11897** tracks covered **(69.4%)**.
 
-**3295 of 5361** stations fully covered **(61.5%)**.
+**3292 of 5360** stations fully covered **(61.4%)**.
 
 ## By Category
 
@@ -583,6 +583,7 @@ List of stations that have not been (fully) covered yet.
 - Münchberg - 8004126
 - München-Daglfing - 8004143
 - München-Johanneskirchen - 8004149
+- München-Neuperlach Süd - 8006696
 - Münster Zentrum Nord - 8004173
 - Nersingen - 8004239
 - Neuburg (Donau) - 8004254
@@ -1233,6 +1234,7 @@ List of stations that have not been (fully) covered yet.
 - Müncheberg (Mark) - 8010236
 - Münchehof (Harz) - 8004127
 - Münchsmünster - 8004165
+- Münnerstadt - 8004169
 - Mürlenbach - 8004174
 - Nabburg - 8004191
 - Nagold - 8004196
@@ -2694,7 +2696,9 @@ List of stations that have not been (fully) covered yet.
 - München-Daglfing - 8004143
 - München-Giesing - 8004148
 - München-Johanneskirchen - 8004149
+- München-Neuperlach Süd - 8006696
 - Münchsmünster - 8004165
+- Münnerstadt - 8004169
 - Nabburg - 8004191
 - Naila - 8004198
 - Nassenbeuren - 8004207

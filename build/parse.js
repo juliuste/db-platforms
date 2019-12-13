@@ -17,6 +17,10 @@ const knownMissingStationNumbers = [
 	'6245'
 ]
 
+const brokenPlatformIds = [
+	'8005163:2' // exists twice in the original dataset, with different perrons
+]
+
 // replace stationNumber with station
 const improveStationMetadata = oldEntry => {
 	const matchingStations = stations.filter(station => '' + station.nr === '' + oldEntry.stationNumber)
@@ -52,8 +56,14 @@ const createTrack = perrons => rawTrack => {
 		return null
 	}
 
+	const id = [station, parsedName].join(':')
+	if (brokenPlatformIds.includes(id)) {
+		console.error(`Flagged as broken: ${id}, skipping`)
+		return null
+	}
+
 	return {
-		id: [station, track].join(':'), // @todo departurePerron / arrivalPerron
+		id,
 		name: parsedName,
 		longName,
 		station,

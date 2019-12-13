@@ -6,6 +6,7 @@ const streamToPromise = require('get-stream').array
 const ndjson = require('ndjson')
 const fs = require('fs')
 const { resolve } = require('path')
+const groupBy = require('lodash/groupBy')
 
 const mergeOsmDataWithStatic = (osmPlatformData, osmStopPositionData, obsoleteData, parsedTracks) => {
 	const tracks = JSON.parse(JSON.stringify(parsedTracks)) // cloning is "inefficient" and not necessary here, but the method doesn't have side effects
@@ -48,6 +49,11 @@ const mergeOsmDataWithStatic = (osmPlatformData, osmStopPositionData, obsoleteDa
 const build = async () => {
 	const data = await download()
 	const parsedTracks = parse(data)
+
+	const groupedById = Object.values(groupBy(parsedTracks, 'id'))
+	groupedById.forEach(group => {
+		if (group.length > 1) throw new Error(`multiple stations with the same id: ${group[0].id}`)
+	})
 
 	const osmPlatformDataStream = fs.createReadStream(resolve(__dirname, '../osm-platforms.ndjson')).pipe(ndjson.parse())
 	const osmPlatformData = await streamToPromise(osmPlatformDataStream)
