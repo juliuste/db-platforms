@@ -70,6 +70,8 @@ tape('upstream osm', async t => {
 				const refs = flatMap(groupedRefs, r => r.split(';'))
 					.filter(Boolean)
 					.filter(r => !!r.replace(/[^\d]/g, ''))
+					.map(r => r.replace(/^Gleis/gi, '').trim())
+					.filter(Boolean)
 				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)
 				t.ok(get(matching, 'tags.public_transport') === 'stop_position', `public_transport=stop_position ${element.type} ${element.id}`)
 			}
