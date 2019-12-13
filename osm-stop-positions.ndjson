@@ -3576,6 +3576,13 @@
 {"id":"8002537:1","osmType":"node","osmId":"4728634494","stationName":"Halen","revised":false}
 {"id":"8002534:1","osmType":"node","osmId":"1191209763","stationName":"Hallbergmoos","revised":false}
 {"id":"8002534:2","osmType":"node","osmId":"27228824","stationName":"Hallbergmoos","revised":false}
+{"id":"8010159:1","osmType":"node","osmId":"2585175872","stationName":"Halle (Saale) Hbf","revised":false}
+{"id":"8010159:8","osmType":"node","osmId":"447734809","stationName":"Halle (Saale) Hbf","revised":false}
+{"id":"8010159:9","osmType":"node","osmId":"1642975102","stationName":"Halle (Saale) Hbf","revised":false}
+{"id":"8010159:10","osmType":"node","osmId":"1642975103","stationName":"Halle (Saale) Hbf","revised":false}
+{"id":"8010159:11","osmType":"node","osmId":"3738703650","stationName":"Halle (Saale) Hbf","revised":false}
+{"id":"8010159:12","osmType":"node","osmId":"3900469796","stationName":"Halle (Saale) Hbf","revised":false}
+{"id":"8010159:13","osmType":"node","osmId":"3900469797","stationName":"Halle (Saale) Hbf","revised":false}
 {"id":"8002539:1","osmType":"node","osmId":"3773889660","stationName":"Halle (Westf)","revised":false}
 {"id":"8002539:2","osmType":"node","osmId":"3773889659","stationName":"Halle (Westf)","revised":false}
 {"id":"8080630:1","osmType":"node","osmId":"4888640476","stationName":"Halle (Westf)-Gerry-Weber-Stadion","revised":false}
@@ -6343,8 +6350,8 @@
 {"id":"8004373:1","osmType":"node","osmId":"5154586377","stationName":"Niedererbach","revised":false}
 {"id":"8012485:1","osmType":"node","osmId":"2291307238","stationName":"Niederfinow","revised":false}
 {"id":"8012485:2","osmType":"node","osmId":"5213148698","stationName":"Niederfinow","revised":false}
-{"id":"8012487:1","osmType":"node","osmId":"277692281","stationName":"Niedergörsdorf","revised":false}
-{"id":"8012487:2","osmType":"node","osmId":"1379924569","stationName":"Niedergörsdorf","revised":false}
+{"id":"8012487:2","osmType":"node","osmId":"277692281","stationName":"Niedergörsdorf","revised":false}
+{"id":"8012487:1","osmType":"node","osmId":"1379924569","stationName":"Niedergörsdorf","revised":false}
 {"id":"8004379:1","osmType":"node","osmId":"254988614","stationName":"Niederheimbach","revised":false}
 {"id":"8004379:2","osmType":"node","osmId":"1274403250","stationName":"Niederheimbach","revised":false}
 {"id":"8004380:1","osmType":"node","osmId":"4440909936","stationName":"Niederhöchstadt","revised":false}
