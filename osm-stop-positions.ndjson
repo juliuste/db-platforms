@@ -2884,10 +2884,10 @@
 {"id":"8000108:8","osmType":"node","osmId":"3763644310","stationName":"Freilassing","revised":false}
 {"id":"8000108:7","osmType":"node","osmId":"3763644309","stationName":"Freilassing","revised":false}
 {"id":"8002085:1","osmType":"node","osmId":"35719889","stationName":"Freilassing-Hofham","revised":false}
-{"id":"8000374:1","osmType":"node","osmId":"5113738719","stationName":"Freinsheim","revised":false}
+{"id":"8000374:1","osmType":"node","osmId":"5113738719","stationName":"Freinsheim","revised":false,"notUnique":true}
 {"id":"8000374:2","osmType":"node","osmId":"5113738720","stationName":"Freinsheim","revised":false}
 {"id":"8000374:10","osmType":"node","osmId":"1685215729","stationName":"Freinsheim","revised":false}
-{"id":"8000374:9","osmType":"node","osmId":"5113738719","stationName":"Freinsheim","revised":false}
+{"id":"8000374:9","osmType":"node","osmId":"5113738719","stationName":"Freinsheim","revised":false,"notUnique":true}
 {"id":"8002078:1","osmType":"node","osmId":"1509630983","stationName":"Freising","revised":false}
 {"id":"8002078:2","osmType":"node","osmId":"14342582","stationName":"Freising","revised":false}
 {"id":"8002078:3","osmType":"node","osmId":"461820236","stationName":"Freising","revised":false}

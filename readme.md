@@ -84,6 +84,7 @@ The module exposes a list of *tracks*. Tracks contain the following information:
 		osmStopPosition: { // null if not tagged yet
 			type: 'node',
 			id: '215971391'
+			notUnique: true // only set in rare cases where multiple tracks are represented by the same stop positon, e.g. for tracks where you can exit a train on both sides
 		}
 	},
 	// …
@@ -118,6 +119,7 @@ OpenStreetMap associations are stored in `osm-stop-positions.ndjson` and `osm-pl
 | `osmId` | Id of the OSM entity, `undefined` if `broken=true` or `obsolete=true`. Note that OSM ids are not too stable, however this still seems to be the best way to associate data (for now). Additionally, tests that verify that ids are still valid and refering to public_transport entities are run on a daily basis. | `"378453650"` |
 | `stationName` | Name of the station. Note that this field is required, but won't ever be parsed, we just use it to make the dataset a bit more human-readable. | `"Gorgast"` |
 | `revised` | Some entries have been automatically fetched/guessed from tagged OSM nodes (`false`), while others have been manually inserted (`true`). This field is currently not exposed by the module, but can be used internally to monitor quality. | `true` |
+| `notUnique` | *Only for stop positions.* Usually, the tests will fail if one osm stop_position id is associated with multiple tracks. However, in some rare cases, e.g. for tracks where you can exit a train on both sides, you can allow an osm id to be added for multiple tracks by setting `notUnique=true`. | *not set* |
 
 Put together, our example would give us the following data row for `osm-platforms.ndjson`:
 

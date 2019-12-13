@@ -43,7 +43,8 @@ tape('base', t => {
 		return [track.osmStopPosition.type, track.osmStopPosition.id].join('#')
 	})
 	Object.keys(byStopPosition).forEach(key => {
-		t.equal(byStopPosition[key].length, 1, `unique stop position ${key}`)
+		const notUnique = byStopPosition[key].every(track => track.osmStopPosition.notUnique)
+		t.ok(notUnique || (byStopPosition[key].length === 1), `unique stop position ${key}`)
 	})
 
 	t.end()
