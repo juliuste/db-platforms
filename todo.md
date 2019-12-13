@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**8250 of 11897** tracks covered **(69.3%)**.
+**8255 of 11893** tracks covered **(69.4%)**.
 
-**3291 of 5360** stations fully covered **(61.4%)**.
+**3293 of 5360** stations fully covered **(61.4%)**.
 
 ## By Category
 
@@ -21,8 +21,7 @@ List of stations that have not been (fully) covered yet.
 
 ### Category 1
 
-- Dresden Hbf - 8010085
-- München Hbf - 8000261
+**All stations in this category are already covered.**
 
 
 ### Category 2
@@ -2691,7 +2690,6 @@ List of stations that have not been (fully) covered yet.
 - Möttingen - 8004071
 - Mühlstetten - 8004115
 - Münchberg - 8004126
-- München Hbf - 8000261
 - München Karlsplatz - 8004132
 - München Marienplatz - 8004135
 - München-Daglfing - 8004143
@@ -3682,7 +3680,6 @@ List of stations that have not been (fully) covered yet.
 - Dresden Bischofsplatz - 8011416
 - Dresden Flughafen - 8011399
 - Dresden Freiberger Straße - 8011431
-- Dresden Hbf - 8010085
 - Dresden Industriegelände - 8011418
 - Dresden Mitte - 8013444
 - Dresden-Dobritz - 8011420

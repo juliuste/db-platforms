@@ -1990,6 +1990,8 @@
 {"id":"8010085:9","osmType":"node","osmId":"2719126624","stationName":"Dresden Hbf","revised":true}
 {"id":"8010085:4","osmType":"node","osmId":"692162457","stationName":"Dresden Hbf","revised":true}
 {"id":"8010085:2","osmType":"node","osmId":"2718622554","stationName":"Dresden Hbf","revised":true}
+{"id":"8010085:1a","osmType":"node","osmId":"968918896","stationName":"Dresden Hbf","revised":true}
+{"id":"8010085:2a","osmType":"node","osmId":"3715808842","stationName":"Dresden Hbf","revised":true}
 {"id":"8011418:1","osmType":"node","osmId":"771990353","stationName":"Dresden Industriegelände","revised":false}
 {"id":"8011418:2","osmType":"node","osmId":"28209521","stationName":"Dresden Industriegelände","revised":false}
 {"id":"8013444:1","osmType":"node","osmId":"346793712","stationName":"Dresden Mitte","revised":false}
@@ -5953,6 +5955,7 @@
 {"id":"8000261:21","osmType":"node","osmId":"1654971223","stationName":"München Hbf","revised":true}
 {"id":"8000261:1","osmType":"node","osmId":"478521700","stationName":"München Hbf","revised":false}
 {"id":"8000261:2","osmType":"node","osmId":"237680533","stationName":"München Hbf","revised":false}
+{"id":"8000261:27","osmType":"node","osmId":"1654971354","stationName":"München Hbf","revised":true}
 {"id":"8005419:11","osmType":"node","osmId":"751989475","stationName":"München Heimeranplatz","revised":false}
 {"id":"8005419:1","osmType":"node","osmId":"25874621","stationName":"München Heimeranplatz","revised":false}
 {"id":"8005419:2","osmType":"node","osmId":"737174136","stationName":"München Heimeranplatz","revised":false}
