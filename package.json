@@ -29,9 +29,9 @@
 		"build": "npm run build-data && npm run generate-todo",
 		"build-data": "node build/index > data.json",
 		"check-deps": "depcheck",
-		"fix": "eslint --fix build test.js",
+		"fix": "eslint --fix build discover test.js",
 		"generate-todo": "node build/generate-todo > todo.md",
-		"lint": "eslint build test.js",
+		"lint": "eslint build discover test.js",
 		"prepublishOnly": "npm run build && npm test",
 		"test": "npm run lint && npm run check-deps && npm run build && node test"
 	},
