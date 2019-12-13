@@ -4328,8 +4328,6 @@
 {"id":"8003270:1","osmType":"way","osmId":"364780008","stationName":"Kirchenlamitz Ost","revised":false}
 {"id":"8003270:2","osmType":"way","osmId":"364780013","stationName":"Kirchenlamitz Ost","revised":false}
 {"id":"8000435:5","osmType":"way","osmId":"255434822","stationName":"Kirchhain (Bz Kassel)","revised":false}
-{"id":"8000435:1","osmType":"node","osmId":"2981520637","stationName":"Kirchhain (Bz Kassel)","revised":false}
-{"id":"8000435:2","osmType":"node","osmId":"2981520638","stationName":"Kirchhain (Bz Kassel)","revised":false}
 {"id":"8003276:1","osmType":"way","osmId":"318980428","stationName":"Kirchhammelwarden","revised":false}
 {"id":"8003278:2","osmType":"way","osmId":"107861536","stationName":"Kirchheim (Neckar)","revised":false}
 {"id":"8003283:2","osmType":"way","osmId":"373962821","stationName":"Kirchheim (Teck) Süd","revised":false}
@@ -5501,7 +5499,6 @@
 {"id":"8004048:1","osmType":"way","osmId":"129722157","stationName":"Mittlerer Landweg","revised":false}
 {"id":"8004048:2","osmType":"way","osmId":"129722157","stationName":"Mittlerer Landweg","revised":false}
 {"id":"8012369:1","osmType":"way","osmId":"732177204","stationName":"Mittweida","revised":false}
-{"id":"8012369:2","osmType":"node","osmId":"6855865964","stationName":"Mittweida","revised":false}
 {"id":"8012370:1","osmType":"way","osmId":"126185236","stationName":"Mixdorf","revised":true}
 {"id":"8004049:2","osmType":"way","osmId":"539944949","stationName":"Mochenwangen","revised":false}
 {"id":"8012371:1","osmType":"way","osmId":"161387512","stationName":"Mockrehna","revised":false}
@@ -6818,7 +6815,6 @@
 {"id":"8000309:101","osmType":"relation","osmId":"6483744","stationName":"Regensburg Hbf","revised":false}
 {"id":"8000309:4","osmType":"relation","osmId":"6483745","stationName":"Regensburg Hbf","revised":false}
 {"id":"8000309:5","osmType":"relation","osmId":"6483745","stationName":"Regensburg Hbf","revised":false}
-{"id":"8000309:9","osmType":"node","osmId":"458700635","stationName":"Regensburg Hbf","revised":false}
 {"id":"8012731:1","osmType":"way","osmId":"252211911","stationName":"Regis-Breitingen","revised":false}
 {"id":"8012731:2","osmType":"way","osmId":"252211910","stationName":"Regis-Breitingen","revised":false}
 {"id":"8004988:2","osmType":"way","osmId":"28254303","stationName":"Rehau","revised":false}

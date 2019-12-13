@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**7714 of 11899** tracks covered **(64.8%)**.
+**7719 of 11899** tracks covered **(64.9%)**.
 
-**2962 of 5361** stations fully covered **(55.3%)**.
+**2963 of 5361** stations fully covered **(55.3%)**.
 
 ## By Category
 
@@ -118,7 +118,6 @@ List of stations that have not been (fully) covered yet.
 - Garmisch-Partenkirchen - 8002187
 - Gera Hbf - 8010125
 - Glauchau (Sachs) - 8010129
-- Goslar - 8000130
 - Graben-Neudorf - 8000131
 - Grafing Bahnhof - 8002347
 - Greven - 8002369
@@ -324,6 +323,7 @@ List of stations that have not been (fully) covered yet.
 - Hochspeyer - 8002875
 - Hockenheim - 8002883
 - Hofgeismar - 8002933
+- Hude - 8000522
 - Hürth-Kalscheuren - 8003160
 - Ibbenbüren - 8003036
 - Idar-Oberstein - 8003040
@@ -336,6 +336,7 @@ List of stations that have not been (fully) covered yet.
 - Kaufering - 8000195
 - Kettwig - 8000198
 - Kiefersfelden - 8003249
+- Kirchhain (Bz Kassel) - 8000435
 - Kirchheim (Teck) - 8003280
 - Kirchweyhe - 8003292
 - Kissing - 8003299
@@ -531,7 +532,6 @@ List of stations that have not been (fully) covered yet.
 - Bexbach - 8000941
 - Biberach (Baden) - 8000942
 - Biebesheim - 8000951
-- Biederitz - 8010047
 - Bischofswerda - 8010049
 - Bissendorf - 8001000
 - Blankenburg (Harz) - 8013439
@@ -588,7 +588,6 @@ List of stations that have not been (fully) covered yet.
 - Durmersheim - 8001616
 - Ebenhausen (Unterfr) - 8001620
 - Ebensfeld - 8001623
-- Ebersbach (Sachs) - 8010092
 - Edermünde-Grifte - 8002374
 - Efringen-Kirchen - 8001671
 - Egelsbach - 8001672
@@ -1058,7 +1057,6 @@ List of stations that have not been (fully) covered yet.
 - Dahlenburg - 8001360
 - Darmstadt Ost - 8001376
 - Dasing - 8001382
-- Daufenbach - 8001388
 - Deining (Oberpf) - 8001400
 - Dellfeld Ort - 8001407
 - Demitz-Thumitz - 8011354
@@ -1707,6 +1705,7 @@ List of stations that have not been (fully) covered yet.
 - Salem - 8004029
 - Sandkrug - 8005287
 - Schafbrücke - 8005306
+- Schandelah - 8005320
 - Schelklingen - 8005333
 - Schemmerberg - 8005334
 - Schenkenzell - 8005335
@@ -3540,6 +3539,7 @@ List of stations that have not been (fully) covered yet.
 - Kassel-Wilhelmshöhe - 8003200
 - Kelsterbach - 8003228
 - Kerkerbach - 8003235
+- Kirchhain (Bz Kassel) - 8000435
 - Kronberg (Taunus) - 8003447
 - Lampertheim - 8003503
 - Lang Göns - 8003520
@@ -3763,7 +3763,6 @@ List of stations that have not been (fully) covered yet.
 - Gifhorn - 8000185
 - Gittelde - 8002281
 - Goldenstedt (Oldb) - 8002320
-- Goslar - 8000130
 - Großburgwedel - 8002403
 - Großdüngen - 8002405
 - Göhrde - 8002304
@@ -3782,6 +3781,7 @@ List of stations that have not been (fully) covered yet.
 - Hildesheim Ost - 8002830
 - Hitzacker - 8002865
 - Holm-Seppensen - 8002967
+- Hude - 8000522
 - Huntlosen - 8003030
 - Hämelerwald - 8002499
 - Isernhagen - 8003091
@@ -3835,6 +3835,7 @@ List of stations that have not been (fully) covered yet.
 - Sande - 8005282
 - Sanderbusch - 8005285
 - Sandkrug - 8005287
+- Schandelah - 8005320
 - Schortens-Heidmühle (Oldb) - 8002695
 - Schwarmstedt - 8005457
 - Schöppenstedt - 8005413
@@ -4074,7 +4075,6 @@ List of stations that have not been (fully) covered yet.
 - Bullay DB - 8001267
 - Cochem (Mosel) - 8001340
 - Contwig - 8001341
-- Daufenbach - 8001388
 - Dellfeld Ort - 8001407
 - Densborn - 8001414
 - Dernau - 8001417
@@ -4322,7 +4322,6 @@ List of stations that have not been (fully) covered yet.
 - Dresden-Trachau - 8011427
 - Dresden-Zschachwitz - 8011428
 - Dürrröhrsdorf - 8010091
-- Ebersbach (Sachs) - 8010092
 - Edle Krone - 8011451
 - Eilenburg - 8010095
 - Eilenburg Ost - 8010161
@@ -4521,7 +4520,6 @@ List of stations that have not been (fully) covered yet.
 - Bernburg-Waldau Hp - 8011170
 - Beuna (Geiseltal) - 8011177
 - Beyendorf - 8011181
-- Biederitz - 8010047
 - Biesenrode - 8011187
 - Bindfelde - 8011190
 - Bitterfeld - 8010050

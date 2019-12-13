@@ -272,8 +272,9 @@
 {"id":"8089003:1","osmType":"node","osmId":"30325044","stationName":"Attilastraße","revised":false}
 {"id":"8089003:2","osmType":"node","osmId":"1932503321","stationName":"Attilastraße","revised":false}
 {"id":"8000012:2","osmType":"node","osmId":"1298632778","stationName":"Au (Sieg)","revised":false}
+{"id":"8000012:4","osmType":"node","osmId":"3024342823","stationName":"Au (Sieg)","revised":false}
 {"id":"8000012:31","osmType":"node","osmId":"3024342783","stationName":"Au (Sieg)","revised":false}
-{"id":"8000012:32","osmType":"node","osmId":"3024342823","stationName":"Au (Sieg)","revised":false}
+{"id":"8000012:32","osmType":"node","osmId":"3944386781","stationName":"Au (Sieg)","revised":false}
 {"id":"8000647:1","osmType":"node","osmId":"4785246351","stationName":"Aue-Wingeshausen","revised":false}
 {"id":"8011057:1","osmType":"node","osmId":"292558430","stationName":"Auehütte","revised":false}
 {"id":"8000649:1","osmType":"node","osmId":"3211907972","stationName":"Auerbach (b Mosbach)","revised":false}
@@ -935,7 +936,8 @@
 {"id":"8000951:3","osmType":"node","osmId":"150637491","stationName":"Biebesheim","revised":false}
 {"id":"8010047:1","osmType":"node","osmId":"2480406252","stationName":"Biederitz","revised":false}
 {"id":"8010047:2","osmType":"node","osmId":"447588819","stationName":"Biederitz","revised":false}
-{"id":"8010047:3","osmType":"node","osmId":"2480406266","stationName":"Biederitz","revised":false}
+{"id":"8010047:3","osmType":"node","osmId":"2480406259","stationName":"Biederitz","revised":false}
+{"id":"8010047:4","osmType":"node","osmId":"2480406266","stationName":"Biederitz","revised":false}
 {"id":"8010047:5","osmType":"node","osmId":"2480406275","stationName":"Biederitz","revised":false}
 {"id":"8000036:1","osmType":"node","osmId":"647221619","stationName":"Bielefeld Hbf","revised":false}
 {"id":"8000036:2","osmType":"node","osmId":"25715489","stationName":"Bielefeld Hbf","revised":false}
@@ -1150,7 +1152,8 @@
 {"id":"8089008:3","osmType":"node","osmId":"1127966988","stationName":"Bornholmer Straße","revised":false}
 {"id":"8089008:4","osmType":"node","osmId":"1127967030","stationName":"Bornholmer Straße","revised":false}
 {"id":"8010059:1","osmType":"node","osmId":"1966854643","stationName":"Borsdorf (Sachs)","revised":false}
-{"id":"8010059:3","osmType":"node","osmId":"1966854641","stationName":"Borsdorf (Sachs)","revised":false}
+{"id":"8010059:2","osmType":"node","osmId":"1966854641","stationName":"Borsdorf (Sachs)","revised":false}
+{"id":"8010059:3","osmType":"node","osmId":"1966854636","stationName":"Borsdorf (Sachs)","revised":false}
 {"id":"8001063:1","osmType":"node","osmId":"2657886386","stationName":"Börßum","revised":false}
 {"id":"8001063:2","osmType":"node","osmId":"2657886404","stationName":"Börßum","revised":false}
 {"id":"8001065:1","osmType":"node","osmId":"449720535","stationName":"Bösensell","revised":false}
@@ -1568,7 +1571,8 @@
 {"id":"8001384:2","osmType":"node","osmId":"1298659249","stationName":"Dattenfeld (Sieg)","revised":false}
 {"id":"8001387:1","osmType":"node","osmId":"4572104045","stationName":"Dauenhof","revised":false}
 {"id":"8001387:2","osmType":"node","osmId":"4572104046","stationName":"Dauenhof","revised":false}
-{"id":"8001388:2","osmType":"node","osmId":"83274162","stationName":"Daufenbach","revised":false}
+{"id":"8001388:2","osmType":"node","osmId":"1380499634","stationName":"Daufenbach","revised":false}
+{"id":"8001388:3","osmType":"node","osmId":"83274162","stationName":"Daufenbach","revised":false}
 {"id":"8001389:1","osmType":"node","osmId":"4998241137","stationName":"Dausenau","revised":false}
 {"id":"8001389:2","osmType":"node","osmId":"1275899169","stationName":"Dausenau","revised":false}
 {"id":"8001390:2","osmType":"node","osmId":"3398451215","stationName":"Davensberg","revised":false}
@@ -1856,7 +1860,8 @@
 {"id":"8011418:2","osmType":"node","osmId":"28209521","stationName":"Dresden Industriegelände","revised":false}
 {"id":"8013444:1","osmType":"node","osmId":"346793712","stationName":"Dresden Mitte","revised":false}
 {"id":"8013444:2","osmType":"node","osmId":"346796393","stationName":"Dresden Mitte","revised":false}
-{"id":"8013444:3","osmType":"node","osmId":"94177184","stationName":"Dresden Mitte","revised":false}
+{"id":"8013444:3","osmType":"node","osmId":"2712181153","stationName":"Dresden Mitte","revised":false}
+{"id":"8013444:4","osmType":"node","osmId":"94177184","stationName":"Dresden Mitte","revised":false}
 {"id":"8011419:1","osmType":"node","osmId":"1485022802","stationName":"Dresden-Cotta","revised":false}
 {"id":"8011419:2","osmType":"node","osmId":"2774434846","stationName":"Dresden-Cotta","revised":false}
 {"id":"8011420:1","osmType":"node","osmId":"2721210453","stationName":"Dresden-Dobritz","revised":false}
@@ -2011,8 +2016,9 @@
 {"id":"8001629:1","osmType":"node","osmId":"297085204","stationName":"Ebern","revised":false}
 {"id":"8001632:1","osmType":"node","osmId":"1187119714","stationName":"Ebersbach (Fils)","revised":false}
 {"id":"8001632:2","osmType":"node","osmId":"5876009489","stationName":"Ebersbach (Fils)","revised":false}
-{"id":"8010092:2","osmType":"node","osmId":"2811552675","stationName":"Ebersbach (Sachs)","revised":false}
-{"id":"8010092:3","osmType":"node","osmId":"2811552674","stationName":"Ebersbach (Sachs)","revised":false}
+{"id":"8010092:1","osmType":"node","osmId":"2811552674","stationName":"Ebersbach (Sachs)","revised":false}
+{"id":"8010092:2","osmType":"node","osmId":"1634599002","stationName":"Ebersbach (Sachs)","revised":false}
+{"id":"8010092:3","osmType":"node","osmId":"2811552675","stationName":"Ebersbach (Sachs)","revised":false}
 {"id":"8001634:1","osmType":"node","osmId":"621144610","stationName":"Ebersberg (Oberbay)","revised":false}
 {"id":"8001634:2","osmType":"node","osmId":"621144615","stationName":"Ebersberg (Oberbay)","revised":false}
 {"id":"8011446:1","osmType":"node","osmId":"82774164","stationName":"Ebersbrunn","revised":false}
@@ -3006,7 +3012,10 @@
 {"id":"8011657:1","osmType":"node","osmId":"355906769","stationName":"Görsbach","revised":false}
 {"id":"8011657:2","osmType":"node","osmId":"2106475317","stationName":"Görsbach","revised":false}
 {"id":"8002329:1","osmType":"node","osmId":"96592086","stationName":"Gosberg","revised":false}
-{"id":"8000130:4","osmType":"node","osmId":"35331935","stationName":"Goslar","revised":false}
+{"id":"8000130:1","osmType":"node","osmId":"2960176816","stationName":"Goslar","revised":false}
+{"id":"8000130:2","osmType":"node","osmId":"35331935","stationName":"Goslar","revised":false}
+{"id":"8000130:3","osmType":"node","osmId":"2960176815","stationName":"Goslar","revised":false}
+{"id":"8000130:4","osmType":"node","osmId":"2960176813","stationName":"Goslar","revised":false}
 {"id":"8000130:5","osmType":"node","osmId":"2960176817","stationName":"Goslar","revised":false}
 {"id":"8002333:1","osmType":"node","osmId":"342876511","stationName":"Goßmannsdorf","revised":false}
 {"id":"8010134:1","osmType":"node","osmId":"2582770370","stationName":"Gößnitz","revised":false}
@@ -3876,7 +3885,7 @@
 {"id":"8000677:2","osmType":"node","osmId":"3218812595","stationName":"Hückelhoven-Baal","revised":false}
 {"id":"8011924:1","osmType":"node","osmId":"5258680250","stationName":"Huckstorf","revised":false}
 {"id":"8011924:2","osmType":"node","osmId":"5258680249","stationName":"Huckstorf","revised":false}
-{"id":"8000522:1","osmType":"node","osmId":"4993666989","stationName":"Hude","revised":false}
+{"id":"8000522:10","osmType":"node","osmId":"4993666989","stationName":"Hude","revised":false}
 {"id":"8000522:2","osmType":"node","osmId":"4578556173","stationName":"Hude","revised":false}
 {"id":"8000522:3","osmType":"node","osmId":"27394009","stationName":"Hude","revised":false}
 {"id":"8003014:2","osmType":"node","osmId":"250833878","stationName":"Hüfingen Mitte","revised":false}
@@ -5596,7 +5605,8 @@
 {"id":"8087062:1","osmType":"node","osmId":"3664667621","stationName":"Münchweiler (Alsenz)","revised":false}
 {"id":"8087062:2","osmType":"node","osmId":"280670918","stationName":"Münchweiler (Alsenz)","revised":false}
 {"id":"8004171:1","osmType":"node","osmId":"292604694","stationName":"Münster (b Dieburg)","revised":false}
-{"id":"8004183:1","osmType":"node","osmId":"270705807","stationName":"Munster (Örtze)","revised":false}
+{"id":"8004183:1","osmType":"node","osmId":"6769864162","stationName":"Munster (Örtze)","revised":false}
+{"id":"8004183:2","osmType":"node","osmId":"270705807","stationName":"Munster (Örtze)","revised":false}
 {"id":"8000263:2","osmType":"node","osmId":"1874198837","stationName":"Münster (Westf) Hbf","revised":false}
 {"id":"8000263:3","osmType":"node","osmId":"1335909135","stationName":"Münster (Westf) Hbf","revised":false}
 {"id":"8000263:4","osmType":"node","osmId":"29007132","stationName":"Münster (Westf) Hbf","revised":false}
@@ -5645,7 +5655,8 @@
 {"id":"8010240:2","osmType":"node","osmId":"1774558984","stationName":"Naumburg (Saale) Hbf","revised":false}
 {"id":"8010240:3","osmType":"node","osmId":"3690952632","stationName":"Naumburg (Saale) Hbf","revised":false}
 {"id":"8010240:4","osmType":"node","osmId":"1723362241","stationName":"Naumburg (Saale) Hbf","revised":false}
-{"id":"8012416:1","osmType":"node","osmId":"1966854658","stationName":"Naunhof","revised":false}
+{"id":"8012416:1","osmType":"node","osmId":"3613754435","stationName":"Naunhof","revised":false}
+{"id":"8012416:2","osmType":"node","osmId":"1966854658","stationName":"Naunhof","revised":false}
 {"id":"8012418:1","osmType":"node","osmId":"1340028109","stationName":"Nechlin","revised":false}
 {"id":"8004215:1","osmType":"node","osmId":"5127028788","stationName":"Neckarburken","revised":false}
 {"id":"8004215:2","osmType":"node","osmId":"5127028789","stationName":"Neckarburken","revised":false}
@@ -5793,7 +5804,12 @@
 {"id":"8004316:2","osmType":"node","osmId":"27410670","stationName":"Neuss Rheinpark-Center","revised":false}
 {"id":"8004317:1","osmType":"node","osmId":"1415002716","stationName":"Neuss Süd","revised":false}
 {"id":"8004317:2","osmType":"node","osmId":"1415002707","stationName":"Neuss Süd","revised":false}
-{"id":"8004323:2","osmType":"node","osmId":"623895678","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
+{"id":"8004323:1","osmType":"node","osmId":"623895678","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
+{"id":"8004323:2","osmType":"node","osmId":"6450710116","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
+{"id":"8004323:3","osmType":"node","osmId":"33999381","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
+{"id":"8004323:4","osmType":"node","osmId":"623895683","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
+{"id":"8004323:5","osmType":"node","osmId":"623910914","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
+{"id":"8004323:6","osmType":"node","osmId":"6450710117","stationName":"Neustadt (Aisch) Bahnhof","revised":false}
 {"id":"8010248:1","osmType":"node","osmId":"4326685875","stationName":"Neustadt (Dosse)","revised":false}
 {"id":"8010248:2","osmType":"node","osmId":"1385195312","stationName":"Neustadt (Dosse)","revised":false}
 {"id":"8010248:3","osmType":"node","osmId":"4326685876","stationName":"Neustadt (Dosse)","revised":false}
@@ -7052,7 +7068,7 @@
 {"id":"8005317:1","osmType":"node","osmId":"1572250937","stationName":"Schallstadt","revised":false}
 {"id":"8005317:2","osmType":"node","osmId":"875971244","stationName":"Schallstadt","revised":false}
 {"id":"8005320:2","osmType":"node","osmId":"329374421","stationName":"Schandelah","revised":false}
-{"id":"8005320:3","osmType":"node","osmId":"2776068281","stationName":"Schandelah","revised":false}
+{"id":"8005320:1","osmType":"node","osmId":"2776068281","stationName":"Schandelah","revised":false}
 {"id":"8005321:1","osmType":"node","osmId":"250402334","stationName":"Scharbeutz","revised":false}
 {"id":"8005321:2","osmType":"node","osmId":"6069304550","stationName":"Scharbeutz","revised":false}
 {"id":"8005322:1","osmType":"node","osmId":"4563200584","stationName":"Scharmede","revised":false}
@@ -7490,7 +7506,8 @@
 {"id":"8010334:5","osmType":"node","osmId":"5682467381","stationName":"Stendal","revised":false}
 {"id":"8010335:1","osmType":"node","osmId":"1243338518","stationName":"Stendal-Stadtsee","revised":false}
 {"id":"8010335:2","osmType":"node","osmId":"4414925682","stationName":"Stendal-Stadtsee","revised":false}
-{"id":"8005720:1","osmType":"node","osmId":"1199839244","stationName":"Sterbfritz","revised":false}
+{"id":"8005720:1","osmType":"node","osmId":"1199839279","stationName":"Sterbfritz","revised":false}
+{"id":"8005720:3","osmType":"node","osmId":"1199839244","stationName":"Sterbfritz","revised":false}
 {"id":"8005726:1","osmType":"node","osmId":"3222096411","stationName":"Stetten-Beinstein","revised":false}
 {"id":"8005731:1","osmType":"node","osmId":"312059676","stationName":"Stift Keppel-Allenbach","revised":false}
 {"id":"8005735:1","osmType":"node","osmId":"1157376019","stationName":"Stockdorf","revised":false}
@@ -8466,7 +8483,6 @@
 {"id":"8006663:1","osmType":"node","osmId":"1253888710","stationName":"Zimmersrode","revised":false}
 {"id":"8006663:2","osmType":"node","osmId":"3369899145","stationName":"Zimmersrode","revised":false}
 {"id":"8006666:1","osmType":"node","osmId":"34007290","stationName":"Zirndorf Kneippallee","revised":false}
-{"id":"8010393:3a","osmType":"node","osmId":"1705944594","stationName":"Zittau","revised":false}
 {"id":"8013414:1","osmType":"node","osmId":"1259703954","stationName":"Zöberitz","revised":false}
 {"id":"8013413:1","osmType":"node","osmId":"1713871016","stationName":"Zoblitz","revised":false}
 {"id":"8013413:2","osmType":"node","osmId":"2121748906","stationName":"Zoblitz","revised":false}
