@@ -54,7 +54,7 @@ tape('upstream osm', async t => {
 	const osmElements = flatMap(tracks, track => {
 		return ['osmPlatform', 'osmStopPosition']
 			.filter(key => Boolean(track[key]))
-			.map(key => ({ datasetType: key, ...track[key] }))
+			.map(key => ({ datasetType: key, trackName: track.name, ...track[key] }))
 	})
 	for (const elements of chunk(osmElements, 100)) {
 		const osmQuery = `[out:json][timeout:20]; ${elements.map(item => `${item.type}(${item.id}); out;`).join(' ')}`
@@ -63,7 +63,14 @@ tape('upstream osm', async t => {
 			const matching = osmResults.find(item => item.id + '' === element.id + '' && item.type === element.type)
 			t.ok(matching, `matching osm element ${element.type} ${element.id}`)
 			if (element.datasetType === 'osmStopPosition') {
-				t.ok(matching && (matching.tags.public_transport === 'stop_position'), `public_transport=stop_position ${element.type} ${element.id}`)
+				const ref = get(matching, 'tags.ref')
+				const localRef = get(matching, 'tags.local_ref')
+				const groupedRefs = [ref, localRef].filter(Boolean)
+				const refs = flatMap(groupedRefs, r => r.split(';'))
+					.filter(Boolean)
+					.filter(r => !!r.replace(/[^\d]/g, ''))
+				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)
+				t.ok(get(matching, 'tags.public_transport') === 'stop_position', `public_transport=stop_position ${element.type} ${element.id}`)
 			}
 			if (element.datasetType === 'osmPlatform') {
 				// @todo warn if public_transport is not set
