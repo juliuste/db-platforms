@@ -613,7 +613,7 @@
 {"id":"8000873:2","osmType":"node","osmId":"3079877421","stationName":"Benningen (Neckar)","revised":false}
 {"id":"8011138:1","osmType":"node","osmId":"256852612","stationName":"Bennungen","revised":false}
 {"id":"8011138:2","osmType":"node","osmId":"2106455064","stationName":"Bennungen","revised":false}
-{"id":"8011139:1","osmType":"node","osmId":"291928288","stationName":"Benshausen","revised":false}
+{"id":"8011139:1","osmType":"node","osmId":"7006758388","stationName":"Benshausen","revised":false}
 {"id":"8000031:1","osmType":"node","osmId":"2821050139","stationName":"Bensheim","revised":false}
 {"id":"8000031:2","osmType":"node","osmId":"2821050138","stationName":"Bensheim","revised":false}
 {"id":"8000031:3","osmType":"node","osmId":"2821050137","stationName":"Bensheim","revised":false}
@@ -3948,7 +3948,7 @@
 {"id":"8000183:4","osmType":"node","osmId":"4111049192","stationName":"Ingolstadt Hbf","revised":false}
 {"id":"8003079:1","osmType":"node","osmId":"2613329510","stationName":"Inningen","revised":false}
 {"id":"8003079:2","osmType":"node","osmId":"2613329509","stationName":"Inningen","revised":false}
-{"id":"8089106:1","osmType":"node","osmId":"263125699","stationName":"Innsbrucker Platz","revised":false}
+{"id":"8089106:1","osmType":"node","osmId":"6946321451","stationName":"Innsbrucker Platz","revised":false}
 {"id":"8089106:2","osmType":"node","osmId":"27325925","stationName":"Innsbrucker Platz","revised":false}
 {"id":"8003080:2","osmType":"node","osmId":"1452431273","stationName":"Insheim","revised":false}
 {"id":"8003081:2","osmType":"node","osmId":"624237254","stationName":"Iphofen","revised":false}
@@ -7702,7 +7702,7 @@
 {"id":"8005888:1","osmType":"node","osmId":"3730924891","stationName":"Tostedt","revised":false}
 {"id":"8005888:3","osmType":"node","osmId":"3730835874","stationName":"Tostedt","revised":false}
 {"id":"8005888:4","osmType":"node","osmId":"3730835873","stationName":"Tostedt","revised":false}
-{"id":"8005889:1","osmType":"node","osmId":"5058766843","stationName":"Traben-Trarbach DB","revised":false}
+{"id":"8005889:1","osmType":"node","osmId":"6997736967","stationName":"Traben-Trarbach DB","revised":false}
 {"id":"8000116:1","osmType":"node","osmId":"4160219924","stationName":"Traunstein","revised":false}
 {"id":"8000116:3","osmType":"node","osmId":"1177259066","stationName":"Traunstein","revised":false}
 {"id":"8000116:4","osmType":"node","osmId":"4160219928","stationName":"Traunstein","revised":false}

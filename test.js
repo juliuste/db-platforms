@@ -8,6 +8,7 @@ const stations = require('db-stations/full')
 const groupBy = require('lodash/groupBy')
 const flatMap = require('lodash/flatMap')
 const chunk = require('lodash/chunk')
+const get = require('lodash/get')
 
 const tracks = require('.')
 
@@ -66,9 +67,9 @@ tape('upstream osm', async t => {
 			}
 			if (element.datasetType === 'osmPlatform') {
 				// @todo warn if public_transport is not set
-				const isRailwayPlatformEdge = matching && (matching.tags.railway === 'platform_edge')
-				const isRailwayPlatform = matching && (matching.tags.railway === 'platform')
-				const isPublicTransportPlatform = matching && (matching.tags.public_transport === 'platform')
+				const isRailwayPlatformEdge = get(matching, 'tags.railway') === 'platform_edge'
+				const isRailwayPlatform = get(matching, 'tags.railway') === 'platform'
+				const isPublicTransportPlatform = get(matching, 'tags.public_transport') === 'platform'
 				t.ok(isRailwayPlatformEdge || isRailwayPlatform || isPublicTransportPlatform, `<tag>=platform ${element.type} ${element.id}`)
 			}
 		})

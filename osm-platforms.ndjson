@@ -45,9 +45,9 @@
 {"id":"8000436:4","osmType":"way","osmId":"404630044","stationName":"Aha","revised":false}
 {"id":"8000437:1","osmType":"way","osmId":"295640831","stationName":"Ahaus","revised":false}
 {"id":"8000437:2","osmType":"way","osmId":"295640832","stationName":"Ahaus","revised":false}
-{"id":"8000441:1","osmType":"way","osmId":"54969252","stationName":"Ahlen (Westf)","revised":false}
-{"id":"8000441:2","osmType":"way","osmId":"54969252","stationName":"Ahlen (Westf)","revised":false}
-{"id":"8000441:3","osmType":"way","osmId":"54969253","stationName":"Ahlen (Westf)","revised":false}
+{"id":"8000441:1","osmType":"relation","osmId":"10283526","stationName":"Ahlen (Westf)","revised":false}
+{"id":"8000441:2","osmType":"relation","osmId":"10283526","stationName":"Ahlen (Westf)","revised":false}
+{"id":"8000441:3","osmType":"relation","osmId":"10283525","stationName":"Ahlen (Westf)","revised":false}
 {"id":"8000441:6","osmType":"way","osmId":"326585451","stationName":"Ahlen (Westf)","revised":false}
 {"id":"8000442:1","osmType":"way","osmId":"143584648","stationName":"Ahlhorn","revised":false}
 {"id":"8000442:2","osmType":"way","osmId":"143584652","stationName":"Ahlhorn","revised":false}
@@ -4469,7 +4469,7 @@
 {"id":"8003368:5","osmType":"relation","osmId":"6839148","stationName":"Köln Messe/Deutz","revised":false}
 {"id":"8003368:7","osmType":"relation","osmId":"6839169","stationName":"Köln Messe/Deutz","revised":false}
 {"id":"8003368:8","osmType":"relation","osmId":"6839169","stationName":"Köln Messe/Deutz","revised":false}
-{"id":"8003368:11","osmType":"way","osmId":"147844001","stationName":"Köln Messe/Deutz","revised":true}
+{"id":"8003368:11","osmType":"way","osmId":"746000350","stationName":"Köln Messe/Deutz","revised":true}
 {"id":"8003368:12","osmType":"way","osmId":"147844005","stationName":"Köln Messe/Deutz","revised":true}
 {"id":"8003368:9","osmType":"relation","osmId":"6839226","stationName":"Köln Messe/Deutz","revised":true}
 {"id":"8003368:10","osmType":"relation","osmId":"6839226","stationName":"Köln Messe/Deutz","revised":true}
@@ -5160,10 +5160,10 @@
 {"id":"8000238:3","osmType":"relation","osmId":"6686241","stationName":"Lüneburg","revised":false}
 {"id":"8000238:4","osmType":"relation","osmId":"6754286","stationName":"Lüneburg","revised":false}
 {"id":"8000238:5","osmType":"relation","osmId":"6754286","stationName":"Lüneburg","revised":false}
-{"id":"8000239:1","osmType":"way","osmId":"105250612","stationName":"Lünen Hbf","revised":false}
-{"id":"8000239:2","osmType":"way","osmId":"105250612","stationName":"Lünen Hbf","revised":false}
-{"id":"8000239:3","osmType":"way","osmId":"266135384","stationName":"Lünen Hbf","revised":false}
-{"id":"8000239:4","osmType":"way","osmId":"266135384","stationName":"Lünen Hbf","revised":false}
+{"id":"8000239:1","osmType":"relation","osmId":"10348155","stationName":"Lünen Hbf","revised":false}
+{"id":"8000239:2","osmType":"relation","osmId":"10348155","stationName":"Lünen Hbf","revised":false}
+{"id":"8000239:3","osmType":"relation","osmId":"10348202","stationName":"Lünen Hbf","revised":false}
+{"id":"8000239:4","osmType":"relation","osmId":"10348202","stationName":"Lünen Hbf","revised":false}
 {"id":"8003788:1","osmType":"way","osmId":"27119828","stationName":"Lünern","revised":false}
 {"id":"8003788:2","osmType":"way","osmId":"27119733","stationName":"Lünern","revised":false}
 {"id":"8003799:1","osmType":"way","osmId":"251242773","stationName":"Lunestedt","revised":false}
