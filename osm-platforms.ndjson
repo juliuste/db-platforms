@@ -145,7 +145,7 @@
 {"id":"8000004:1","osmType":"way","osmId":"169337420","stationName":"Altenbeken","revised":false}
 {"id":"8000004:21","osmType":"way","osmId":"50316581","stationName":"Altenbeken","revised":false}
 {"id":"8000004:22","osmType":"way","osmId":"169333996","stationName":"Altenbeken","revised":false}
-{"id":"8000004:23","osmType":"way","osmId":"169333996","stationName":"Altenbeken","revised":false}
+{"id":"8000004:23","osmType":"way","osmId":"50316579","stationName":"Altenbeken","revised":false}
 {"id":"8000004:31","osmType":"way","osmId":"169335600","stationName":"Altenbeken","revised":false}
 {"id":"8000518:1","osmType":"way","osmId":"305705007","stationName":"Altenberge","revised":false}
 {"id":"8000518:2","osmType":"way","osmId":"305705006","stationName":"Altenberge","revised":false}
@@ -224,7 +224,7 @@
 {"id":"8000584:1","osmType":"way","osmId":"29384202","stationName":"Anrath","revised":false}
 {"id":"8000584:2","osmType":"way","osmId":"29384197","stationName":"Anrath","revised":false}
 {"id":"8000009:1","osmType":"relation","osmId":"5395092","stationName":"Ansbach","revised":false}
-{"id":"8000009:25","osmType":"relation","osmId":"31720800","stationName":"Ansbach","revised":false}
+{"id":"8000009:25","osmType":"way","osmId":"31720800","stationName":"Ansbach","revised":false}
 {"id":"8000009:27","osmType":"relation","osmId":"5395092","stationName":"Ansbach","revised":false}
 {"id":"8000009:2","osmType":"relation","osmId":"5395093","stationName":"Ansbach","revised":false}
 {"id":"8000009:3","osmType":"relation","osmId":"5395093","stationName":"Ansbach","revised":false}
@@ -1066,7 +1066,7 @@
 {"id":"8000039:202","osmType":"way","osmId":"374960275","stationName":"Bingen (Rhein) Hbf","revised":false}
 {"id":"8000039:203","osmType":"way","osmId":"374961667","stationName":"Bingen (Rhein) Hbf","revised":false}
 {"id":"8000976:1","osmType":"way","osmId":"206327973","stationName":"Bingen (Rhein) Stadt","revised":false}
-{"id":"8000976:1a/44","osmType":"way","osmId":"206327973","stationName":"Bingen (Rhein) Stadt","revised":false}
+{"id":"8000976:1a/44","osmType":"way","osmId":"664525120","stationName":"Bingen (Rhein) Stadt","revised":false}
 {"id":"8000976:2","osmType":"way","osmId":"206327972","stationName":"Bingen (Rhein) Stadt","revised":false}
 {"id":"8000976:3","osmType":"way","osmId":"206327972","stationName":"Bingen (Rhein) Stadt","revised":false}
 {"id":"8000975:1","osmType":"way","osmId":"459093853","stationName":"Bingen-Gaulsheim","revised":false}
