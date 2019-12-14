@@ -63,19 +63,21 @@ tape('upstream osm', async t => {
 		elements.forEach(element => {
 			const matching = osmResults.find(item => item.id + '' === element.id + '' && item.type === element.type)
 			t.ok(matching, `matching osm element ${element.type} ${element.id}`)
+			const ref = get(matching, 'tags.ref')
+			const localRef = get(matching, 'tags.local_ref')
+			const groupedRefs = [ref, localRef].filter(Boolean)
+			const refs = flatMap(groupedRefs, r => r.split(/[,;/+]/))
+				.filter(Boolean)
+				.filter(r => !!r.replace(/[^\d]/g, ''))
+				.map(r => r.replace(/^Gleis/gi, '').trim())
+				.filter(Boolean)
 			if (element.datasetType === 'osmStopPosition') {
-				const ref = get(matching, 'tags.ref')
-				const localRef = get(matching, 'tags.local_ref')
-				const groupedRefs = [ref, localRef].filter(Boolean)
-				const refs = flatMap(groupedRefs, r => r.split(';'))
-					.filter(Boolean)
-					.filter(r => !!r.replace(/[^\d]/g, ''))
-					.map(r => r.replace(/^Gleis/gi, '').trim())
-					.filter(Boolean)
-				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)
+				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible osm stop_position mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)
 				t.ok(get(matching, 'tags.public_transport') === 'stop_position', `public_transport=stop_position ${element.type} ${element.id}`)
 			}
 			if (element.datasetType === 'osmPlatform') {
+				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible osm platform mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)
+
 				// @todo warn if public_transport is not set
 				const isRailwayPlatformEdge = get(matching, 'tags.railway') === 'platform_edge'
 				const isRailwayPlatform = get(matching, 'tags.railway') === 'platform'
