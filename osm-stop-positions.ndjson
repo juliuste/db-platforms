@@ -5120,6 +5120,8 @@
 {"id":"8010186:2","osmType":"node","osmId":"2299420241","stationName":"Leipzig Karlsruher Straße","revised":false}
 {"id":"8012186:1","osmType":"node","osmId":"469722551","stationName":"Leipzig Markt","revised":false}
 {"id":"8012186:2","osmType":"node","osmId":"469722580","stationName":"Leipzig Markt","revised":false}
+{"id":"8012187:1","osmType":"node","osmId":"312526352","stationName":"Leipzig MDR","revised":true}
+{"id":"8012187:2","osmType":"node","osmId":"2299420243","stationName":"Leipzig MDR","revised":true}
 {"id":"8012478:1","osmType":"node","osmId":"2299420244","stationName":"Leipzig Messe","revised":false}
 {"id":"8012478:2","osmType":"node","osmId":"2299420245","stationName":"Leipzig Messe","revised":false}
 {"id":"8012478:3","osmType":"node","osmId":"1832237415","stationName":"Leipzig Messe","revised":false}
@@ -5134,6 +5136,9 @@
 {"id":"8012202:2","osmType":"node","osmId":"2813341642","stationName":"Leipzig Wilhelm-Leuschner-Platz","revised":false}
 {"id":"8010206:1","osmType":"node","osmId":"2407262410","stationName":"Leipzig-Connewitz","revised":false}
 {"id":"8010206:3","osmType":"node","osmId":"2407262402","stationName":"Leipzig-Connewitz","revised":false}
+{"id":"8010206:2","osmType":"node","osmId":"2407262407","stationName":"Leipzig-Connewitz","revised":true}
+{"id":"8011491:1","osmType":"node","osmId":"1966854646","stationName":"Leipzig-Engelsdorf","revised":true}
+{"id":"8011491:2","osmType":"node","osmId":"1966854647","stationName":"Leipzig-Engelsdorf","revised":true}
 {"id":"8012188:1","osmType":"node","osmId":"1833965860","stationName":"Leipzig-Gohlis","revised":false}
 {"id":"8012188:2","osmType":"node","osmId":"1833965883","stationName":"Leipzig-Gohlis","revised":false}
 {"id":"8012188:3","osmType":"node","osmId":"1833107724","stationName":"Leipzig-Gohlis","revised":false}
@@ -5163,6 +5168,7 @@
 {"id":"8012817:1","osmType":"node","osmId":"1778437222","stationName":"Leipzig-Rückmarsdorf","revised":false}
 {"id":"8012817:2","osmType":"node","osmId":"1778437221","stationName":"Leipzig-Rückmarsdorf","revised":false}
 {"id":"8080930:1","osmType":"node","osmId":"1738630599","stationName":"Leipzig-Sellerhausen","revised":false}
+{"id":"8080930:2","osmType":"node","osmId":"1738630594","stationName":"Leipzig-Sellerhausen","revised":true}
 {"id":"8012204:1","osmType":"node","osmId":"2585175884","stationName":"Leipzig-Slevogtstraße","revised":false}
 {"id":"8012204:2","osmType":"node","osmId":"2585175890","stationName":"Leipzig-Slevogtstraße","revised":false}
 {"id":"8012343:1","osmType":"node","osmId":"2213786964","stationName":"Leipzig-Völkerschlachtdenkmal","revised":false}

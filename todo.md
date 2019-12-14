@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**8779 of 11893** tracks covered **(73.8%)**.
+**8793 of 11893** tracks covered **(73.9%)**.
 
-**3459 of 5360** stations fully covered **(64.5%)**.
+**3467 of 5360** stations fully covered **(64.7%)**.
 
 ## By Category
 
@@ -86,7 +86,6 @@ List of stations that have not been (fully) covered yet.
 - Kempten (Allgäu) Hbf - 8000197
 - Konstanz - 8003400
 - Köthen - 8010195
-- Leipzig Messe - 8012478
 - Leonberg - 8003652
 - Lichtenfels - 8000228
 - Marburg (Lahn) - 8000337
@@ -204,7 +203,6 @@ List of stations that have not been (fully) covered yet.
 - Langenselbold - 8003550
 - Langwedel - 8000586
 - Lauffen (Neckar) - 8003588
-- Leipzig-Gohlis - 8012188
 - Leipzig-Stötteritz - 8012194
 - Leverkusen Mitte - 8006713
 - Lorsbach - 8003754
@@ -439,11 +437,7 @@ List of stations that have not been (fully) covered yet.
 - Langenhagen - Kaltenweide - 8003165
 - Lauf (links Pegnitz) - 8003580
 - Lauf (rechts Pegnitz) - 8003581
-- Leipzig Coppiplatz - 8080840
 - Leipzig Essener Straße - 8012200
-- Leipzig-Connewitz - 8010206
-- Leipzig-Engelsdorf - 8011491
-- Leipzig-Wahren - 8012197
 - Leutkirch - 8000336
 - Lollar - 8000234
 - Lorch (Württ) - 8003752
@@ -992,11 +986,9 @@ List of stations that have not been (fully) covered yet.
 - Lauterecken-Grumbach - 8000547
 - Leese-Stolzenau - 8000335
 - Legelshurst - 8003609
-- Leipzig MDR - 8012187
 - Leipzig Werkstättenstraße - 8011495
 - Leipzig-Knauthain - 8012192
 - Leipzig-Liebertwolkwitz - 8012228
-- Leipzig-Sellerhausen - 8080930
 - Leipzig-Thekla - 8012195
 - Leisnig - 8012198
 - Lengenfeld (Vogtl) - 8012203
@@ -3421,20 +3413,12 @@ List of stations that have not been (fully) covered yet.
 - Langenwolmsdorf - 8012163
 - Langenwolmsdorf Mitte - 8012164
 - Lauenstein (Sachs) - 8012170
-- Leipzig Coppiplatz - 8080840
 - Leipzig Essener Straße - 8012200
-- Leipzig MDR - 8012187
-- Leipzig Messe - 8012478
 - Leipzig Werkstättenstraße - 8011495
-- Leipzig-Connewitz - 8010206
-- Leipzig-Engelsdorf - 8011491
-- Leipzig-Gohlis - 8012188
 - Leipzig-Knauthain - 8012192
 - Leipzig-Liebertwolkwitz - 8012228
-- Leipzig-Sellerhausen - 8080930
 - Leipzig-Stötteritz - 8012194
 - Leipzig-Thekla - 8012195
-- Leipzig-Wahren - 8012197
 - Leisnig - 8012198
 - Lengenfeld (Vogtl) - 8012203
 - Lichtenberg (Erzgeb) - 8012220

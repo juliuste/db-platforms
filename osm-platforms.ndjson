@@ -5109,6 +5109,8 @@
 {"id":"8010008:2","osmType":"way","osmId":"236472337","stationName":"Leipzig Anger-Crottendorf","revised":false}
 {"id":"8012184:1","osmType":"way","osmId":"252920381","stationName":"Leipzig Bayerischer Bahnhof","revised":false}
 {"id":"8012184:2","osmType":"way","osmId":"252920381","stationName":"Leipzig Bayerischer Bahnhof","revised":false}
+{"id":"8080840:1","osmType":"relation","osmId":"7483555","stationName":"Leipzig Coppiplatz","revised":true}
+{"id":"8080840:2","osmType":"relation","osmId":"7483554","stationName":"Leipzig Coppiplatz","revised":true}
 {"id":"8011771:1","osmType":"way","osmId":"430326822","stationName":"Leipzig Grünauer Allee","revised":false}
 {"id":"8011771:2","osmType":"way","osmId":"430326741","stationName":"Leipzig Grünauer Allee","revised":false}
 {"id":"8010205:10","osmType":"relation","osmId":"5299020","stationName":"Leipzig Hbf","revised":false}
@@ -5137,8 +5139,12 @@
 {"id":"8010186:2","osmType":"way","osmId":"172509065","stationName":"Leipzig Karlsruher Straße","revised":false}
 {"id":"8012186:1","osmType":"way","osmId":"252920380","stationName":"Leipzig Markt","revised":false}
 {"id":"8012186:2","osmType":"way","osmId":"252920380","stationName":"Leipzig Markt","revised":false}
+{"id":"8012187:1","osmType":"relation","osmId":"6364887","stationName":"Leipzig MDR","revised":true}
+{"id":"8012187:2","osmType":"relation","osmId":"6364888","stationName":"Leipzig MDR","revised":true}
 {"id":"8012478:1","osmType":"way","osmId":"172476029","stationName":"Leipzig Messe","revised":false}
 {"id":"8012478:2","osmType":"way","osmId":"172476029","stationName":"Leipzig Messe","revised":false}
+{"id":"8012478:3","osmType":"way","osmId":"172476028","stationName":"Leipzig Messe","revised":true}
+{"id":"8012478:4","osmType":"way","osmId":"368023013","stationName":"Leipzig Messe","revised":true}
 {"id":"8012355:1","osmType":"way","osmId":"200411583","stationName":"Leipzig Miltitz","revised":false}
 {"id":"8012355:2","osmType":"way","osmId":"200412181","stationName":"Leipzig Miltitz","revised":false}
 {"id":"8012344:1","osmType":"way","osmId":"172509025","stationName":"Leipzig Miltitzer Allee","revised":false}
@@ -5150,7 +5156,11 @@
 {"id":"8010206:1","osmType":"way","osmId":"232374411","stationName":"Leipzig-Connewitz","revised":false}
 {"id":"8010206:2","osmType":"way","osmId":"184332928","stationName":"Leipzig-Connewitz","revised":false}
 {"id":"8010206:3","osmType":"way","osmId":"184332928","stationName":"Leipzig-Connewitz","revised":false}
+{"id":"8011491:1","osmType":"way","osmId":"172383651","stationName":"Leipzig-Engelsdorf","revised":true}
+{"id":"8011491:2","osmType":"way","osmId":"33551607","stationName":"Leipzig-Engelsdorf","revised":true}
 {"id":"8012188:3","osmType":"relation","osmId":"6249187","stationName":"Leipzig-Gohlis","revised":false}
+{"id":"8012188:1","osmType":"relation","osmId":"6249188","stationName":"Leipzig-Gohlis","revised":true}
+{"id":"8012188:2","osmType":"relation","osmId":"6249188","stationName":"Leipzig-Gohlis","revised":true}
 {"id":"8012190:2","osmType":"way","osmId":"172485844","stationName":"Leipzig-Heiterblick","revised":false}
 {"id":"8012190:1","osmType":"way","osmId":"219517091","stationName":"Leipzig-Heiterblick","revised":false}
 {"id":"8011913:1","osmType":"way","osmId":"181255721","stationName":"Leipzig-Holzhausen","revised":false}
@@ -5179,6 +5189,7 @@
 {"id":"8012817:1","osmType":"way","osmId":"200409836","stationName":"Leipzig-Rückmarsdorf","revised":false}
 {"id":"8012817:2","osmType":"way","osmId":"200409838","stationName":"Leipzig-Rückmarsdorf","revised":false}
 {"id":"8080930:1","osmType":"way","osmId":"172392428","stationName":"Leipzig-Sellerhausen","revised":false}
+{"id":"8080930:2","osmType":"way","osmId":"172392429","stationName":"Leipzig-Sellerhausen","revised":true}
 {"id":"8012204:1","osmType":"way","osmId":"172404570","stationName":"Leipzig-Slevogtstraße","revised":false}
 {"id":"8012204:2","osmType":"way","osmId":"172404571","stationName":"Leipzig-Slevogtstraße","revised":false}
 {"id":"8012194:1","osmType":"way","osmId":"152362681","stationName":"Leipzig-Stötteritz","revised":false}
@@ -5186,6 +5197,8 @@
 {"id":"8012194:2","osmType":"way","osmId":"152362681","stationName":"Leipzig-Stötteritz","revised":false}
 {"id":"8012343:1","osmType":"way","osmId":"152363531","stationName":"Leipzig-Völkerschlachtdenkmal","revised":false}
 {"id":"8012343:2","osmType":"way","osmId":"152363531","stationName":"Leipzig-Völkerschlachtdenkmal","revised":false}
+{"id":"8012197:1","osmType":"way","osmId":"589182212","stationName":"Leipzig-Wahren","revised":true}
+{"id":"8012197:2","osmType":"way","osmId":"172393697","stationName":"Leipzig-Wahren","revised":true}
 {"id":"8012199:1","osmType":"way","osmId":"276445434","stationName":"Leißling","revised":false}
 {"id":"8012199:2","osmType":"way","osmId":"276445431","stationName":"Leißling","revised":false}
 {"id":"8003628:1","osmType":"way","osmId":"386024641","stationName":"Leitstade","revised":false}
