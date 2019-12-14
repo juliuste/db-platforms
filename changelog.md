@@ -1,5 +1,9 @@
 # Changelog
 
+## `0.1.4`
+
+- Add stations in Leipzig
+
 ## `0.1.3`
 
 - Add additional data for missing stations in Berlin and Bremen as well as some category 2 stations
