@@ -1,5 +1,9 @@
 # Changelog
 
+## `0.1.3`
+
+- Add additional data for missing stations in Berlin and Bremen as well as some category 2 stations
+
 ## `0.1.2`
 
 - Fix broken OpenStreetMap entries, remove outdated entries, bulk import new entries by OSM ref/local_ref
