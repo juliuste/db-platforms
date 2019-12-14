@@ -1,5 +1,9 @@
 # Changelog
 
+## `0.1.2`
+
+- Fix broken OpenStreetMap entries, remove outdated entries, bulk import new entries by OSM ref/local_ref
+
 ## `0.1.1`
 
 - Fix broken OpenStreetMap entries
