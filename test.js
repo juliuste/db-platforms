@@ -9,6 +9,7 @@ const groupBy = require('lodash/groupBy')
 const flatMap = require('lodash/flatMap')
 const chunk = require('lodash/chunk')
 const get = require('lodash/get')
+const uniq = require('lodash/uniq')
 
 const tracks = require('.')
 
@@ -66,11 +67,13 @@ tape('upstream osm', async t => {
 			const ref = get(matching, 'tags.ref')
 			const localRef = get(matching, 'tags.local_ref')
 			const groupedRefs = [ref, localRef].filter(Boolean)
-			const refs = flatMap(groupedRefs, r => r.split(/[,;/+]/))
-				.filter(Boolean)
-				.filter(r => !!r.replace(/[^\d]/g, ''))
-				.map(r => r.replace(/^Gleis/gi, '').trim())
-				.filter(Boolean)
+			const refs = uniq(
+				flatMap(groupedRefs, r => r.split(/[,;/+]/))
+					.filter(Boolean)
+					.filter(r => !!r.replace(/[^\d]/g, ''))
+					.map(r => r.replace(/^Gleis/gi, '').trim())
+					.filter(Boolean)
+			)
 			if (element.datasetType === 'osmStopPosition') {
 				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible osm stop_position mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)
 				t.ok(get(matching, 'tags.public_transport') === 'stop_position', `public_transport=stop_position ${element.type} ${element.id}`)
