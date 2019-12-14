@@ -1318,6 +1318,8 @@
 {"id":"8000050:6","osmType":"node","osmId":"775576518","stationName":"Bremen Hbf","revised":false}
 {"id":"8000050:7","osmType":"node","osmId":"775576503","stationName":"Bremen Hbf","revised":false}
 {"id":"8000050:8","osmType":"node","osmId":"775544343","stationName":"Bremen Hbf","revised":false}
+{"id":"8000050:9","osmType":"node","osmId":"4162307838","stationName":"Bremen Hbf","revised":true}
+{"id":"8000050:10","osmType":"node","osmId":"4162307832","stationName":"Bremen Hbf","revised":true}
 {"id":"8001155:3","osmType":"node","osmId":"5248722804","stationName":"Bremen Neustadt","revised":false}
 {"id":"8001155:4","osmType":"node","osmId":"4540365378","stationName":"Bremen Neustadt","revised":false}
 {"id":"8001156:2","osmType":"node","osmId":"2563849458","stationName":"Bremen-Burg","revised":false}

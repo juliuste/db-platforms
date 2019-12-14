@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**8766 of 11893** tracks covered **(73.7%)**.
+**8772 of 11893** tracks covered **(73.8%)**.
 
-**3453 of 5360** stations fully covered **(64.4%)**.
+**3456 of 5360** stations fully covered **(64.5%)**.
 
 ## By Category
 
@@ -28,7 +28,6 @@ List of stations that have not been (fully) covered yet.
 
 - Aschaffenburg Hbf - 8000010
 - Augsburg Hbf - 8000013
-- Bremen Hbf - 8000050
 - Bruchsal - 8000055
 - Düsseldorf Flughafen - 8000082
 - Fulda - 8000115
@@ -58,8 +57,6 @@ List of stations that have not been (fully) covered yet.
 - Bayreuth Hbf - 8000028
 - Bebra - 8000029
 - Bergen auf Rügen - 8010033
-- Berlin-Karlshorst - 8010035
-- Berlin-Westkreuz - 8089047
 - Brandenburg Hbf - 8010060
 - Buchloe - 8000057
 - Bullay DB - 8001267
@@ -1956,12 +1953,10 @@ List of stations that have not been (fully) covered yet.
 
 ## By Bundesland
 
-**0 of 16** Bundesländer fully covered **(0%)**.
+**2 of 16** Bundesländer fully covered **(12.5%)**.
 - [Baden-Württemberg](#baden-württemberg)
 - [Bayern (Bodensee)](#bayern-bodensee)
-- [Berlin](#berlin)
 - [Brandenburg](#brandenburg)
-- [Bremen](#bremen)
 - [Hessen](#hessen)
 - [Mecklenburg-Vorpommern](#mecklenburg-vorpommern)
 - [Niedersachsen](#niedersachsen)
@@ -2715,12 +2710,6 @@ List of stations that have not been (fully) covered yet.
 - Übersee - 8005940
 
 
-### Berlin
-
-- Berlin-Karlshorst - 8010035
-- Berlin-Westkreuz - 8089047
-
-
 ### Brandenburg
 
 - Bagenz - 8011097
@@ -2797,11 +2786,6 @@ List of stations that have not been (fully) covered yet.
 - Zepernick (b Bernau) - 8081560
 - Zeuthen - 8081580
 - Ziltendorf - 8013406
-
-
-### Bremen
-
-- Bremen Hbf - 8000050
 
 
 ### Hessen

@@ -868,6 +868,8 @@
 {"id":"8011901:4","osmType":"way","osmId":"42975807","stationName":"Berlin-Hohenschönhausen","revised":false}
 {"id":"8011901:1","osmType":"way","osmId":"42975811","stationName":"Berlin-Hohenschönhausen","revised":true}
 {"id":"8011901:2","osmType":"way","osmId":"42975811","stationName":"Berlin-Hohenschönhausen","revised":true}
+{"id":"8010035:11","osmType":"relation","osmId":"6414593","stationName":"Berlin-Karlshorst","revised":true}
+{"id":"8010035:12","osmType":"relation","osmId":"6414593","stationName":"Berlin-Karlshorst","revised":true}
 {"id":"8011046:3","osmType":"way","osmId":"99553055","stationName":"Berlin-Karow","revised":true}
 {"id":"8011046:4","osmType":"way","osmId":"99553055","stationName":"Berlin-Karow","revised":true}
 {"id":"8089068:1","osmType":"way","osmId":"47973185","stationName":"Berlin-Kaulsdorf","revised":false}
@@ -941,6 +943,8 @@
 {"id":"8010405:6","osmType":"relation","osmId":"3680550","stationName":"Berlin-Wannsee","revised":false}
 {"id":"8010405:3","osmType":"relation","osmId":"3680549","stationName":"Berlin-Wannsee","revised":false}
 {"id":"8010405:4","osmType":"relation","osmId":"3680549","stationName":"Berlin-Wannsee","revised":false}
+{"id":"8089047:11","osmType":"relation","osmId":"5550689","stationName":"Berlin-Westkreuz","revised":true}
+{"id":"8089047:12","osmType":"relation","osmId":"5550689","stationName":"Berlin-Westkreuz","revised":true}
 {"id":"8089095:1","osmType":"way","osmId":"102532555","stationName":"Berlin-Wilhelmsruh","revised":false}
 {"id":"8089095:2","osmType":"way","osmId":"102532555","stationName":"Berlin-Wilhelmsruh","revised":false}
 {"id":"8089098:1","osmType":"way","osmId":"105571390","stationName":"Berlin-Zehlendorf","revised":false}
