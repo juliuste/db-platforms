@@ -5451,6 +5451,8 @@
 {"id":"8000238:3","osmType":"relation","osmId":"6686241","stationName":"Lüneburg","revised":false}
 {"id":"8000238:4","osmType":"relation","osmId":"6754286","stationName":"Lüneburg","revised":false}
 {"id":"8000238:5","osmType":"relation","osmId":"6754286","stationName":"Lüneburg","revised":false}
+{"id":"8000238:2West","osmType":"way","osmId":"353625278","stationName":"Lüneburg","revised":true}
+{"id":"8000238:1West","osmType":"way","osmId":"353625279","stationName":"Lüneburg","revised":true}
 {"id":"8000239:1","osmType":"relation","osmId":"10348155","stationName":"Lünen Hbf","revised":false}
 {"id":"8000239:2","osmType":"relation","osmId":"10348155","stationName":"Lünen Hbf","revised":false}
 {"id":"8000239:3","osmType":"relation","osmId":"10348202","stationName":"Lünen Hbf","revised":false}
@@ -8450,6 +8452,9 @@
 {"id":"8000170:25","osmType":"way","osmId":"124350773","stationName":"Ulm Hbf","revised":false}
 {"id":"8000170:5a","osmType":"way","osmId":"186663368","stationName":"Ulm Hbf","revised":false}
 {"id":"8000170:5b","osmType":"way","osmId":"124345154","stationName":"Ulm Hbf","revised":false}
+{"id":"8000170:4","osmType":"way","osmId":"186663405","stationName":"Ulm Hbf","revised":true}
+{"id":"8000170:6","osmType":"way","osmId":"186663405","stationName":"Ulm Hbf","revised":true}
+{"id":"8000170:1","osmType":"way","osmId":"186663373","stationName":"Ulm Hbf","revised":true}
 {"id":"8005955:1","osmType":"way","osmId":"161276196","stationName":"Ulm-Söflingen","revised":false}
 {"id":"8005955:2","osmType":"way","osmId":"252361150","stationName":"Ulm-Söflingen","revised":false}
 {"id":"8005962:1","osmType":"way","osmId":"455446857","stationName":"Umrathshausen Ort","revised":false}

@@ -5,9 +5,9 @@ List of stations that have not been (fully) covered yet.
 - [By Category](#by-category)
 - [By Bundesland](#by-bundesland)
 
-**8772 of 11893** tracks covered **(73.8%)**.
+**8779 of 11893** tracks covered **(73.8%)**.
 
-**3456 of 5360** stations fully covered **(64.5%)**.
+**3459 of 5360** stations fully covered **(64.5%)**.
 
 ## By Category
 
@@ -36,16 +36,13 @@ List of stations that have not been (fully) covered yet.
 - Ingolstadt Hbf - 8000183
 - Kassel Hbf - 8000193
 - Kassel-Wilhelmshöhe - 8003200
-- Lüneburg - 8000238
 - Magdeburg Hbf - 8010224
-- Pforzheim Hbf - 8000299
 - Plochingen - 8000302
 - Regensburg Hbf - 8000309
 - Singen (Hohentwiel) - 8000073
 - Trier Hbf - 8000134
 - Tübingen Hbf - 8000141
 - Uelzen - 8000168
-- Ulm Hbf - 8000170
 - Würzburg Hbf - 8000260
 
 
@@ -2207,7 +2204,6 @@ List of stations that have not been (fully) covered yet.
 - Orschweier - 8004683
 - Osterburken - 8000295
 - Pflaumloch - 8004796
-- Pforzheim Hbf - 8000299
 - Pforzheim-Weißenstein - 8004801
 - Plochingen - 8000302
 - Radolfzell - 8000880
@@ -2276,7 +2272,6 @@ List of stations that have not been (fully) covered yet.
 - Tübingen-Derendingen - 8005917
 - Uhingen - 8005949
 - Uhldingen-Mühlhofen - 8004595
-- Ulm Hbf - 8000170
 - Ulm Ost - 8005952
 - Ulm-Donautal - 8005954
 - Unadingen - 8005963
@@ -3068,7 +3063,6 @@ List of stations that have not been (fully) covered yet.
 - Leese-Stolzenau - 8000335
 - Lindwedel - 8003700
 - Lutten - 8003800
-- Lüneburg - 8000238
 - Marienhafe - 8003866
 - Meppen - 8003978
 - Munster (Örtze) - 8004183

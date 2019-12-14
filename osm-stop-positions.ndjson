@@ -5432,6 +5432,8 @@
 {"id":"8000238:3","osmType":"node","osmId":"347321892","stationName":"Lüneburg","revised":false}
 {"id":"8000238:5","osmType":"node","osmId":"305721264","stationName":"Lüneburg","revised":false}
 {"id":"8000238:4","osmType":"node","osmId":"347321889","stationName":"Lüneburg","revised":false}
+{"id":"8000238:2West","osmType":"node","osmId":"3594368123","stationName":"Lüneburg","revised":true}
+{"id":"8000238:1West","osmType":"node","osmId":"3594368125","stationName":"Lüneburg","revised":true}
 {"id":"8000239:1","osmType":"node","osmId":"25420381","stationName":"Lünen Hbf","revised":false}
 {"id":"8000239:2","osmType":"node","osmId":"1013685729","stationName":"Lünen Hbf","revised":false}
 {"id":"8000239:4","osmType":"node","osmId":"497023513","stationName":"Lünen Hbf","revised":false}
@@ -6899,6 +6901,8 @@
 {"id":"8000299:2","osmType":"node","osmId":"3244617669","stationName":"Pforzheim Hbf","revised":true}
 {"id":"8000299:103","osmType":"node","osmId":"3244617667","stationName":"Pforzheim Hbf","revised":true}
 {"id":"8000299:104","osmType":"node","osmId":"3244617668","stationName":"Pforzheim Hbf","revised":true}
+{"id":"8000299:3","osmType":"node","osmId":"2896390549","stationName":"Pforzheim Hbf","revised":true}
+{"id":"8000299:5","osmType":"node","osmId":"3244617671","stationName":"Pforzheim Hbf","revised":true}
 {"id":"8004803:1","osmType":"node","osmId":"6695776020","stationName":"Pfreimd","revised":false}
 {"id":"8004803:2","osmType":"node","osmId":"14012297","stationName":"Pfreimd","revised":false}
 {"id":"8004807:2","osmType":"node","osmId":"2993549483","stationName":"Pfronten-Steinach","revised":false}
