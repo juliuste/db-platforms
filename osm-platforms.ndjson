@@ -223,7 +223,7 @@
 {"id":"8000584:1","osmType":"way","osmId":"29384202","stationName":"Anrath","revised":false}
 {"id":"8000584:2","osmType":"way","osmId":"29384197","stationName":"Anrath","revised":false}
 {"id":"8000009:1","osmType":"relation","osmId":"5395092","stationName":"Ansbach","revised":false}
-{"id":"8000009:25","osmType":"relation","osmId":"5395092","stationName":"Ansbach","revised":false}
+{"id":"8000009:25","osmType":"relation","osmId":"31720800","stationName":"Ansbach","revised":false}
 {"id":"8000009:27","osmType":"relation","osmId":"5395092","stationName":"Ansbach","revised":false}
 {"id":"8000009:2","osmType":"relation","osmId":"5395093","stationName":"Ansbach","revised":false}
 {"id":"8000009:3","osmType":"relation","osmId":"5395093","stationName":"Ansbach","revised":false}
@@ -313,7 +313,7 @@
 {"id":"8000658:3","osmType":"relation","osmId":"3415576","stationName":"Augsburg Haunstetterstraße","revised":false}
 {"id":"8000658:4","osmType":"relation","osmId":"3415576","stationName":"Augsburg Haunstetterstraße","revised":false}
 {"id":"8000013:6","osmType":"way","osmId":"45397651","stationName":"Augsburg Hbf","revised":false}
-{"id":"8000013:7","osmType":"way","osmId":"45397651","stationName":"Augsburg Hbf","revised":false}
+{"id":"8000013:7","osmType":"way","osmId":"639748335","stationName":"Augsburg Hbf","revised":false}
 {"id":"8000013:101","osmType":"way","osmId":"183503909","stationName":"Augsburg Hbf","revised":false}
 {"id":"8000013:2","osmType":"way","osmId":"639753050","stationName":"Augsburg Hbf","revised":false}
 {"id":"8000013:3","osmType":"way","osmId":"45397649","stationName":"Augsburg Hbf","revised":false}
@@ -615,9 +615,10 @@
 {"id":"8000834:1","osmType":"way","osmId":"138342406","stationName":"Bayrischzell","revised":false}
 {"id":"8000834:2","osmType":"way","osmId":"30902494","stationName":"Bayrischzell","revised":false}
 {"id":"8000834:3","osmType":"way","osmId":"30902494","stationName":"Bayrischzell","revised":false}
-{"id":"8000029:3","osmType":"way","osmId":"39529144","stationName":"Bebra","revised":false}
-{"id":"8000029:5","osmType":"way","osmId":"39529144","stationName":"Bebra","revised":false}
-{"id":"8000029:8","osmType":"way","osmId":"39529155","stationName":"Bebra","revised":false}
+{"id":"8000029:3","osmType":"relation","osmId":"4576197","stationName":"Bebra","revised":false}
+{"id":"8000029:5","osmType":"relation","osmId":"4576197","stationName":"Bebra","revised":false}
+{"id":"8000029:7","osmType":"relation","osmId":"4576197","stationName":"Bebra","revised":false}
+{"id":"8000029:8","osmType":"relation","osmId":"4576197","stationName":"Bebra","revised":false}
 {"id":"8000840:1","osmType":"way","osmId":"108980117","stationName":"Beckingen (Saar)","revised":false}
 {"id":"8000840:2","osmType":"way","osmId":"108980115","stationName":"Beckingen (Saar)","revised":false}
 {"id":"8000030:1","osmType":"way","osmId":"525662824","stationName":"Bedburg (Erft)","revised":false}
@@ -981,10 +982,10 @@
 {"id":"8010047:3","osmType":"relation","osmId":"5764080","stationName":"Biederitz","revised":false}
 {"id":"8010047:4","osmType":"relation","osmId":"5764080","stationName":"Biederitz","revised":false}
 {"id":"8010047:5","osmType":"relation","osmId":"5764080","stationName":"Biederitz","revised":false}
-{"id":"8000036:3","osmType":"way","osmId":"181843100","stationName":"Bielefeld Hbf","revised":false}
+{"id":"8000036:3","osmType":"way","osmId":"30613209","stationName":"Bielefeld Hbf","revised":false}
 {"id":"8000036:4","osmType":"way","osmId":"181843100","stationName":"Bielefeld Hbf","revised":false}
 {"id":"8000036:5","osmType":"way","osmId":"30613208","stationName":"Bielefeld Hbf","revised":false}
-{"id":"8000036:6","osmType":"way","osmId":"30613208","stationName":"Bielefeld Hbf","revised":false}
+{"id":"8000036:6","osmType":"way","osmId":"181843099","stationName":"Bielefeld Hbf","revised":false}
 {"id":"8000036:1","osmType":"way","osmId":"30613210","stationName":"Bielefeld Hbf","revised":false}
 {"id":"8000036:2","osmType":"way","osmId":"181843103","stationName":"Bielefeld Hbf","revised":false}
 {"id":"8000036:8","osmType":"way","osmId":"48245063","stationName":"Bielefeld Hbf","revised":false}
@@ -1213,8 +1214,8 @@
 {"id":"8001113:1","osmType":"way","osmId":"80183336","stationName":"Brachelen","revised":false}
 {"id":"8001113:2","osmType":"way","osmId":"80183261","stationName":"Brachelen","revised":false}
 {"id":"8000048:3","osmType":"way","osmId":"59022692","stationName":"Brackwede","revised":false}
-{"id":"8000048:4","osmType":"way","osmId":"59022692","stationName":"Brackwede","revised":false}
-{"id":"8000048:5","osmType":"way","osmId":"59022691","stationName":"Brackwede","revised":false}
+{"id":"8000048:4","osmType":"way","osmId":"58923360","stationName":"Brackwede","revised":false}
+{"id":"8000048:5","osmType":"way","osmId":"58923356","stationName":"Brackwede","revised":false}
 {"id":"8000048:6","osmType":"way","osmId":"59022691","stationName":"Brackwede","revised":false}
 {"id":"8000048:1","osmType":"way","osmId":"59022693","stationName":"Brackwede","revised":false}
 {"id":"8000048:2","osmType":"way","osmId":"58923346","stationName":"Brackwede","revised":false}
@@ -1240,10 +1241,10 @@
 {"id":"8010060:4","osmType":"way","osmId":"72562441","stationName":"Brandenburg Hbf","revised":false}
 {"id":"8010060:5","osmType":"way","osmId":"72562441","stationName":"Brandenburg Hbf","revised":false}
 {"id":"8011252:1","osmType":"way","osmId":"59393139","stationName":"Brandenburg-Altstadt","revised":false}
-{"id":"8000049:1","osmType":"way","osmId":"387214299","stationName":"Braunschweig Hbf","revised":false}
+{"id":"8000049:1","osmType":"way","osmId":"387214297","stationName":"Braunschweig Hbf","revised":false}
 {"id":"8000049:2","osmType":"way","osmId":"387214299","stationName":"Braunschweig Hbf","revised":false}
-{"id":"8000049:3","osmType":"way","osmId":"387214300","stationName":"Braunschweig Hbf","revised":false}
-{"id":"8000049:4","osmType":"way","osmId":"387214300","stationName":"Braunschweig Hbf","revised":false}
+{"id":"8000049:3","osmType":"relation","osmId":"3181518","stationName":"Braunschweig Hbf","revised":false}
+{"id":"8000049:4","osmType":"relation","osmId":"3181518","stationName":"Braunschweig Hbf","revised":false}
 {"id":"8000049:5","osmType":"relation","osmId":"3181519","stationName":"Braunschweig Hbf","revised":false}
 {"id":"8000049:6","osmType":"relation","osmId":"3181519","stationName":"Braunschweig Hbf","revised":false}
 {"id":"8000049:7","osmType":"relation","osmId":"3181520","stationName":"Braunschweig Hbf","revised":false}
@@ -2120,7 +2121,7 @@
 {"id":"8001700:2","osmType":"way","osmId":"290408464","stationName":"Eichen (Kr Siegen)","revised":false}
 {"id":"8001702:1","osmType":"relation","osmId":"3253676","stationName":"Eichenau (Oberbay)","revised":false}
 {"id":"8001702:2","osmType":"relation","osmId":"3253675","stationName":"Eichenau (Oberbay)","revised":false}
-{"id":"8000090:10","osmType":"way","osmId":"503324120","stationName":"Eichenberg","revised":false}
+{"id":"8000090:10","osmType":"way","osmId":"192156763","stationName":"Eichenberg","revised":false}
 {"id":"8000090:11","osmType":"way","osmId":"503324120","stationName":"Eichenberg","revised":false}
 {"id":"8001706:1","osmType":"way","osmId":"460754657","stationName":"Eichhagen","revised":false}
 {"id":"8001707:1","osmType":"way","osmId":"28661325","stationName":"Eicholzheim","revised":false}
@@ -2209,9 +2210,9 @@
 {"id":"8001762:2","osmType":"way","osmId":"442585157","stationName":"Eltersdorf","revised":false}
 {"id":"8001762:3","osmType":"way","osmId":"49455793","stationName":"Eltersdorf","revised":false}
 {"id":"8001763:1","osmType":"way","osmId":"223766380","stationName":"Eltville","revised":false}
-{"id":"8000093:1","osmType":"way","osmId":"41677687","stationName":"Elze (Han)","revised":false}
-{"id":"8000093:4","osmType":"way","osmId":"41677687","stationName":"Elze (Han)","revised":false}
-{"id":"8000093:6","osmType":"way","osmId":"41677687","stationName":"Elze (Han)","revised":false}
+{"id":"8000093:1","osmType":"way","osmId":"41677686","stationName":"Elze (Han)","revised":false}
+{"id":"8000093:4","osmType":"way","osmId":"116187626","stationName":"Elze (Han)","revised":false}
+{"id":"8000093:6","osmType":"way","osmId":"116187626","stationName":"Elze (Han)","revised":false}
 {"id":"8000093:2","osmType":"way","osmId":"41677687","stationName":"Elze (Han)","revised":false}
 {"id":"8000093:3","osmType":"way","osmId":"41677687","stationName":"Elze (Han)","revised":false}
 {"id":"8001768:2","osmType":"way","osmId":"53767531","stationName":"Emden Hbf","revised":false}
@@ -2825,7 +2826,6 @@
 {"id":"8000115:36","osmType":"way","osmId":"133154824","stationName":"Fulda","revised":false}
 {"id":"8000115:37","osmType":"way","osmId":"133154824","stationName":"Fulda","revised":false}
 {"id":"8000115:38","osmType":"way","osmId":"207111226","stationName":"Fulda","revised":false}
-{"id":"8000115:39","osmType":"way","osmId":"207111226","stationName":"Fulda","revised":false}
 {"id":"8003053:1","osmType":"way","osmId":"239039014","stationName":"Fuldatal-Ihringshausen","revised":false}
 {"id":"8003053:4","osmType":"way","osmId":"239039027","stationName":"Fuldatal-Ihringshausen","revised":false}
 {"id":"8010399:2","osmType":"way","osmId":"294743451","stationName":"Fürstenberg (Havel)","revised":false}
@@ -2835,7 +2835,7 @@
 {"id":"8002141:4","osmType":"relation","osmId":"3253649","stationName":"Fürstenfeldbruck","revised":false}
 {"id":"8002161:1","osmType":"way","osmId":"42221417","stationName":"Furth (b Deisenhofen)","revised":false}
 {"id":"8002161:2","osmType":"way","osmId":"42221416","stationName":"Furth (b Deisenhofen)","revised":false}
-{"id":"8000114:20","osmType":"way","osmId":"440743234","stationName":"Fürth (Bay) Hbf","revised":false}
+{"id":"8000114:20","osmType":"way","osmId":"113850010","stationName":"Fürth (Bay) Hbf","revised":false}
 {"id":"8000114:21","osmType":"way","osmId":"440743234","stationName":"Fürth (Bay) Hbf","revised":false}
 {"id":"8000114:2","osmType":"way","osmId":"440743235","stationName":"Fürth (Bay) Hbf","revised":false}
 {"id":"8000114:3","osmType":"way","osmId":"113850021","stationName":"Fürth (Bay) Hbf","revised":false}
@@ -2940,7 +2940,7 @@
 {"id":"8002238:50","osmType":"way","osmId":"141387965","stationName":"Gennweiler","revised":false}
 {"id":"8002238:40","osmType":"way","osmId":"141387964","stationName":"Gennweiler","revised":false}
 {"id":"8000121:1","osmType":"way","osmId":"289210560","stationName":"Gensingen-Horrweiler","revised":false}
-{"id":"8000121:2","osmType":"way","osmId":"528477895","stationName":"Gensingen-Horrweiler","revised":false}
+{"id":"8000121:2","osmType":"way","osmId":"528477894","stationName":"Gensingen-Horrweiler","revised":false}
 {"id":"8000121:4","osmType":"way","osmId":"528477895","stationName":"Gensingen-Horrweiler","revised":false}
 {"id":"8010123:1","osmType":"way","osmId":"122063377","stationName":"Genthin","revised":false}
 {"id":"8010123:3","osmType":"way","osmId":"122063378","stationName":"Genthin","revised":false}
@@ -3073,7 +3073,6 @@
 {"id":"8000127:5","osmType":"relation","osmId":"7336208","stationName":"Göppingen","revised":false}
 {"id":"8000127:6","osmType":"relation","osmId":"7336207","stationName":"Göppingen","revised":false}
 {"id":"8000127:7","osmType":"relation","osmId":"7336207","stationName":"Göppingen","revised":false}
-{"id":"8000127:13","osmType":"relation","osmId":"7336207","stationName":"Göppingen","revised":false}
 {"id":"8011654:1","osmType":"way","osmId":"314960508","stationName":"Görden","revised":false}
 {"id":"8011674:1","osmType":"way","osmId":"378453650","stationName":"Gorgast","revised":true}
 {"id":"8012869:1","osmType":"way","osmId":"130697571","stationName":"Görlitz-Rauschwalde","revised":false}
@@ -3356,9 +3355,9 @@
 {"id":"8000142:8","osmType":"relation","osmId":"4491628","stationName":"Hagen Hbf","revised":false}
 {"id":"8000142:9","osmType":"relation","osmId":"4491628","stationName":"Hagen Hbf","revised":false}
 {"id":"8000142:10","osmType":"relation","osmId":"4491628","stationName":"Hagen Hbf","revised":false}
-{"id":"8000142:13","osmType":"relation","osmId":"4469487","stationName":"Hagen Hbf","revised":false}
+{"id":"8000142:13","osmType":"way","osmId":"238233813","stationName":"Hagen Hbf","revised":false}
 {"id":"8000142:14","osmType":"relation","osmId":"4469487","stationName":"Hagen Hbf","revised":false}
-{"id":"8000142:15","osmType":"relation","osmId":"4469487","stationName":"Hagen Hbf","revised":false}
+{"id":"8000142:15","osmType":"way","osmId":"238233813","stationName":"Hagen Hbf","revised":false}
 {"id":"8000142:18","osmType":"relation","osmId":"4469487","stationName":"Hagen Hbf","revised":false}
 {"id":"8000142:11","osmType":"relation","osmId":"4469488","stationName":"Hagen Hbf","revised":false}
 {"id":"8000142:12","osmType":"relation","osmId":"4469488","stationName":"Hagen Hbf","revised":false}
@@ -3475,7 +3474,7 @@
 {"id":"8000148:5","osmType":"way","osmId":"130117491","stationName":"Hameln","revised":false}
 {"id":"8000148:6","osmType":"way","osmId":"130117492","stationName":"Hameln","revised":false}
 {"id":"8000148:7","osmType":"way","osmId":"130117492","stationName":"Hameln","revised":false}
-{"id":"8000149:12","osmType":"way","osmId":"227356758","stationName":"Hamm (Westf)","revised":false}
+{"id":"8000149:12","osmType":"way","osmId":"111316298","stationName":"Hamm (Westf)","revised":false}
 {"id":"8000149:13","osmType":"way","osmId":"227356758","stationName":"Hamm (Westf)","revised":false}
 {"id":"8000149:1","osmType":"way","osmId":"227356792","stationName":"Hamm (Westf)","revised":false}
 {"id":"8000149:2","osmType":"way","osmId":"113564890","stationName":"Hamm (Westf)","revised":false}
@@ -3808,9 +3807,9 @@
 {"id":"8002828:2","osmType":"way","osmId":"28499763","stationName":"Hilden Süd","revised":false}
 {"id":"8000169:1","osmType":"way","osmId":"58756953","stationName":"Hildesheim Hbf","revised":false}
 {"id":"8000169:2","osmType":"way","osmId":"44423418","stationName":"Hildesheim Hbf","revised":false}
-{"id":"8000169:14","osmType":"way","osmId":"44423418","stationName":"Hildesheim Hbf","revised":false}
+{"id":"8000169:14","osmType":"way","osmId":"44423419","stationName":"Hildesheim Hbf","revised":false}
 {"id":"8000169:3","osmType":"way","osmId":"44423421","stationName":"Hildesheim Hbf","revised":false}
-{"id":"8000169:15","osmType":"way","osmId":"44423421","stationName":"Hildesheim Hbf","revised":false}
+{"id":"8000169:15","osmType":"way","osmId":"58756954","stationName":"Hildesheim Hbf","revised":false}
 {"id":"8000169:4","osmType":"way","osmId":"44423430","stationName":"Hildesheim Hbf","revised":false}
 {"id":"8000169:5","osmType":"way","osmId":"44423430","stationName":"Hildesheim Hbf","revised":false}
 {"id":"8000169:6","osmType":"way","osmId":"44423427","stationName":"Hildesheim Hbf","revised":false}
@@ -4603,9 +4602,9 @@
 {"id":"8000213:1","osmType":"way","osmId":"32019335","stationName":"Kreiensen","revised":false}
 {"id":"8000213:2","osmType":"relation","osmId":"6120953","stationName":"Kreiensen","revised":false}
 {"id":"8000213:3","osmType":"relation","osmId":"6120953","stationName":"Kreiensen","revised":false}
-{"id":"8000213:51","osmType":"way","osmId":"32019360","stationName":"Kreiensen","revised":false}
-{"id":"8000213:72","osmType":"way","osmId":"32019360","stationName":"Kreiensen","revised":false}
-{"id":"8000213:52","osmType":"way","osmId":"32019360","stationName":"Kreiensen","revised":false}
+{"id":"8000213:51","osmType":"way","osmId":"32019339","stationName":"Kreiensen","revised":false}
+{"id":"8000213:72","osmType":"way","osmId":"32019339","stationName":"Kreiensen","revised":false}
+{"id":"8000213:52","osmType":"way","osmId":"32019342","stationName":"Kreiensen","revised":false}
 {"id":"8012096:1","osmType":"way","osmId":"164086602","stationName":"Kremmen","revised":false}
 {"id":"8012096:2","osmType":"way","osmId":"164086602","stationName":"Kremmen","revised":false}
 {"id":"8003430:1","osmType":"way","osmId":"120057877","stationName":"Krempe","revised":false}
@@ -5627,7 +5626,7 @@
 {"id":"8000261:24","osmType":"way","osmId":"39688749","stationName":"München Hbf","revised":false}
 {"id":"8000261:25","osmType":"way","osmId":"39688749","stationName":"München Hbf","revised":false}
 {"id":"8000261:26","osmType":"way","osmId":"39688747","stationName":"München Hbf","revised":false}
-{"id":"8000261:27","osmType":"way","osmId":"39688747","stationName":"München Hbf","revised":false}
+{"id":"8000261:27","osmType":"way","osmId":"239209522","stationName":"München Hbf","revised":false}
 {"id":"8000261:29","osmType":"way","osmId":"239209523","stationName":"München Hbf","revised":false}
 {"id":"8000261:30","osmType":"way","osmId":"239209523","stationName":"München Hbf","revised":false}
 {"id":"8000261:5","osmType":"way","osmId":"137659778","stationName":"München Hbf","revised":true}
@@ -5932,11 +5931,11 @@
 {"id":"8004313:2","osmType":"way","osmId":"333859860","stationName":"Neunkirchen (Kr Siegen)","revised":false}
 {"id":"8004313:1","osmType":"way","osmId":"333859858","stationName":"Neunkirchen (Kr Siegen)","revised":false}
 {"id":"8000272:1","osmType":"way","osmId":"498543185","stationName":"Neunkirchen (Saar) Hbf","revised":false}
-{"id":"8000272:2","osmType":"way","osmId":"117547056","stationName":"Neunkirchen (Saar) Hbf","revised":false}
+{"id":"8000272:2","osmType":"way","osmId":"498543188","stationName":"Neunkirchen (Saar) Hbf","revised":false}
 {"id":"8000272:3","osmType":"way","osmId":"117547056","stationName":"Neunkirchen (Saar) Hbf","revised":false}
 {"id":"8000272:25","osmType":"way","osmId":"498543186","stationName":"Neunkirchen (Saar) Hbf","revised":false}
 {"id":"8000272:26","osmType":"way","osmId":"117547124","stationName":"Neunkirchen (Saar) Hbf","revised":false}
-{"id":"8000272:27","osmType":"way","osmId":"117547124","stationName":"Neunkirchen (Saar) Hbf","revised":false}
+{"id":"8000272:27","osmType":"way","osmId":"498543187","stationName":"Neunkirchen (Saar) Hbf","revised":false}
 {"id":"8004312:2","osmType":"way","osmId":"518133439","stationName":"Neunkirchen (Saar)-Wellesweiler","revised":false}
 {"id":"8004312:1","osmType":"way","osmId":"518133438","stationName":"Neunkirchen (Saar)-Wellesweiler","revised":false}
 {"id":"8010175:1","osmType":"way","osmId":"232731440","stationName":"Neuruppin Rheinsberger Tor","revised":false}
@@ -7974,7 +7973,7 @@
 {"id":"8089043:3","osmType":"relation","osmId":"5705374","stationName":"Treptower Park","revised":false}
 {"id":"8089043:2","osmType":"relation","osmId":"5705373","stationName":"Treptower Park","revised":false}
 {"id":"8089043:4","osmType":"relation","osmId":"5705373","stationName":"Treptower Park","revised":false}
-{"id":"8000122:1","osmType":"relation","osmId":"6600567","stationName":"Treuchtlingen","revised":false}
+{"id":"8000122:1","osmType":"relation","osmId":"6600564","stationName":"Treuchtlingen","revised":false}
 {"id":"8000122:4","osmType":"relation","osmId":"6600566","stationName":"Treuchtlingen","revised":false}
 {"id":"8000122:5","osmType":"relation","osmId":"6600566","stationName":"Treuchtlingen","revised":false}
 {"id":"8000122:6","osmType":"relation","osmId":"6600567","stationName":"Treuchtlingen","revised":false}
@@ -8000,7 +7999,6 @@
 {"id":"8000141:13","osmType":"way","osmId":"27789104","stationName":"Tübingen Hbf","revised":false}
 {"id":"8000141:5","osmType":"relation","osmId":"4744594","stationName":"Tübingen Hbf","revised":false}
 {"id":"8000141:6","osmType":"relation","osmId":"4744594","stationName":"Tübingen Hbf","revised":false}
-{"id":"8000141:11","osmType":"relation","osmId":"4744594","stationName":"Tübingen Hbf","revised":false}
 {"id":"8000141:2","osmType":"way","osmId":"76218639","stationName":"Tübingen Hbf","revised":false}
 {"id":"8000141:12","osmType":"way","osmId":"76218639","stationName":"Tübingen Hbf","revised":false}
 {"id":"8005918:1","osmType":"way","osmId":"151440384","stationName":"Tübingen-Lustnau","revised":false}
@@ -8064,7 +8062,7 @@
 {"id":"8005970:2","osmType":"relation","osmId":"7087582","stationName":"Unkel","revised":false}
 {"id":"8005970:3","osmType":"relation","osmId":"7087582","stationName":"Unkel","revised":false}
 {"id":"8000171:2","osmType":"way","osmId":"27620932","stationName":"Unna","revised":false}
-{"id":"8000171:4","osmType":"way","osmId":"27620932","stationName":"Unna","revised":false}
+{"id":"8000171:4","osmType":"way","osmId":"228240201","stationName":"Unna","revised":false}
 {"id":"8000171:1","osmType":"way","osmId":"228240200","stationName":"Unna","revised":false}
 {"id":"8000171:18","osmType":"way","osmId":"137243245","stationName":"Unna","revised":false}
 {"id":"8005971:1","osmType":"way","osmId":"27032769","stationName":"Unna-Königsborn","revised":false}
