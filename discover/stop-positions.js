@@ -21,8 +21,8 @@ const getOsm = async (stationId, location) => {
 	`, { retryOpts: { retries: 3, minTimeout: 20000 }, endpoint: 'http://overpass.juliustens.eu/api/interpreter' })
 	return osmResult
 		.map(entry => {
-			const refs = (get(entry, 'tags.ref') || '').split(';').map(x => x.trim()).filter(Boolean)
-			const localRefs = (get(entry, 'tags.local_ref') || '').split(';').map(x => x.trim()).filter(Boolean)
+			const refs = (get(entry, 'tags.ref') || '').split(/[,;/+]/).map(x => x.trim()).filter(Boolean)
+			const localRefs = (get(entry, 'tags.local_ref') || '').split(/[,;/+]/).map(x => x.trim()).filter(Boolean)
 			const combinedRefs = uniq([...refs, ...localRefs])
 			if (combinedRefs.length > 0) return { id: String(entry.id), type: entry.type, refs: combinedRefs }
 			return null
@@ -32,7 +32,7 @@ const getOsm = async (stationId, location) => {
 }
 
 const find = async () => {
-	const unknown = platforms.filter(x => !x.osmStopPosition).filter(x => x.station === '8010159')
+	const unknown = platforms.filter(x => !x.osmStopPosition)
 	console.error(`trying to match ${unknown.length} of total ${platforms.length}`)
 
 	for (const platform of unknown) {
