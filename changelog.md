@@ -1,5 +1,9 @@
 # Changelog
 
+## `0.1.5`
+
+- Update to latest [stations](https://github.com/derhuerst/db-stations) and [platforms](http://download-data.deutschebahn.com/static/datasets/bahnsteig/DBSuS-Bahnsteigdaten-Stand2020-03.csv) datasets
+
 ## `0.1.4`
 
 - Add stations in Leipzig
