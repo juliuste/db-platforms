@@ -29,7 +29,7 @@ const mergeOsmDataWithStatic = (osmPlatformData, osmStopPositionData, obsoleteDa
 			if (!['node', 'way', 'relation'].includes(osmType) || !osmId) throw new Error(`invalid entry "${JSON.stringify(matchingPlatform)}"`)
 			track.osmPlatform = {
 				type: osmType,
-				id: osmId
+				id: osmId,
 			}
 		}
 
@@ -39,7 +39,7 @@ const mergeOsmDataWithStatic = (osmPlatformData, osmStopPositionData, obsoleteDa
 			track.osmStopPosition = {
 				type: osmType,
 				id: osmId,
-				notUnique
+				notUnique,
 			}
 		}
 

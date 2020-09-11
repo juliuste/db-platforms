@@ -57,7 +57,7 @@ const find = async () => {
 			osmType: match.type,
 			osmId: match.id,
 			stationName,
-			revised: false
+			revised: false,
 		}) + '\n')
 	}
 }

@@ -11,7 +11,7 @@ const pkg = require('../../package.json')
 const { queryStation, parseStation, queryOsmCategory, queryElementId, queryOsmType, queryOsmId, verifyOsmId, queryObsolete } = require('./lib')
 
 const argv = mri(process.argv.slice(2), {
-	boolean: ['help', 'h', 'version', 'v']
+	boolean: ['help', 'h', 'version', 'v'],
 })
 
 const opt = {
@@ -19,7 +19,7 @@ const opt = {
 	help: argv.help || argv.h,
 	version: argv.version || argv.v,
 	open: argv['auto-open'] || argv.o,
-	unknownOnly: argv['unknown-only'] || argv.u
+	unknownOnly: argv['unknown-only'] || argv.u,
 }
 
 if (opt.help === true) {
@@ -64,7 +64,7 @@ const main = async (opt) => {
 	// query track number
 	const options = selectableTracks.map(track => ({
 		value: track.id,
-		title: track.name
+		title: track.name,
 	}))
 	const elementId = await queryElementId('Which track?', options)
 	const selected = selectableTracks.find(t => t.id === elementId)
@@ -95,7 +95,7 @@ const main = async (opt) => {
 			osmType,
 			osmId,
 			stationName,
-			revised: true
+			revised: true,
 		}
 		file = resolve(opt.dataDirectory, osmCategory === 'platform' ? './osm-platforms.ndjson' : './osm-stop-positions.ndjson')
 	} else {

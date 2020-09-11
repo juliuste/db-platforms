@@ -23,7 +23,7 @@ const download = async () => {
 			const columns = oldColumns.map(transformColumnName)
 			if (columns.filter(c => !!c).length !== 6) throw new Error('unexpected column count in the original dataset')
 			return columns
-		}
+		},
 	})
 	const downloadStream = got.stream(resource, { method: 'GET' })
 	const data = await streamToPromise(downloadStream.pipe(parserStream))

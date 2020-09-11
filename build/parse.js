@@ -14,11 +14,11 @@ const knownMissingStationNumbers = [
 	'7177', // Bürstadt
 	'8298',
 	'7813',
-	'6245'
+	'6245',
 ]
 
 const brokenPlatformIds = [
-	'8005163:2' // exists twice in the original dataset, with different perrons
+	'8005163:2', // exists twice in the original dataset, with different perrons
 ]
 
 // replace stationNumber with station
@@ -27,7 +27,7 @@ const improveStationMetadata = oldEntry => {
 	if (matchingStations.length !== 1) throw new Error(`unknown station with stationNumber "${oldEntry.stationNumber}" in the original dataset`)
 	return {
 		station: matchingStations[0].id,
-		...omit(oldEntry, ['stationNumber'])
+		...omit(oldEntry, ['stationNumber']),
 	}
 }
 
@@ -42,7 +42,7 @@ const createPerron = list => {
 		name: perron,
 		station,
 		length: parseNumber(length, germanNumberSymbols),
-		height: parseNumber(height, germanNumberSymbols)
+		height: parseNumber(height, germanNumberSymbols),
 	}
 }
 
@@ -67,7 +67,7 @@ const createTrack = perrons => rawTrack => {
 		name: parsedName,
 		longName,
 		station,
-		perron
+		perron,
 	}
 }
 

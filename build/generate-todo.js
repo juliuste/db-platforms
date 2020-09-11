@@ -33,7 +33,7 @@ const incompleteStations = incompleteStationIds.map(id => {
 		id,
 		name: station.name || undefined,
 		category: station.category || '7',
-		land: get(get(land, 'properties') || get(land, 'features[0].properties'), 'GEN')
+		land: get(get(land, 'properties') || get(land, 'features[0].properties'), 'GEN'),
 	}
 })
 

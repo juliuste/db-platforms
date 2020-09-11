@@ -72,7 +72,7 @@ tape('upstream osm', async t => {
 					.filter(Boolean)
 					.filter(r => !!r.replace(/[^\d]/g, ''))
 					.map(r => r.replace(/^Gleis/gi, '').trim())
-					.filter(Boolean)
+					.filter(Boolean),
 			)
 			if (element.datasetType === 'osmStopPosition') {
 				if (refs.length > 0 && !refs.includes(element.trackName)) console.error(`WARNING: possible osm stop_position mismatch in track for ${element.type} ${element.id}:`, element.trackName, refs)

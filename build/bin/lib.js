@@ -13,9 +13,9 @@ const findStations = async query => {
 	const { body } = await got.get('https://2.db.transport.rest/stations', {
 		query: {
 			results: 100,
-			query
+			query,
 		},
-		json: true
+		json: true,
 	})
 	return body
 }
@@ -54,13 +54,13 @@ const queryOsmCategory = (msg, { stopPosition, platform }) => new Promise((resol
 	if (stopPosition) {
 		options.push({
 			value: 'stopPosition',
-			title: 'Stop position'
+			title: 'Stop position',
 		})
 	}
 	if (platform) {
 		options.push({
 			value: 'platform',
-			title: 'Platform'
+			title: 'Platform',
 		})
 	}
 	selectPrompt(msg, options)
@@ -80,12 +80,12 @@ const queryOsmType = (msg) => new Promise((resolve, reject) => {
 	selectPrompt(msg, [
 		{
 			value: 'way',
-			title: 'Way'
+			title: 'Way',
 		},
 		{
 			value: 'relation',
-			title: 'Relation (MultiPolygon)'
-		}
+			title: 'Relation (MultiPolygon)',
+		},
 	])
 		.on('abort', (v) => reject(new Error(`Rejected with ${v}.`)))
 		.on('submit', resolve)
@@ -98,7 +98,7 @@ const verifyOsmId = (x) => {
 const queryOsmId = (msg) => new Promise((resolve, reject) =>
 	textPrompt(msg)
 		.on('submit', resolve)
-		.on('abort', (v) => reject(new Error(`Rejected with ${v}.`)))
+		.on('abort', (v) => reject(new Error(`Rejected with ${v}.`))),
 )
 
 // broken or obsolete
@@ -106,12 +106,12 @@ const queryObsolete = (msg) => new Promise((resolve, reject) => {
 	const options = [
 		{
 			value: false,
-			title: 'No'
+			title: 'No',
 		},
 		{
 			value: true,
-			title: 'Yes'
-		}
+			title: 'Yes',
+		},
 	]
 	selectPrompt(msg, options)
 		.on('abort', (v) => reject(new Error(`Rejected with ${v}.`)))
@@ -126,5 +126,5 @@ module.exports = {
 	queryOsmType,
 	queryOsmId,
 	verifyOsmId,
-	queryObsolete
+	queryObsolete,
 }
