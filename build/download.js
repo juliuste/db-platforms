@@ -25,7 +25,7 @@ const download = async () => {
 			return columns
 		}
 	})
-	const downloadStream = got.get(resource, { stream: true })
+	const downloadStream = got.stream(resource, { method: 'GET' })
 	const data = await streamToPromise(downloadStream.pipe(parserStream))
 	return data
 }
