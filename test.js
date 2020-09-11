@@ -51,7 +51,7 @@ tape('base', t => {
 	t.end()
 })
 
-tape('upstream osm', async t => {
+tape.skip('upstream osm', async t => {
 	// @todo distance to matching perron/track (if available)
 	const osmElements = flatMap(tracks, track => {
 		return ['osmPlatform', 'osmStopPosition']
