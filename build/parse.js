@@ -9,15 +9,18 @@ const germanNumberSymbols = require('cldr').extractNumberSymbols('de_DE')
 
 // @todo fix this somehow
 const knownMissingStationNumbers = [
-	'2516', // Hamburg Sternschanze
 	'558', // Berlin Schöneberg
 	'7177', // Bürstadt
-	'8298',
-	'7813',
 	'6245',
+	'1950',
+	'1376',
+	'7790',
 ]
 
 const brokenPlatformIds = [
+	'8003059:41', // exists twice in the original dataset, with different perrons
+	'8003483:1', // exists twice in the original dataset, with different perrons
+	'8005030:1', // exists twice in the original dataset, with different perrons
 	'8005163:2', // exists twice in the original dataset, with different perrons
 ]
 

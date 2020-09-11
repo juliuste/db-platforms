@@ -3,6 +3,7 @@
 const got = require('got')
 const parseCsv = require('csv-parse')
 const streamToPromise = require('get-stream').array
+const streamReplace = require('stream-replace')
 
 const transformColumnName = column => {
 	if (!column) return undefined
@@ -10,13 +11,13 @@ const transformColumnName = column => {
 	if (column === 'Bahnsteig') return 'perron'
 	if (column === 'Gleisnummer') return 'track'
 	if (column === 'örtliche Bezeichnung') return 'trackName'
-	if (column === 'Nettobaulänge(m)') return 'perronLength'
+	if (column === 'Netto-baulänge (m)') return 'perronLength'
 	if (column === 'Höhe Bahnsteigkante (cm)') return 'perronHeight'
 	throw new Error(`unexpected column '${column}' in the original dataset`)
 }
 
 const download = async () => {
-	const resource = 'http://download-data.deutschebahn.com/static/datasets/bahnsteig/DBSuS-Bahnsteigdaten-Stand2019-03.csv'
+	const resource = 'http://download-data.deutschebahn.com/static/datasets/bahnsteig/DBSuS-Bahnsteigdaten-Stand2020-03.csv'
 	const parserStream = parseCsv({
 		delimiter: ';',
 		columns: (oldColumns) => {
@@ -26,7 +27,11 @@ const download = async () => {
 		},
 	})
 	const downloadStream = got.stream(resource, { method: 'GET' })
-	const data = await streamToPromise(downloadStream.pipe(parserStream))
+	const data = await streamToPromise(
+		downloadStream
+			.pipe(streamReplace(/"/g, '')) // remove some weird quote, @todo remove once the original file was fixed
+			.pipe(parserStream),
+	)
 	return data
 }
 
